@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-03T21:23:48.057183+00:00",
+  "generated": "2026-09-03T21:36:05.336161+00:00",
   "artists_watched": 50,
   "events_swept": 607,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 70,
-  "other_count": 537,
+  "big_count": 71,
+  "other_count": 536,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -1592,6 +1592,40 @@
       "id": "vvG1iZ_owcx4Jh|Presale|Artist Presale|2026-09-09T17:00:00+00:00"
     },
     {
+      "artist": "Slim Thug",
+      "bucket": "big",
+      "event": "KING OF CARS CUSTOM CAR SHOW & CULTURE FEST",
+      "event_id": "G5dIZ_35I4rvI",
+      "event_date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/king-of-cars-custom-car-show-houston-texas-11-22-2026/event/3A006522E855E068",
+      "venue": "Reliant Arena",
+      "city": "Houston",
+      "state": "TX",
+      "label": "Reliant Arena, Houston, TX",
+      "kind": "Presale",
+      "presale_name": "Promoter Presale",
+      "starts": "2026-09-09T17:00:00+00:00",
+      "ends": "2026-09-10T16:00:00Z",
+      "id": "G5dIZ_35I4rvI|Presale|Promoter Presale|2026-09-09T17:00:00+00:00"
+    },
+    {
+      "artist": "Slim Thug",
+      "bucket": "big",
+      "event": "KING OF CARS CUSTOM CAR SHOW & CULTURE FEST",
+      "event_id": "G5dIZ_35I4rvI",
+      "event_date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/king-of-cars-custom-car-show-houston-texas-11-22-2026/event/3A006522E855E068",
+      "venue": "Reliant Arena",
+      "city": "Houston",
+      "state": "TX",
+      "label": "Reliant Arena, Houston, TX",
+      "kind": "Presale",
+      "presale_name": "Venue Presale",
+      "starts": "2026-09-09T17:00:00+00:00",
+      "ends": "2026-09-10T16:00:00Z",
+      "id": "G5dIZ_35I4rvI|Presale|Venue Presale|2026-09-09T17:00:00+00:00"
+    },
+    {
       "artist": "MILEY",
       "bucket": "big",
       "event": "Miley: Bass Persuades - Live at the Hollywood Bowl",
@@ -2117,6 +2151,23 @@
       "starts": "2026-09-10T17:00:00+00:00",
       "ends": "2026-10-19T04:30:00Z",
       "id": "vvG1iZ_owcx4Jh|Public onsale||2026-09-10T17:00:00+00:00"
+    },
+    {
+      "artist": "Slim Thug",
+      "bucket": "big",
+      "event": "KING OF CARS CUSTOM CAR SHOW & CULTURE FEST",
+      "event_id": "G5dIZ_35I4rvI",
+      "event_date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/king-of-cars-custom-car-show-houston-texas-11-22-2026/event/3A006522E855E068",
+      "venue": "Reliant Arena",
+      "city": "Houston",
+      "state": "TX",
+      "label": "Reliant Arena, Houston, TX",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-10T17:00:00+00:00",
+      "ends": "2026-11-22T20:00:00Z",
+      "id": "G5dIZ_35I4rvI|Public onsale||2026-09-10T17:00:00+00:00"
     },
     {
       "artist": "Billy Strings",
