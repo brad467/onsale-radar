@@ -60,15 +60,21 @@ SWEEP = [
     # not watched, big by venue keyword
     ev("E4", "Some Huge Act", "A_X", "Some Huge Act", "MetLife Stadium",
        "East Rutherford", "NJ", pub=iso(days=2)),
-    # not watched, big by presale stack
+    # not watched, big by Verified Fan presale even at a club-sized venue
     ev("E5", "Mystery Tour", "A_Y", "Mystery Tour", "The Fillmore",
        "Philadelphia", "PA", pub=iso(days=5),
-       presales=[{"name": "Verified Fan", "startDateTime": iso(days=4)},
-                 {"name": "Artist Presale", "startDateTime": iso(days=4, hours=2)},
-                 {"name": "Amex Presale", "startDateTime": iso(days=4, hours=4)}]),
+       presales=[{"name": "Verified Fan Onsale", "startDateTime": iso(days=4)},
+                 {"name": "VIP Package Onsale", "startDateTime": iso(days=4, hours=2)}]),
     # not watched, big by price
     ev("E6", "Pricey Gig", "A_Z", "Pricey Gig", "Beacon Theatre", "New York",
        "NY", pub=iso(days=6), prices=[{"max": 420.0}]),
+    # the false positive that broke the first live run: a 575-cap club with
+    # routine Artist/VIP presales must NOT read as big
+    ev("E11", "Lexi Jayde", "A_LJ", "Lexi Jayde", "Bowery Ballroom",
+       "New York", "NY", pub=iso(days=9), prices=[{"max": 45.0}],
+       presales=[{"name": "Artist Presale", "startDateTime": iso(days=8)},
+                 {"name": "VIP Package Onsale", "startDateTime": iso(days=8, hours=1)},
+                 {"name": "Venue Presale", "startDateTime": iso(days=8, hours=2)}]),
     # small local show -> counted, never alerted
     ev("E7", "Open Mic Night", "A_W", "Local Band", "The Basement",
        "Johnson City", "TN", pub=iso(days=1), prices=[{"max": 12.0}]),
@@ -140,15 +146,48 @@ def run():
           not any(w["presale_name"] == "Expired" for w in p1["windows"]))
     check("startTBD onsale dropped", "E3" not in buckets)
     check("big by venue keyword", buckets.get("E4") == "big")
-    check("big by presale stack", buckets.get("E5") == "big")
+    check("big by Verified Fan presale", buckets.get("E5") == "big")
     check("big by ticket price", buckets.get("E6") == "big")
+    check("club with routine Artist/VIP presales is NOT big",
+          buckets.get("E11") != "big")
     check("small local show not listed", "E7" not in buckets)
-    check("small local shows still counted", p1["other_count"] == 2)
+    check("small local shows still counted", p1["other_count"] == 3)
     check("beyond-horizon dropped", "E8" not in buckets)
     check("windows sorted ascending",
           [w["starts"] for w in p1["windows"]] == sorted(w["starts"] for w in p1["windows"]))
-    check("run 1 alerts on everything new", p1["new_count"] == len(p1["windows"]))
-    check("alerts.md flags off-watchlist entries", "(not on your list)" in a1)
+    check("first run is a silent baseline", p1["baseline_run"] is True
+          and p1["new_count"] == 0 and a1.strip() == "")
+
+    print("\n--- run 1b (a genuinely new announcement) ---")
+    SWEEP.append(
+        ev("E12", "Coldplay: extra night", "A_COLD", "Coldplay",
+           "Soldier Field", "Chicago", "IL", pub=iso(days=10),
+           presales=[{"name": "VIP Package Onsale", "startDateTime": iso(days=9)},
+                     {"name": "Verified Fan", "startDateTime": iso(days=9, hours=1)}]))
+    SWEEP.append(
+        ev("E13", "Nobody Famous", "A_NF", "Nobody Famous", "Levi's Stadium",
+           "Santa Clara", "CA", pub=iso(days=11),
+           presales=[{"name": "VIP Package Onsale", "startDateTime": iso(days=10)}]))
+    radar.main()
+    p1b = json.load(open(os.path.join(tmp, "docs", "onsales.json")))
+    a1b = open(os.path.join(tmp, "alerts.md")).read()
+    newids = {w["event_id"] for w in p1b["windows"]}
+    check("baseline not repeated on second run", p1b["baseline_run"] is False)
+    check("new watchlist announcement alerts", "Coldplay: extra night" in a1b)
+    check("watchlist VIP presale still alerts (it's on the list)",
+          a1b.count("Coldplay: extra night") >= 2)
+    check("off-list stadium public onsale alerts", "Nobody Famous" in a1b)
+    # Coldplay is on the list so ITS VIP presale is fair game; the off-list
+    # act's VIP presale is the one that must stay quiet.
+    nf_lines = [l for l in a1b.split("\n") if "Nobody Famous" in l]
+    check("off-list VIP package presale does NOT alert",
+          any("Public onsale" in l for l in nf_lines)
+          and not any("VIP Package" in l for l in nf_lines))
+    check("off-list entries flagged", "(not on your list)" in a1b)
+    check("previously-seen windows do not re-alert",
+          "Some Huge Act" not in a1b and "Mystery Tour" not in a1b)
+    check("run 1b fires the <24h reminder", p1b["soon_count"] >= 1
+          and "Opening within" in a1b)
 
     print("\n--- run 2 (nothing changed) ---")
     calls = []
@@ -160,10 +199,8 @@ def run():
     a2 = open(os.path.join(tmp, "alerts.md")).read()
     check("run 2 reuses cached IDs (no attraction lookups)", "attractions" not in calls)
     check("run 2 reports nothing new", p2["new_count"] == 0)
-    check("run 2 fires the <24h reminder",
-          p2["soon_count"] == len([w for w in p2["windows"]
-                                   if radar.parse_dt(w["starts"]) <= NOW + timedelta(hours=24)]))
-    check("run 2 alerts.md is reminder-only", "Newly announced" not in a2 and "within" in a2)
+    check("a reminder never fires twice", p2["soon_count"] == 0)
+    check("run 2 alerts.md is empty", a2.strip() == "")
 
     print("\n--- run 3 (idempotent) ---")
     radar.main()

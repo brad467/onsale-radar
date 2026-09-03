@@ -37,12 +37,42 @@ is then bucketed:
 
 | Bucket | What it is | Alerted? |
 |---|---|---|
-| **watched** | one of your watchlist acts | always |
-| **big** | arena/stadium venue, or a 3+ presale stack, or $150+ top ticket — the signature of a major tour onsale | yes, flagged as off-list |
+| **watched** | one of your watchlist acts | always, every window |
+| **big** | arena/stadium venue, a Verified Fan presale, or a $250+ top ticket | public onsale and major presales only |
 | **other** | small local shows | no, just counted |
 
-The **big** bucket is the important one: it catches a tour announcement from
-an act you never thought to add to the list, in the hour it goes up.
+The **big** bucket is the point: it catches a tour announcement from an act you
+never thought to add to the list, in the hour it goes up.
+
+### Why "big" is defined the way it is
+
+The first live sweep returned 495 events. A looser first definition — counting
+3+ presales, or a $150 top ticket — flagged **137** of them, including Bowery
+Ballroom (575 capacity) and Mercury Lounge (250). The reason is that "Artist
+Presale" appeared on 35 of those events and card presales on 36; they're
+routine at club level and carry no signal at all.
+
+So the rules were tightened against that real data:
+
+- **Venue name** is the honest signal. The regex deliberately excludes
+  "Center", "Theatre", "Ballroom", "Hall" and "Auditorium" — matching those
+  buries the real finds. It costs some genuine arenas that don't say "Arena"
+  (Heritage Bank Center, Echostage). That trade is intentional: this bucket
+  sends unsolicited alerts about acts you never asked to watch, so precision
+  beats recall. Anything you actually care about goes on the watchlist, which
+  is matched exactly.
+- **Verified Fan** is kept because it's Ticketmaster's high-demand mechanism
+  and effectively only appears on major tours.
+- Generic presale counting is gone.
+
+### The first run is silent
+
+A cold start would otherwise fire several hundred notifications for onsales
+that mostly went up weeks ago. Instead the first run records the current
+picture as a baseline and sends nothing. From the second run on, "new" means
+genuinely newly announced. Alerts are also capped at 30 items per section,
+with a "+N more" pointer to the dashboard — GitHub rejects issue bodies over
+64KB, which is exactly how the first live attempt failed.
 
 Artist matching is by Ticketmaster attraction ID first, then by exact
 normalized name, then by event title. Tribute bands don't match their
@@ -66,8 +96,8 @@ headliners — "Coldplay Tribute" is not Coldplay.
    alphanumeric string is your API key. (Ignore the Consumer Secret; the
    Discovery API doesn't use it.)
 
-Limits on the free tier: 5,000 calls/day, 5/second. This uses roughly 150 per
-run, ~1,200/day. Plenty of headroom.
+Limits on the free tier: 5,000 calls/day, 5/second. This uses about 10 calls
+per run (~80/day), plus one 50-call artist re-resolve a week. Plenty of room.
 
 ### 2. Create the repo
 
@@ -112,9 +142,10 @@ The URL appears on that page. It'll 404 until the first run finishes.
 
 **Actions → Onsale Radar → Run workflow**.
 
-First run resolves all 50 artists to Ticketmaster IDs and reports every
-upcoming window as new — expect one big alert issue. After that it only tells
-you about genuinely new things.
+The first run resolves all 50 artists to Ticketmaster IDs, sweeps the current
+onsales, and **sends nothing** — it records what's already pending as a
+baseline. From the second run on, an alert means something was genuinely just
+announced.
 
 Check the run log for lines marked `<-- fuzzy, verify`. Those are artists where
 the name didn't match cleanly and it fell back to Ticketmaster's best guess.
@@ -155,10 +186,14 @@ coverage on day-of reminders.
 **Region** — `COUNTRY = "US"` in `radar.py`. Currently nationwide. To narrow it,
 add `"stateCode": "TN"` (or `"dmaId"`) to the params in `sweep_onsales()`.
 
-**What counts as "big"** — `BIG_VENUE`, `BIG_PRESALE_COUNT` and `BIG_PRICE` at
-the top of `radar.py`. The venue regex deliberately excludes "Center" and
-"Theatre" because hundreds of 200-seat rooms use those words. If you're getting
-too much noise, raise `BIG_PRICE`; too little, lower it.
+**What counts as "big"** — `BIG_VENUE`, `VERIFIED_FAN`, `BIG_PRICE` and
+`NOTABLE_PRESALE` at the top of `radar.py`; see *Why "big" is defined the way
+it is* above. Too much noise: raise `BIG_PRICE` or trim `BIG_VENUE`. Too
+little: add venue words or loosen `NOTABLE_PRESALE`. `MAX_ALERT_ITEMS` caps how
+many land in a single alert.
+
+**Starting over** — delete `state/seen.json` and the next run treats itself as
+a fresh baseline (silent), then alerts normally after that.
 
 ## Testing changes
 

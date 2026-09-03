@@ -67,13 +67,34 @@ COUNTRY = "US"
 PAGE_SIZE = 200          # API max; deep paging capped at size*page < 1000
 MAX_PAGES = 5
 
-# Venue words that reliably mean "big room". Deliberately excludes "Center"
-# and "Theatre", which match hundreds of small venues.
+# What counts as "big" - tuned against a real 495-event sweep, where a naive
+# version flagged 137 events including 200-capacity clubs.
+#
+# Venue name is the honest signal. Deliberately excludes "Center", "Theatre",
+# "Ballroom", "Hall" and "Auditorium": Bowery Ballroom, Mercury Lounge and
+# Lexington Opera House are small rooms, and matching them buries the real
+# finds. Some genuine arenas are missed as a result (Heritage Bank Center,
+# Echostage) - that trade is deliberate. This bucket is unsolicited alerts
+# about acts you never asked to watch, so precision beats recall; anything
+# you actually care about belongs on the watchlist, which is matched exactly.
 BIG_VENUE = re.compile(
     r"\b(stadium|arena|amphitheat\w*|coliseum|colosseum|dome|sphere|"
-    r"ballpark|speedway|racetrack|bowl|field|fairgrounds)\b", re.I)
-BIG_PRESALE_COUNT = 3    # Verified Fan + artist + card presales = major tour
-BIG_PRICE = 150.0        # top-end ticket price suggesting an arena show
+    r"ballpark|speedway|bowl|field)\b|madison square garden", re.I)
+
+# Ticketmaster's high-demand mechanism. Effectively only appears on major
+# tours, unlike "Artist Presale" (35 of 137) or card presales (36 of 137),
+# which are routine at club level.
+VERIFIED_FAN = re.compile(r"verified fan", re.I)
+
+BIG_PRICE = 250.0        # top-end ticket price suggesting an arena show
+
+# Presale types worth waking someone up for on an act they don't follow.
+# Skips "VIP Package Onsale", "Venue Presale", "Radio Presale" and friends.
+NOTABLE_PRESALE = re.compile(
+    r"verified fan|american express|amex|citi|chase|capital one|"
+    r"spotify|fan club", re.I)
+
+MAX_ALERT_ITEMS = 30     # GitHub caps issue bodies at 64KB; stay well under
 
 
 # ---------------------------------------------------------------- API
@@ -222,10 +243,22 @@ def classify(ev, watch_ids, watch_names):
     prices = ev.get("priceRanges") or []
     top = max((p.get("max") or 0) for p in prices) if prices else 0
     big = (BIG_VENUE.search(label)
-           or len(presales) >= BIG_PRESALE_COUNT
+           or any(VERIFIED_FAN.search(p.get("name") or "") for p in presales)
            or top >= BIG_PRICE)
     who = (artists_of(ev) or [ev.get("name", "")])[0]
     return ("big" if big else "other"), who
+
+
+def alertable(w):
+    """Should this window interrupt someone?
+
+    Everything on the watchlist does - that's the whole point of the list.
+    For an act they never asked about, only the public onsale and the presales
+    that actually gate a major tour; a "VIP Package Onsale" is not news.
+    """
+    if w["bucket"] == "watched":
+        return True
+    return w["kind"] == "Public onsale" or bool(NOTABLE_PRESALE.search(w["presale_name"]))
 
 
 def extract_windows(ev, artist, bucket, now, horizon):
@@ -368,16 +401,23 @@ onsale times; it does not buy, queue, or hold tickets.
 def build_alerts_md(new, soon):
     if not new and not soon:
         return ""
+
     def block(title, items):
+        # Watchlist first - those are the ones actually asked for.
+        items = sorted(items, key=lambda x: (x["bucket"] != "watched", x["starts"]))
+        shown, extra = items[:MAX_ALERT_ITEMS], max(0, len(items) - MAX_ALERT_ITEMS)
         out = [f"### {title}\n"]
-        for x in items:
+        for x in shown:
             tag = x["presale_name"] or x["kind"]
             star = "" if x["bucket"] == "watched" else " _(not on your list)_"
             out.append(f"- **{fmt_when(x['starts'])}** — {x['artist']}{star} · {tag}  \n"
                        f"  {x['event']} · {x['label']} · show {x['event_date']}  \n"
                        f"  {x['url']}")
+        if extra:
+            out.append(f"\n_+{extra} more — see the dashboard._")
         out.append("")
         return out
+
     out = []
     if new:
         out += block("Newly announced", new)
@@ -454,13 +494,24 @@ def main():
     print(f"  watched={counts['watched']} big={counts['big']} other={counts['other']}"
           f" -> {len(windows)} buy windows")
 
-    seen = load_json(SEEN, {"alerted": {}, "reminded": {}})
+    seen = load_json(SEEN, None)
+    baseline = seen is None          # first ever run
+    seen = seen or {"alerted": {}, "reminded": {}}
     alerted, reminded = seen.get("alerted", {}), seen.get("reminded", {})
 
     soon_cut = now + timedelta(hours=args.soon_hours)
-    new = [x for x in windows if x["id"] not in alerted]
-    soon = [x for x in windows if x["id"] in alerted and x["id"] not in reminded
-            and parse_dt(x["starts"]) <= soon_cut]
+    if baseline:
+        # Everything pending nationwide is "new" on a cold start. Alerting on
+        # all of it would be several hundred notifications that are mostly
+        # already-known onsales. Record them silently instead; from the next
+        # run on, "new" means genuinely newly announced.
+        new, soon = [], []
+        print("  first run - recording the current picture as the baseline, "
+              "no alerts sent")
+    else:
+        new = [x for x in windows if x["id"] not in alerted and alertable(x)]
+        soon = [x for x in windows if x["id"] in alerted and x["id"] not in reminded
+                and parse_dt(x["starts"]) <= soon_cut and alertable(x)]
 
     payload = {
         "generated": now.isoformat(),
@@ -470,6 +521,7 @@ def main():
         "watched_count": counts["watched"],
         "big_count": counts["big"],
         "other_count": counts["other"],
+        "baseline_run": baseline,
         "new_count": len(new),
         "soon_count": len(soon),
         "windows": windows,
@@ -491,9 +543,12 @@ def main():
     with open(ALERTS_MD, "w") as f:
         f.write(build_alerts_md(new, soon))
 
+    # Mark every live window as seen, not just the alerted ones - otherwise a
+    # window we chose not to alert on stays "new" forever and would fire the
+    # moment the rules loosened.
     live = {x["id"] for x in windows}
-    for x in new:
-        alerted[x["id"]] = now.isoformat()
+    for x in windows:
+        alerted.setdefault(x["id"], now.isoformat())
     for x in soon:
         reminded[x["id"]] = now.isoformat()
     with open(SEEN, "w") as f:
