@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Onsale Radar</title>
+<style>
+  :root { color-scheme: light dark;
+    --bg:#faf9f7; --card:#fff; --ink:#1c1b19; --dim:#6b6862; --line:#e6e3dd;
+    --hot:#b4341f; --cool:#2f5d8a; }
+  @media (prefers-color-scheme:dark) { :root {
+    --bg:#16151a; --card:#1e1d23; --ink:#eceaf0; --dim:#9b97a3; --line:#2e2c35;
+    --hot:#ff8a6e; --cool:#7fb0e0; } }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:2rem 1.25rem 4rem; background:var(--bg); color:var(--ink);
+    font:15px/1.55 ui-sans-serif,-apple-system,"Segoe UI",system-ui,sans-serif; }
+  main { max-width:920px; margin:0 auto; }
+  h1 { font-size:1.5rem; margin:0 0 .2rem; letter-spacing:-.02em; }
+  .sub { color:var(--dim); font-size:.85rem; margin:0 0 2rem; }
+  h2 { font-size:.78rem; text-transform:uppercase; letter-spacing:.09em;
+    color:var(--dim); margin:2.2rem 0 .6rem; font-weight:600; }
+  h2 .n { color:var(--ink); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+    overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; min-width:620px; }
+  td { padding:.7rem .85rem; border-top:1px solid var(--line); vertical-align:top; }
+  tr:first-child td { border-top:none; }
+  .when { white-space:nowrap; font-variant-numeric:tabular-nums; font-weight:600; width:1%; }
+  .who a { color:inherit; text-decoration:none; border-bottom:1px solid var(--line); }
+  .who a:hover { border-color:currentColor; }
+  .ev { display:block; color:var(--dim); font-size:.8rem; font-weight:400; }
+  .tag { font-size:.7rem; padding:.16rem .5rem; border-radius:99px; white-space:nowrap;
+    border:1px solid currentColor; }
+  .tag.presale { color:var(--cool); }
+  .tag.public { color:var(--hot); }
+  .empty { color:var(--dim); font-style:italic; }
+  footer { margin-top:2.5rem; color:var(--dim); font-size:.78rem; }
+</style></head><body><main>
+<h1>Onsale Radar</h1>
+<p class="sub">50 acts &middot; 0 upcoming buy windows &middot;
+updated Thu Sep 3, 8:29 AM ET</p>
+
+<h2>Next 24 hours <span class="n">(0)</span></h2>
+<div class="card"><table><tr><td colspan="4" class="empty">Nothing here right now.</td></tr></table></div>
+
+<h2>This week <span class="n">(0)</span></h2>
+<div class="card"><table><tr><td colspan="4" class="empty">Nothing here right now.</td></tr></table></div>
+
+<h2>Further out <span class="n">(0)</span></h2>
+<div class="card"><table><tr><td colspan="4" class="empty">Nothing here right now.</td></tr></table></div>
+
+<footer>
+Read-only monitor of Ticketmaster's public Discovery API. It reports published
+onsale times; it does not buy, queue, or hold tickets.
+<br>No dates announced yet: AC/DC, Andrea Bocelli, BTS, Bad Bunny, Beyoncé, Bruce Springsteen, Bruno Mars, Cardi B, Chayanne, Chris Brown, Coldplay, Dead &amp; Company, Dua Lipa, ENHYPEN, Eagles, Ed Sheeran, George Strait, Guns N&#x27; Roses, Hans Zimmer, Imagine Dragons, Iron Maiden, Jonas Brothers, Justin Timberlake, Kendrick Lamar, Kylie Minogue, Lady Gaga, Linkin Park, Luke Combs, Metallica, My Chemical Romance, Oasis, P!nk, Paul McCartney, Phish, Post Malone, Rauw Alejandro, SEVENTEEN, SZA, Sabrina Carpenter, Shakira, Stray Kids, System of a Down, TWICE, The Weeknd, Trans-Siberian Orchestra, Travis Scott, Tyler, The Creator, Usher, Zach Bryan, j-hope
+</footer>
+</main></body></html>

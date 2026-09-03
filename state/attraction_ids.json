@@ -1,0 +1,567 @@
+{
+  "_resolved_at": "2026-09-03T12:29:03.783252+00:00",
+  "_watchlist": [
+    "Coldplay",
+    "Beyonc\u00e9",
+    "Kendrick Lamar",
+    "SZA",
+    "The Weeknd",
+    "Shakira",
+    "Chris Brown",
+    "Imagine Dragons",
+    "Post Malone",
+    "Ed Sheeran",
+    "Stray Kids",
+    "Tyler, The Creator",
+    "Lady Gaga",
+    "Zach Bryan",
+    "Iron Maiden",
+    "Linkin Park",
+    "Eagles",
+    "SEVENTEEN",
+    "Dua Lipa",
+    "Bruno Mars",
+    "Metallica",
+    "Usher",
+    "Bruce Springsteen",
+    "Andrea Bocelli",
+    "Dead & Company",
+    "Paul McCartney",
+    "Guns N' Roses",
+    "Rauw Alejandro",
+    "My Chemical Romance",
+    "Chayanne",
+    "System of a Down",
+    "Phish",
+    "j-hope",
+    "Kylie Minogue",
+    "Sabrina Carpenter",
+    "Luke Combs",
+    "Justin Timberlake",
+    "ENHYPEN",
+    "P!nk",
+    "George Strait",
+    "Bad Bunny",
+    "Oasis",
+    "BTS",
+    "AC/DC",
+    "Cardi B",
+    "Trans-Siberian Orchestra",
+    "Hans Zimmer",
+    "Jonas Brothers",
+    "TWICE",
+    "Travis Scott"
+  ],
+  "artists": {
+    "Coldplay": {
+      "ids": [
+        "K8vZ9171izV"
+      ],
+      "tm_names": [
+        "Coldplay"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/coldplay-tickets/artist/806431"
+    },
+    "Beyonc\u00e9": {
+      "ids": [
+        "K8vZ9175rX7"
+      ],
+      "tm_names": [
+        "Beyonc\u00e9"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+    },
+    "Kendrick Lamar": {
+      "ids": [
+        "K8vZ917GSg0"
+      ],
+      "tm_names": [
+        "Kendrick Lamar"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/kendrick-lamar-tickets/artist/1480454"
+    },
+    "SZA": {
+      "ids": [
+        "K8vZ917o6G0"
+      ],
+      "tm_names": [
+        "SZA"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/sza-tickets/artist/1858419"
+    },
+    "The Weeknd": {
+      "ids": [
+        "K8vZ9172Ln7"
+      ],
+      "tm_names": [
+        "The Weeknd"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/the-weeknd-tickets/artist/1697014"
+    },
+    "Shakira": {
+      "ids": [
+        "K8vZ9171xeV"
+      ],
+      "tm_names": [
+        "Shakira"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/shakira-tickets/artist/779049"
+    },
+    "Chris Brown": {
+      "ids": [
+        "K8vZ9175MQf",
+        "K8vZ917CS27",
+        "ZkDnngzZDvqQb3sN7t7DQJjJBeuhS6S"
+      ],
+      "tm_names": [
+        "Chris Brown",
+        "Chris Brown",
+        "Chris Brown"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/chris-brown-tickets/artist/1013849"
+    },
+    "Imagine Dragons": {
+      "ids": [
+        "K8vZ917GSz7"
+      ],
+      "tm_names": [
+        "Imagine Dragons"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/imagine-dragons-tickets/artist/1435919"
+    },
+    "Post Malone": {
+      "ids": [
+        "K8vZ917KjPf"
+      ],
+      "tm_names": [
+        "Post Malone"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/post-malone-tickets/artist/2119390"
+    },
+    "Ed Sheeran": {
+      "ids": [
+        "K8vZ917CAQV"
+      ],
+      "tm_names": [
+        "Ed Sheeran"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/ed-sheeran-tickets/artist/1560779"
+    },
+    "Stray Kids": {
+      "ids": [
+        "K8vZ9179Vpf"
+      ],
+      "tm_names": [
+        "Stray Kids"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/stray-kids-tickets/artist/2593788"
+    },
+    "Tyler, The Creator": {
+      "ids": [
+        "K8vZ9172De7"
+      ],
+      "tm_names": [
+        "Tyler, The Creator"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/tyler-the-creator-tickets/artist/1744607"
+    },
+    "Lady Gaga": {
+      "ids": [
+        "K8vZ917Go7V"
+      ],
+      "tm_names": [
+        "Lady Gaga"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/lady-gaga-tickets/artist/1249444"
+    },
+    "Zach Bryan": {
+      "ids": [
+        "K8vZ917_NoV"
+      ],
+      "tm_names": [
+        "Zach Bryan"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/zach-bryan-tickets/artist/2811359"
+    },
+    "Iron Maiden": {
+      "ids": [
+        "K8vZ9171G4V"
+      ],
+      "tm_names": [
+        "Iron Maiden"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/iron-maiden-tickets/artist/735341"
+    },
+    "Linkin Park": {
+      "ids": [
+        "K8vZ9171if7"
+      ],
+      "tm_names": [
+        "LINKIN PARK"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/linkin-park-tickets/artist/703831"
+    },
+    "Eagles": {
+      "ids": [
+        "K8vZ9171ob7"
+      ],
+      "tm_names": [
+        "Eagles"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/eagles-tickets/artist/734977"
+    },
+    "SEVENTEEN": {
+      "ids": [
+        "K8vZ9174Qw0",
+        "K8vZ9171OR0"
+      ],
+      "tm_names": [
+        "SEVENTEEN",
+        "Seventeen"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/seventeen-tickets/artist/2281371"
+    },
+    "Dua Lipa": {
+      "ids": [
+        "K8vZ917fAG7"
+      ],
+      "tm_names": [
+        "Dua Lipa"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/dua-lipa-tickets/artist/2179476"
+    },
+    "Bruno Mars": {
+      "ids": [
+        "K8vZ917GJc7"
+      ],
+      "tm_names": [
+        "Bruno Mars"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/bruno-mars-tickets/artist/1466801"
+    },
+    "Metallica": {
+      "ids": [
+        "K8vZ9171G9V"
+      ],
+      "tm_names": [
+        "Metallica"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/metallica-tickets/artist/735647"
+    },
+    "Usher": {
+      "ids": [
+        "K8vZ9171bMV"
+      ],
+      "tm_names": [
+        "USHER"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/usher-tickets/artist/766722"
+    },
+    "Bruce Springsteen": {
+      "ids": [
+        "K8vZ9171ug7"
+      ],
+      "tm_names": [
+        "Bruce Springsteen"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/bruce-springsteen-tickets/artist/736179"
+    },
+    "Andrea Bocelli": {
+      "ids": [
+        "K8vZ9171bQ0"
+      ],
+      "tm_names": [
+        "Andrea Bocelli"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/andrea-bocelli-tickets/artist/773296"
+    },
+    "Dead & Company": {
+      "ids": [
+        "K8vZ917KYU0",
+        "K8vZ9178qVV"
+      ],
+      "tm_names": [
+        "Dead & Company",
+        "Dead Company"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/dead-company-tickets/artist/2150235"
+    },
+    "Paul McCartney": {
+      "ids": [
+        "K8vZ9171uq0"
+      ],
+      "tm_names": [
+        "Paul McCartney"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/paul-mccartney-tickets/artist/735610"
+    },
+    "Guns N' Roses": {
+      "ids": [
+        "K8vZ9171C80"
+      ],
+      "tm_names": [
+        "Guns N' Roses"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/guns-n-roses-tickets/artist/735218"
+    },
+    "Rauw Alejandro": {
+      "ids": [
+        "K8vZ917bvcV"
+      ],
+      "tm_names": [
+        "Rauw Alejandro"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/rauw-alejandro-tickets/artist/2628019"
+    },
+    "My Chemical Romance": {
+      "ids": [
+        "K8vZ9175mU7"
+      ],
+      "tm_names": [
+        "My Chemical Romance"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/my-chemical-romance-tickets/artist/859324"
+    },
+    "Chayanne": {
+      "ids": [
+        "K8vZ9171a90"
+      ],
+      "tm_names": [
+        "Chayanne"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/chayanne-tickets/artist/754853"
+    },
+    "System of a Down": {
+      "ids": [
+        "K8vZ9171_N0"
+      ],
+      "tm_names": [
+        "System Of A Down"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/system-of-a-down-tickets/artist/726146"
+    },
+    "Phish": {
+      "ids": [
+        "K8vZ9171FAV"
+      ],
+      "tm_names": [
+        "Phish"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/phish-tickets/artist/748766"
+    },
+    "j-hope": {
+      "ids": [
+        "K8vZ917QNbV"
+      ],
+      "tm_names": [
+        "j-hope"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/jhope-tickets/artist/2900987"
+    },
+    "Kylie Minogue": {
+      "ids": [
+        "K8vZ9175tSf"
+      ],
+      "tm_names": [
+        "Kylie Minogue"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/kylie-minogue-tickets/artist/1055633"
+    },
+    "Sabrina Carpenter": {
+      "ids": [
+        "K8vZ9173-lV"
+      ],
+      "tm_names": [
+        "Sabrina Carpenter"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/sabrina-carpenter-tickets/artist/2001092"
+    },
+    "Luke Combs": {
+      "ids": [
+        "K8vZ917KVr7"
+      ],
+      "tm_names": [
+        "Luke Combs"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/luke-combs-tickets/artist/2150342"
+    },
+    "Justin Timberlake": {
+      "ids": [
+        "K8vZ91754g7"
+      ],
+      "tm_names": [
+        "Justin Timberlake"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/justin-timberlake-tickets/artist/847841"
+    },
+    "ENHYPEN": {
+      "ids": [
+        "K8vZ917_T-7"
+      ],
+      "tm_names": [
+        "ENHYPEN"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/enhypen-tickets/artist/2850606"
+    },
+    "P!nk": {
+      "ids": [
+        "K8vZ9171Jo7"
+      ],
+      "tm_names": [
+        "P!NK"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/pnk-tickets/artist/718655"
+    },
+    "George Strait": {
+      "ids": [
+        "K8vZ9171Fo7"
+      ],
+      "tm_names": [
+        "George Strait"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/george-strait-tickets/artist/732947"
+    },
+    "Bad Bunny": {
+      "ids": [
+        "K8vZ9174l1f"
+      ],
+      "tm_names": [
+        "Bad Bunny"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/bad-bunny-tickets/artist/2317395"
+    },
+    "Oasis": {
+      "ids": [
+        "K8vZ9171fw7"
+      ],
+      "tm_names": [
+        "Oasis"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/oasis-tickets/artist/766720"
+    },
+    "BTS": {
+      "ids": [
+        "K8vZ917KpXV"
+      ],
+      "tm_names": [
+        "BTS"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/bts-tickets/artist/2110227"
+    },
+    "AC/DC": {
+      "ids": [
+        "K8vZ91715hf"
+      ],
+      "tm_names": [
+        "AC/DC"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/acdc-tickets/artist/1170951"
+    },
+    "Cardi B": {
+      "ids": [
+        "K8vZ917fNfV"
+      ],
+      "tm_names": [
+        "Cardi B"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/cardi-b-tickets/artist/2223707"
+    },
+    "Trans-Siberian Orchestra": {
+      "ids": [
+        "K8vZ9171L10"
+      ],
+      "tm_names": [
+        "Trans-Siberian Orchestra"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-tickets/artist/780815"
+    },
+    "Hans Zimmer": {
+      "ids": [
+        "K8vZ917ubK0"
+      ],
+      "tm_names": [
+        "Hans Zimmer"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/hans-zimmer-tickets/artist/1508961"
+    },
+    "Jonas Brothers": {
+      "ids": [
+        "K8vZ9175T17"
+      ],
+      "tm_names": [
+        "Jonas Brothers"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/jonas-brothers-tickets/artist/1052712"
+    },
+    "TWICE": {
+      "ids": [
+        "K8vZ9179jvV",
+        "ZkDnngzZDdz-Jz_mWPAchLtoo2TcBQ_"
+      ],
+      "tm_names": [
+        "TWICE",
+        "TWICE"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/twice-tickets/artist/2548848"
+    },
+    "Travis Scott": {
+      "ids": [
+        "K8vZ9178bS0"
+      ],
+      "tm_names": [
+        "Travis Scott"
+      ],
+      "exact_match": true,
+      "url": "https://www.ticketmaster.com/travis-scott-tickets/artist/1788754"
+    }
+  }
+}
