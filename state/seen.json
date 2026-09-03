@@ -1,13 +1,5 @@
 {
   "alerted": {
-    "vv1AvZkfxGkeYAr3K|Presale|Past Purchaser Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "k7vGF_oXhctBS|Presale|Venue Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "1AvbZ_oGkR42unA|Presale|LIVE NATION PRESALE|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "1AvbZ_oGkR42unA|Presale|Venue Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "vvG1zZ_8jgIFj8|Presale|Ticketmaster Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "vvG1zZ_8jgIFj8|Presale|Fan Club Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "vvG1zZ_8jgIFj8|Presale|Loud and Live Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
-    "vvG1zZ_8jgIFj8|Presale|Radio Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
     "vv1kjZ_op6G7c7bc|Public onsale||2026-09-03T15:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
     "vv1kvOvPAFGAC-MAb|Presale|Venue Presale|2026-09-03T15:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
     "G5viZ_oH_j08R|Public onsale||2026-09-03T15:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
@@ -154,10 +146,14 @@
     "G5dIZ_olF8jRI|Public onsale||2026-09-21T04:59:00+00:00": "2026-09-03T13:09:40.010725+00:00"
   },
   "reminded": {
-    "vv1AvZkfxGkeYAr3K|Presale|Past Purchaser Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:44:06.875269+00:00",
-    "vvG1zZ_8jgIFj8|Presale|Fan Club Presale|2026-09-03T14:00:00+00:00": "2026-09-03T13:44:06.875269+00:00",
     "vv1kjZ_op6G7c7bc|Public onsale||2026-09-03T15:00:00+00:00": "2026-09-03T13:44:06.875269+00:00",
     "G5viZ_oH_j08R|Public onsale||2026-09-03T15:00:00+00:00": "2026-09-03T13:44:06.875269+00:00",
-    "vvG1YZ_oxw99n_|Public onsale||2026-09-03T15:00:00+00:00": "2026-09-03T13:44:06.875269+00:00"
+    "vvG1YZ_oxw99n_|Public onsale||2026-09-03T15:00:00+00:00": "2026-09-03T13:44:06.875269+00:00",
+    "vv1AvZkfxGkeYAr3K|Public onsale||2026-09-04T14:00:00+00:00": "2026-09-03T14:27:03.159570+00:00",
+    "k7vGF_oXhctBS|Public onsale||2026-09-04T14:00:00+00:00": "2026-09-03T14:27:03.159570+00:00",
+    "vv177Z_oGkT5GfGo|Public onsale||2026-09-04T14:00:00+00:00": "2026-09-03T14:27:03.159570+00:00",
+    "1AvbZ_oGkR42unA|Public onsale||2026-09-04T14:00:00+00:00": "2026-09-03T14:27:03.159570+00:00",
+    "1AvbZ_oGkR42unA|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-04T14:00:00+00:00": "2026-09-03T14:27:03.159570+00:00",
+    "vvG1zZ_8jgIFj8|Public onsale||2026-09-04T14:00:00+00:00": "2026-09-03T14:27:03.159570+00:00"
   }
 }
