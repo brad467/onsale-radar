@@ -14,12 +14,39 @@ banned and orders cancelled — so this deliberately stops at the alert.
 - **Push to your phone** the moment a new tour date is announced, and again
   ~24h before the window opens
 - **Email** for the same events, via GitHub notifications
-- **A live dashboard** at `https://<you>.github.io/onsale-radar/` — every
-  upcoming buy window for all 50 acts, sorted by when it opens
+- **A live dashboard** at `https://<you>.github.io/onsale-radar/`
 - Presales tracked separately from public onsales, because presales are where
   the tickets actually are
 
 Runs every 3 hours on GitHub's servers. Free. Your laptop can be closed.
+
+## How it hunts
+
+The obvious design — "check each of my 50 acts" — turns out to be both slow
+and nearly useless. Ticketmaster's API returns an artist's *listed* events,
+and by the time an event is listed its onsale has almost always already
+happened. Scanning 50 acts costs ~150 API calls to mostly rediscover tours
+that went on sale months ago.
+
+So it asks the API the question that actually matters instead:
+
+> which US music events have an onsale starting from today onward?
+
+One sweep, about 5 calls, returns everything pending nationwide. Each result
+is then bucketed:
+
+| Bucket | What it is | Alerted? |
+|---|---|---|
+| **watched** | one of your watchlist acts | always |
+| **big** | arena/stadium venue, or a 3+ presale stack, or $150+ top ticket — the signature of a major tour onsale | yes, flagged as off-list |
+| **other** | small local shows | no, just counted |
+
+The **big** bucket is the important one: it catches a tour announcement from
+an act you never thought to add to the list, in the hour it goes up.
+
+Artist matching is by Ticketmaster attraction ID first, then by exact
+normalized name, then by event title. Tribute bands don't match their
+headliners — "Coldplay Tribute" is not Coldplay.
 
 ---
 
@@ -126,7 +153,12 @@ coverage on day-of reminders.
 **How far ahead it looks** — `HORIZON_DAYS`, default 180.
 
 **Region** — `COUNTRY = "US"` in `radar.py`. Currently nationwide. To narrow it,
-add `"stateCode": "TN"` (or `"dmaId"`) to the params in `events_for()`.
+add `"stateCode": "TN"` (or `"dmaId"`) to the params in `sweep_onsales()`.
+
+**What counts as "big"** — `BIG_VENUE`, `BIG_PRESALE_COUNT` and `BIG_PRICE` at
+the top of `radar.py`. The venue regex deliberately excludes "Center" and
+"Theatre" because hundreds of 200-seat rooms use those words. If you're getting
+too much noise, raise `BIG_PRICE`; too little, lower it.
 
 ## Testing changes
 
@@ -136,7 +168,8 @@ python3 test_radar.py     # 21 checks, no API key or network needed
 
 It fakes the API and verifies the things that actually break: tribute bands
 getting matched instead of the real act, expired presales leaking through,
-TBD onsale dates, alert de-duplication across runs, and ID cache reuse.
+TBD onsale dates, the three artist-matching paths, big/small bucketing,
+alert de-duplication across runs, and ID cache reuse.
 
 To try a real scan locally without touching state:
 

@@ -1,31 +1,49 @@
 #!/usr/bin/env python3
 """
 Onsale Radar - watches Ticketmaster's public Discovery API for presales and
-public onsales from a watchlist of top touring acts, and tells you when to
-show up.
+public onsales, and tells you when to show up.
 
 This is a READ-ONLY monitor. It reads publicly published onsale schedules.
 It does not buy, queue, hold, reserve, or automate any purchase, and it makes
 no attempt to disguise itself or evade any access control. Ticket-buying bots
 are illegal in the US under the BOTS Act; this is a calendar, not a bot.
 
+How it hunts
+------------
+Rather than asking "what's up for each of my 50 acts" (which burns ~150 API
+calls to mostly rediscover tours that went on sale months ago), it asks the
+API the question that actually matters:
+
+    which US music events have an onsale starting from today onward?
+
+That single sweep (~5 calls) returns everything pending nationwide. Each
+result is then bucketed:
+
+    watched  - one of your watchlist acts. Always alerted.
+    big      - arena/stadium-scale, or carrying the presale stack that marks
+               a major tour onsale. Alerted even if the act isn't on your
+               list, because that's how you catch a tour you didn't know was
+               coming.
+    other    - small local shows. Counted on the dashboard, never alerted.
+
 Usage:
     export TM_API_KEY=...          # free key from developer.ticketmaster.com
-    python3 radar.py               # normal run
-    python3 radar.py --refresh-ids # re-resolve artist -> attraction IDs
+    python3 radar.py
     python3 radar.py --dry-run     # scan and report, write nothing
+    python3 radar.py --refresh-ids # re-resolve watchlist -> attraction IDs
 
 Outputs:
     docs/index.html       dashboard (served by GitHub Pages)
     docs/onsales.json     machine-readable snapshot
     state/seen.json       which windows have already been alerted on
-    alerts.md             this run's new alerts, empty if none
+    alerts.md             this run's alerts, empty if none
 """
 
 import argparse
 import html
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -46,6 +64,16 @@ SOON_HOURS = 24          # "starting soon" reminder window
 HORIZON_DAYS = 180       # how far ahead to track
 ID_MAX_AGE_DAYS = 7      # re-resolve attraction IDs this often
 COUNTRY = "US"
+PAGE_SIZE = 200          # API max; deep paging capped at size*page < 1000
+MAX_PAGES = 5
+
+# Venue words that reliably mean "big room". Deliberately excludes "Center"
+# and "Theatre", which match hundreds of small venues.
+BIG_VENUE = re.compile(
+    r"\b(stadium|arena|amphitheat\w*|coliseum|colosseum|dome|sphere|"
+    r"ballpark|speedway|racetrack|bowl|field|fairgrounds)\b", re.I)
+BIG_PRESALE_COUNT = 3    # Verified Fan + artist + card presales = major tour
+BIG_PRICE = 150.0        # top-end ticket price suggesting an arena show
 
 
 # ---------------------------------------------------------------- API
@@ -61,13 +89,13 @@ def api(path, params, key, retries=4):
             if e.code == 401:
                 sys.exit("FATAL: Ticketmaster rejected the API key (401). "
                          "Check the TM_API_KEY secret.")
-            if e.code == 429:          # rate limited - back off hard
+            if e.code == 429:
                 time.sleep(3 * (attempt + 1))
                 continue
             if e.code >= 500:
                 time.sleep(1 + attempt)
                 continue
-            print(f"    ! HTTP {e.code} on {path}", file=sys.stderr)
+            print(f"    ! HTTP {e.code} on {path} {params}", file=sys.stderr)
             return None
         except Exception as e:
             if attempt == retries - 1:
@@ -79,7 +107,7 @@ def api(path, params, key, retries=4):
 
 def norm(s):
     """Loose name comparison: lowercase, drop punctuation and filler words."""
-    s = s.lower()
+    s = (s or "").lower()
     for ch in ".,'&!/-_":
         s = s.replace(ch, " ")
     return " ".join(w for w in s.split() if w not in ("the", "and"))
@@ -88,62 +116,65 @@ def norm(s):
 def resolve_attractions(artists, key):
     """Map watchlist names to Ticketmaster attraction IDs.
 
-    Keyword search happily returns tribute bands, so an exact normalized name
-    match wins; anything else is kept but flagged for a human to eyeball.
+    Only used to make artist matching exact - keyword search returns tribute
+    bands, so an exact normalized name match wins and anything else is flagged.
     """
     resolved = {}
     for a in artists:
-        name, search = a["name"], a["search"]
         data = api("attractions", {
-            "keyword": search,
-            "classificationName": "music",
-            "size": 20,
-            "sort": "relevance,desc",
+            "keyword": a["search"], "classificationName": "music",
+            "size": 20, "sort": "relevance,desc",
         }, key)
         time.sleep(THROTTLE)
         found = (data or {}).get("_embedded", {}).get("attractions", [])
-        hits = [x for x in found if norm(x.get("name", "")) == norm(name)]
+        hits = [x for x in found if norm(x.get("name")) == norm(a["name"])]
         exact = bool(hits)
         if not hits:
             hits = found[:1]
         if not hits:
-            print(f"    - {name}: no attraction found")
+            print(f"    - {a['name']}: no attraction found")
             continue
-        resolved[name] = {
+        resolved[a["name"]] = {
             "ids": [h["id"] for h in hits],
             "tm_names": [h.get("name") for h in hits],
             "exact_match": exact,
-            "url": hits[0].get("url", ""),
         }
-        print(f"    + {name}: {', '.join(h.get('name', '?') for h in hits)}"
+        print(f"    + {a['name']}: {', '.join(h.get('name', '?') for h in hits)}"
               f"{'' if exact else '   <-- fuzzy, verify'}")
     return resolved
 
 
-def events_for(ids, key):
-    """Every upcoming US event for one artist, across their attraction IDs."""
-    out, seen_ids = [], set()
-    for aid in ids:
-        page = 0
-        while page < 5:       # deep paging is capped at size*page < 1000
-            data = api("events", {
-                "attractionId": aid,
-                "countryCode": COUNTRY,
-                "size": 100,
-                "page": page,
-                "sort": "date,asc",
-            }, key)
-            time.sleep(THROTTLE)
-            if not data:
-                break
-            for ev in data.get("_embedded", {}).get("events", []):
-                if ev.get("id") not in seen_ids:
-                    seen_ids.add(ev.get("id"))
-                    out.append(ev)
-            if page + 1 >= data.get("page", {}).get("totalPages", 1):
-                break
-            page += 1
-    return out
+def sweep_onsales(key, now):
+    """Every US music event whose onsale starts today or later.
+
+    This is the whole hunt in one query. onsaleOnAfterStartDate filters on
+    the onsale start date, so a tour announced this morning shows up here
+    within the hour, months before its show date.
+    """
+    events, page = [], 0
+    total = None
+    while page < MAX_PAGES:
+        data = api("events", {
+            "countryCode": COUNTRY,
+            "classificationName": "music",
+            "onsaleOnAfterStartDate": now.strftime("%Y-%m-%d"),
+            "size": PAGE_SIZE,
+            "page": page,
+            "sort": "date,asc",
+        }, key)
+        time.sleep(THROTTLE)
+        if not data:
+            break
+        pg = data.get("page", {})
+        total = pg.get("totalElements", total)
+        events.extend(data.get("_embedded", {}).get("events", []))
+        if page + 1 >= pg.get("totalPages", 1):
+            break
+        page += 1
+    truncated = bool(total and total > len(events))
+    print(f"  swept {len(events)} events"
+          + (f" of {total} (paging capped)" if truncated else ""))
+    return events, truncated
 
 
 # ---------------------------------------------------------------- parsing
@@ -159,21 +190,50 @@ def parse_dt(s):
 
 def venue_of(ev):
     v = (ev.get("_embedded", {}).get("venues") or [{}])[0]
-    city = (v.get("city") or {}).get("name", "")
-    state = (v.get("state") or {}).get("stateCode", "")
-    return {
-        "venue": v.get("name", ""),
-        "city": city,
-        "state": state,
-        "label": ", ".join(p for p in [v.get("name", ""), city, state] if p),
-    }
+    name = v.get("name", "") or ""
+    city = (v.get("city") or {}).get("name", "") or ""
+    state = (v.get("state") or {}).get("stateCode", "") or ""
+    return {"venue": name, "city": city, "state": state,
+            "label": ", ".join(p for p in [name, city, state] if p)}
 
 
-def extract_windows(ev, artist, now, horizon):
+def artists_of(ev):
+    return [a.get("name", "") for a in
+            (ev.get("_embedded", {}).get("attractions") or []) if a.get("name")]
+
+
+def classify(ev, watch_ids, watch_names):
+    """Bucket an event: which watchlist act it is, or how big it looks."""
+    attractions = ev.get("_embedded", {}).get("attractions") or []
+    for a in attractions:
+        # ID is the reliable match. Name is the fallback for when Ticketmaster
+        # files an act under a second attraction ID we didn't resolve.
+        if a.get("id") in watch_ids:
+            return "watched", watch_ids[a["id"]]
+        if norm(a.get("name")) in watch_names:
+            return "watched", watch_names[norm(a.get("name"))]
+    # Last resort: some events carry no attraction link at all, only a title.
+    # Exact normalized equality only - "Coldplay Tribute" must not match.
+    if norm(ev.get("name")) in watch_names:
+        return "watched", watch_names[norm(ev.get("name"))]
+
+    label = venue_of(ev)["venue"]
+    presales = (ev.get("sales") or {}).get("presales") or []
+    prices = ev.get("priceRanges") or []
+    top = max((p.get("max") or 0) for p in prices) if prices else 0
+    big = (BIG_VENUE.search(label)
+           or len(presales) >= BIG_PRESALE_COUNT
+           or top >= BIG_PRICE)
+    who = (artists_of(ev) or [ev.get("name", "")])[0]
+    return ("big" if big else "other"), who
+
+
+def extract_windows(ev, artist, bucket, now, horizon):
     """Every future buying window on one event: public onsale plus presales."""
     rows = []
     base = {
         "artist": artist,
+        "bucket": bucket,
         "event": ev.get("name", ""),
         "event_id": ev.get("id", ""),
         "event_date": ((ev.get("dates") or {}).get("start") or {}).get("localDate", ""),
@@ -203,28 +263,24 @@ def extract_windows(ev, artist, now, horizon):
 # ---------------------------------------------------------------- output
 
 def fmt_when(iso):
-    """Render a UTC timestamp in US Eastern, which is where Brad buys from."""
+    """Render a UTC timestamp in US Eastern."""
     dt = parse_dt(iso)
     if not dt:
         return "?"
-    # -4 Mar-Nov, -5 otherwise. Close enough for a display string, and the
-    # exact instant is always in the JSON.
-    offset = -4 if 3 <= dt.month <= 11 else -5
-    local = dt + timedelta(hours=offset)
-    return local.strftime("%a %b %-d, %-I:%M %p ET")
+    offset = -4 if 3 <= dt.month <= 11 else -5   # display only; JSON keeps UTC
+    return (dt + timedelta(hours=offset)).strftime("%a %b %-d, %-I:%M %p ET")
 
 
-def build_dashboard(payload):
-    w = payload["windows"]
-    now = parse_dt(payload["generated"])
-    soon = [x for x in w if parse_dt(x["starts"]) <= now + timedelta(hours=SOON_HOURS)]
-    week = [x for x in w if x not in soon
-            and parse_dt(x["starts"]) <= now + timedelta(days=7)]
-    later = [x for x in w if x not in soon and x not in week]
+def build_dashboard(p):
+    watched = [w for w in p["windows"] if w["bucket"] == "watched"]
+    big = [w for w in p["windows"] if w["bucket"] == "big"]
+    now = parse_dt(p["generated"])
+    soon = [w for w in p["windows"]
+            if parse_dt(w["starts"]) <= now + timedelta(hours=SOON_HOURS)]
 
-    def rows(items):
+    def rows(items, empty):
         if not items:
-            return '<tr><td colspan="4" class="empty">Nothing here right now.</td></tr>'
+            return f'<tr><td colspan="4" class="empty">{empty}</td></tr>'
         out = []
         for x in items:
             tag = html.escape(x["presale_name"] or x["kind"])
@@ -239,7 +295,6 @@ def build_dashboard(payload):
                 f'<td><span class="tag {cls}">{tag}</span></td></tr>')
         return "\n".join(out)
 
-    missing = payload.get("artists_no_upcoming", [])
     return f"""<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -247,22 +302,25 @@ def build_dashboard(payload):
 <style>
   :root {{ color-scheme: light dark;
     --bg:#faf9f7; --card:#fff; --ink:#1c1b19; --dim:#6b6862; --line:#e6e3dd;
-    --hot:#b4341f; --cool:#2f5d8a; }}
+    --hot:#b4341f; --cool:#2f5d8a; --ok:#3d6b45; }}
   @media (prefers-color-scheme:dark) {{ :root {{
     --bg:#16151a; --card:#1e1d23; --ink:#eceaf0; --dim:#9b97a3; --line:#2e2c35;
-    --hot:#ff8a6e; --cool:#7fb0e0; }} }}
+    --hot:#ff8a6e; --cool:#7fb0e0; --ok:#8fc79a; }} }}
   * {{ box-sizing:border-box; }}
   body {{ margin:0; padding:2rem 1.25rem 4rem; background:var(--bg); color:var(--ink);
     font:15px/1.55 ui-sans-serif,-apple-system,"Segoe UI",system-ui,sans-serif; }}
-  main {{ max-width:920px; margin:0 auto; }}
+  main {{ max-width:940px; margin:0 auto; }}
   h1 {{ font-size:1.5rem; margin:0 0 .2rem; letter-spacing:-.02em; }}
-  .sub {{ color:var(--dim); font-size:.85rem; margin:0 0 2rem; }}
+  .sub {{ color:var(--dim); font-size:.85rem; margin:0 0 1.6rem; }}
+  .status {{ background:var(--card); border:1px solid var(--line); border-left:3px solid var(--ok);
+    border-radius:8px; padding:.7rem .9rem; font-size:.87rem; margin-bottom:1.4rem; }}
   h2 {{ font-size:.78rem; text-transform:uppercase; letter-spacing:.09em;
-    color:var(--dim); margin:2.2rem 0 .6rem; font-weight:600; }}
+    color:var(--dim); margin:2.2rem 0 .2rem; font-weight:600; }}
   h2 .n {{ color:var(--ink); }}
+  .note {{ color:var(--dim); font-size:.8rem; margin:.15rem 0 .6rem; }}
   .card {{ background:var(--card); border:1px solid var(--line); border-radius:10px;
     overflow-x:auto; }}
-  table {{ width:100%; border-collapse:collapse; min-width:620px; }}
+  table {{ width:100%; border-collapse:collapse; min-width:640px; }}
   td {{ padding:.7rem .85rem; border-top:1px solid var(--line); vertical-align:top; }}
   tr:first-child td {{ border-top:none; }}
   .when {{ white-space:nowrap; font-variant-numeric:tabular-nums; font-weight:600; width:1%; }}
@@ -277,22 +335,31 @@ def build_dashboard(payload):
   footer {{ margin-top:2.5rem; color:var(--dim); font-size:.78rem; }}
 </style></head><body><main>
 <h1>Onsale Radar</h1>
-<p class="sub">{payload['artists_watched']} acts &middot; {len(w)} upcoming buy windows &middot;
-updated {html.escape(fmt_when(payload['generated']))}</p>
+<p class="sub">{p['artists_watched']} acts watched &middot; swept
+{p['events_swept']} US music events with pending onsales &middot;
+updated {html.escape(fmt_when(p['generated']))}</p>
 
-<h2>Next 24 hours <span class="n">({len(soon)})</span></h2>
-<div class="card"><table>{rows(soon)}</table></div>
+<div class="status">
+{'<strong>' + str(len(soon)) + ' window(s) open in the next 24 hours.</strong>' if soon
+ else '<strong>Nothing opens in the next 24 hours.</strong>'}
+Checked every 3 hours. An empty list means nothing is pending &mdash; not that
+the radar is asleep.
+</div>
 
-<h2>This week <span class="n">({len(week)})</span></h2>
-<div class="card"><table>{rows(week)}</table></div>
+<h2>Your watchlist <span class="n">({len(watched)})</span></h2>
+<div class="card"><table>{rows(watched,
+  'None of your 50 acts has a pending onsale. Their current dates are already on sale.')}</table></div>
 
-<h2>Further out <span class="n">({len(later)})</span></h2>
-<div class="card"><table>{rows(later)}</table></div>
+<h2>Big onsales <span class="n">({len(big)})</span></h2>
+<p class="note">Arena/stadium-scale shows outside your watchlist, or events
+carrying the presale stack that marks a major tour.</p>
+<div class="card"><table>{rows(big, 'Nothing large pending right now.')}</table></div>
 
 <footer>
+{p['other_count']} smaller local onsales were seen and not listed.
+{'Paging cap reached &mdash; some events may be missing.<br>' if p.get('truncated') else ''}
 Read-only monitor of Ticketmaster's public Discovery API. It reports published
 onsale times; it does not buy, queue, or hold tickets.
-{('<br>No dates announced yet: ' + html.escape(', '.join(missing))) if missing else ''}
 </footer>
 </main></body></html>
 """
@@ -301,22 +368,21 @@ onsale times; it does not buy, queue, or hold tickets.
 def build_alerts_md(new, soon):
     if not new and not soon:
         return ""
-    out = []
-    if new:
-        out.append("### Newly announced\n")
-        for x in new:
+    def block(title, items):
+        out = [f"### {title}\n"]
+        for x in items:
             tag = x["presale_name"] or x["kind"]
-            out.append(f"- **{fmt_when(x['starts'])}** — {x['artist']} · {tag}  \n"
+            star = "" if x["bucket"] == "watched" else " _(not on your list)_"
+            out.append(f"- **{fmt_when(x['starts'])}** — {x['artist']}{star} · {tag}  \n"
                        f"  {x['event']} · {x['label']} · show {x['event_date']}  \n"
                        f"  {x['url']}")
         out.append("")
+        return out
+    out = []
+    if new:
+        out += block("Newly announced", new)
     if soon:
-        out.append(f"### Opening within {SOON_HOURS}h\n")
-        for x in soon:
-            tag = x["presale_name"] or x["kind"]
-            out.append(f"- **{fmt_when(x['starts'])}** — {x['artist']} · {tag}  \n"
-                       f"  {x['event']} · {x['label']}  \n"
-                       f"  {x['url']}")
+        out += block(f"Opening within {SOON_HOURS}h", soon)
     return "\n".join(out)
 
 
@@ -351,13 +417,11 @@ def main():
     cache = load_json(IDCACHE, {})
     cached_at = parse_dt(cache.get("_resolved_at", ""))
     stale = (not cached_at) or (now - cached_at > timedelta(days=ID_MAX_AGE_DAYS))
-    # Compare against the names we last *attempted*, not the ones that
-    # resolved - otherwise an artist Ticketmaster has never heard of makes
-    # the cache look permanently out of date and we re-resolve every run.
     changed = set(cache.get("_watchlist", [])) != {a["name"] for a in artists}
 
     if args.refresh_ids or stale or changed:
-        why = "forced" if args.refresh_ids else ("watchlist changed" if changed else "cache expired")
+        why = ("forced" if args.refresh_ids
+               else "watchlist changed" if changed else "cache expired")
         print(f"Resolving {len(artists)} artists to attraction IDs ({why})...")
         resolved = resolve_attractions(artists, key)
         cache = {"_resolved_at": now.isoformat(),
@@ -372,34 +436,40 @@ def main():
         print(f"Using cached attraction IDs for {len(resolved)} artists "
               f"(resolved {cached_at:%Y-%m-%d}).")
 
-    print(f"\nScanning {COUNTRY} events...")
-    windows, no_dates = [], []
-    for name, info in resolved.items():
-        evs = events_for(info["ids"], key)
-        rows = []
-        for ev in evs:
-            rows.extend(extract_windows(ev, name, now, horizon))
-        windows.extend(rows)
-        if not rows:
-            no_dates.append(name)
-        print(f"    {name}: {len(evs)} events -> {len(rows)} windows")
+    watch_ids = {i: name for name, info in resolved.items() for i in info["ids"]}
+    watch_names = {norm(name): name for name in resolved}
+
+    print(f"\nSweeping US music onsales from {now:%Y-%m-%d} onward...")
+    events, truncated = sweep_onsales(key, now)
+
+    windows, counts = [], {"watched": 0, "big": 0, "other": 0}
+    for ev in events:
+        bucket, who = classify(ev, watch_ids, watch_names)
+        counts[bucket] += 1
+        if bucket == "other":
+            continue
+        windows.extend(extract_windows(ev, who, bucket, now, horizon))
 
     windows.sort(key=lambda r: r["starts"])
+    print(f"  watched={counts['watched']} big={counts['big']} other={counts['other']}"
+          f" -> {len(windows)} buy windows")
 
     seen = load_json(SEEN, {"alerted": {}, "reminded": {}})
     alerted, reminded = seen.get("alerted", {}), seen.get("reminded", {})
 
     soon_cut = now + timedelta(hours=args.soon_hours)
     new = [x for x in windows if x["id"] not in alerted]
-    soon = [x for x in windows
-            if x["id"] not in reminded
-            and x["id"] in alerted
+    soon = [x for x in windows if x["id"] in alerted and x["id"] not in reminded
             and parse_dt(x["starts"]) <= soon_cut]
 
     payload = {
         "generated": now.isoformat(),
         "artists_watched": len(resolved),
-        "artists_no_upcoming": sorted(no_dates),
+        "events_swept": len(events),
+        "truncated": truncated,
+        "watched_count": counts["watched"],
+        "big_count": counts["big"],
+        "other_count": counts["other"],
         "new_count": len(new),
         "soon_count": len(soon),
         "windows": windows,
@@ -407,7 +477,9 @@ def main():
 
     if args.dry_run:
         print(json.dumps({k: v for k, v in payload.items() if k != "windows"}, indent=2))
-        print(f"\n{len(new)} new, {len(soon)} opening within {args.soon_hours}h")
+        for x in windows[:15]:
+            print(f"  [{x['bucket']}] {fmt_when(x['starts'])} {x['artist']} "
+                  f"- {x['presale_name'] or x['kind']} @ {x['label']}")
         return
 
     os.makedirs(DOCS, exist_ok=True)
@@ -424,14 +496,13 @@ def main():
         alerted[x["id"]] = now.isoformat()
     for x in soon:
         reminded[x["id"]] = now.isoformat()
-    # forget windows that have passed, so state/seen.json stays small
     with open(SEEN, "w") as f:
         json.dump({"alerted": {k: v for k, v in alerted.items() if k in live},
                    "reminded": {k: v for k, v in reminded.items() if k in live}},
                   f, indent=2)
 
     print(f"\n{'=' * 60}")
-    print(f"{len(windows)} upcoming windows | {len(new)} new | "
+    print(f"{len(windows)} windows | {len(new)} new | "
           f"{len(soon)} opening within {args.soon_hours}h")
     if os.environ.get("GITHUB_OUTPUT"):
         with open(os.environ["GITHUB_OUTPUT"], "a") as f:
