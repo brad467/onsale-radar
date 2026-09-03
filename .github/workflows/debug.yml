@@ -1,0 +1,69 @@
+name: Debug Sales
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Probe
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.parse, urllib.request
+          from datetime import datetime, timezone, timedelta
+          K = os.environ["TM_API_KEY"]
+          B = "https://app.ticketmaster.com/discovery/v2"
+          def api(path, **p):
+              p["apikey"] = K
+              u = f"{B}/{path}.json?" + urllib.parse.urlencode(p)
+              with urllib.request.urlopen(u, timeout=30) as r:
+                  return json.loads(r.read().decode())
+          now = datetime.now(timezone.utc)
+          print("NOW", now.isoformat())
+
+          print("\n=== A: raw sales blocks for Metallica events ===")
+          a = api("attractions", keyword="Metallica", classificationName="music", size=1)
+          aid = a["_embedded"]["attractions"][0]["id"]
+          ev = api("events", attractionId=aid, countryCode="US", size=5, sort="date,asc")
+          for e in ev.get("_embedded", {}).get("events", [])[:5]:
+              print(" ", e["name"], "|", e["dates"]["start"].get("localDate"),
+                    "| status:", e["dates"].get("status", {}).get("code"))
+              print("    sales:", json.dumps(e.get("sales"))[:400])
+
+          print("\n=== B: does the API expose FUTURE onsales at all? ===")
+          lo = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+          hi = (now + timedelta(days=60)).strftime("%Y-%m-%dT%H:%M:%SZ")
+          for label, params in [
+              ("onsaleStartDateTime range", dict(countryCode="US", classificationName="music",
+                                                 onsaleStartDateTime=f"{lo},{hi}", size=10)),
+              ("onsaleOnAfterStartDate",    dict(countryCode="US", classificationName="music",
+                                                 onsaleOnAfterStartDate=lo, size=10)),
+          ]:
+              try:
+                  d = api("events", **params)
+                  tot = d.get("page", {}).get("totalElements")
+                  print(f"  {label}: totalElements={tot}")
+                  for e in d.get("_embedded", {}).get("events", [])[:5]:
+                      s = (e.get("sales") or {}).get("public", {})
+                      print("     ", e["name"][:45], "| public.start:", s.get("startDateTime"))
+              except Exception as ex:
+                  print(f"  {label}: ERROR {ex}")
+
+          print("\n=== C: with includeTBA/includeTBD on a watched act ===")
+          for extra in [{}, {"includeTBA": "yes", "includeTBD": "yes"}]:
+              d = api("events", attractionId=aid, countryCode="US", size=100, **extra)
+              evs = d.get("_embedded", {}).get("events", [])
+              fut = 0
+              for e in evs:
+                  s = (e.get("sales") or {}).get("public", {})
+                  st = s.get("startDateTime")
+                  if st and st > now.strftime("%Y-%m-%dT%H:%M:%SZ"):
+                      fut += 1
+              print(f"  extra={extra or None}: events={len(evs)} future_public_onsales={fut}")
+          PY
