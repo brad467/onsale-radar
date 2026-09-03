@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-03T15:51:28.087462+00:00",
+  "generated": "2026-09-03T16:07:46.102123+00:00",
   "artists_watched": 50,
-  "events_swept": 554,
+  "events_swept": 557,
   "truncated": false,
   "watched_count": 0,
   "big_count": 66,
-  "other_count": 488,
+  "other_count": 491,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 0,
+  "soon_count": 1,
   "windows": [
     {
       "artist": "Jorge Medina",
