@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-03T15:06:44.428924+00:00",
+  "generated": "2026-09-03T15:28:12.088363+00:00",
   "artists_watched": 50,
-  "events_swept": 542,
+  "events_swept": 548,
   "truncated": false,
   "watched_count": 0,
   "big_count": 66,
-  "other_count": 476,
+  "other_count": 482,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 2,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Jorge Medina",
@@ -315,6 +315,23 @@
       "starts": "2026-09-08T16:00:00+00:00",
       "ends": "2026-09-10T16:00:00Z",
       "id": "1ApZkfbGkeR-a4J|Presale|Previous Buyer Thank-You Presale|2026-09-08T16:00:00+00:00"
+    },
+    {
+      "artist": "TOBYMAC",
+      "bucket": "big",
+      "event": "Tobymac w/ Jeremy Camp, Seph Schlueter & Katy Nichole: Hits Deep Tour",
+      "event_id": "1AOZkfbGkdEzfqD",
+      "event_date": "2027-01-30",
+      "url": "https://www.ticketmaster.com/tobymac-w-jeremy-camp-seph-schlueter-huntsville-alabama-01-30-2027/event/20006518E7E1477B",
+      "venue": "Von Braun Center Propst Arena",
+      "city": "Huntsville",
+      "state": "AL",
+      "label": "Von Braun Center Propst Arena, Huntsville, AL",
+      "kind": "Presale",
+      "presale_name": "Previous Buyer Thank-You Presale",
+      "starts": "2026-09-08T16:00:00+00:00",
+      "ends": "2026-09-10T15:00:00Z",
+      "id": "1AOZkfbGkdEzfqD|Presale|Previous Buyer Thank-You Presale|2026-09-08T16:00:00+00:00"
     },
     {
       "artist": "TOBYMAC",
