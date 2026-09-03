@@ -42,7 +42,6 @@ jobs:
           TM_API_KEY: ${{ secrets.TM_API_KEY }}
         run: |
           python3 radar.py ${{ inputs.refresh_ids && '--refresh-ids' || '' }}
-
       - name: Commit dashboard and state
         run: |
           git config user.name  "onsale-radar"
