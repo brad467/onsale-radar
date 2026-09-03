@@ -2,8 +2,11 @@ name: Onsale Radar
 
 on:
   schedule:
-    # every 3 hours, on the hour (UTC)
-    - cron: "0 */3 * * *"
+    # every 15 minutes - needed for the "opens in 45 minutes" alert to be
+    # useful. Unchanged runs write nothing and make no commit, and GitHub
+    # Actions is free on public repos. Scheduled runs can drift by a few
+    # minutes under load, which is why the imminent window is 45 min, not 15.
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       refresh_ids:
@@ -67,10 +70,12 @@ jobs:
             echo "---"
             echo "Dashboard: https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO#*/}/"
           } > body.md
-          gh issue create \
-            --repo "$REPO" \
-            --title "🎟️ ${{ steps.scan.outputs.alert_count }} onsale window(s) — $(date -u '+%b %-d')" \
-            --body-file body.md
+          if [ "${{ steps.scan.outputs.urgent }}" = "1" ]; then
+            TITLE="🚨 ${{ steps.scan.outputs.alert_count }} onsale alert(s) — $(date -u '+%b %-d %H:%M') UTC"
+          else
+            TITLE="🎟️ ${{ steps.scan.outputs.alert_count }} onsale window(s) — $(date -u '+%b %-d')"
+          fi
+          gh issue create --repo "$REPO" --title "$TITLE" --body-file body.md
 
       - name: Push to phone (optional)
         if: steps.scan.outputs.alert_count != '0' && env.NTFY_TOPIC != ''
@@ -78,6 +83,6 @@ jobs:
           curl -sS \
             -H "Title: ${{ steps.scan.outputs.alert_count }} onsale window(s)" \
             -H "Tags: ticket" \
-            -H "Priority: high" \
+            -H "Priority: ${{ steps.scan.outputs.urgent == '1' && 'urgent' || 'high' }}" \
             --data-binary @alerts.md \
             "https://ntfy.sh/${NTFY_TOPIC}"
