@@ -1,0 +1,83 @@
+name: Onsale Radar
+
+on:
+  schedule:
+    # every 3 hours, on the hour (UTC)
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh_ids:
+        description: "Re-resolve artist names to Ticketmaster attraction IDs"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: onsale-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    # job-level so the `if:` on the ntfy step can see it; step-level env is
+    # not available to a step's own condition
+    env:
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan Ticketmaster
+        id: scan
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+        run: |
+          python3 radar.py ${{ inputs.refresh_ids && '--refresh-ids' || '' }}
+
+      - name: Commit dashboard and state
+        run: |
+          git config user.name  "onsale-radar"
+          git config user.email "actions@github.com"
+          git add docs state
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "radar: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash || true
+            git push
+          fi
+
+      - name: Open an alert issue
+        if: steps.scan.outputs.alert_count != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          {
+            echo "$(date -u '+%b %-d, %H:%M UTC') — ${{ steps.scan.outputs.alert_count }} ticket window(s) to know about."
+            echo
+            cat alerts.md
+            echo
+            echo "---"
+            echo "Dashboard: https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO#*/}/"
+          } > body.md
+          gh issue create \
+            --repo "$REPO" \
+            --title "🎟️ ${{ steps.scan.outputs.alert_count }} onsale window(s) — $(date -u '+%b %-d')" \
+            --body-file body.md
+
+      - name: Push to phone (optional)
+        if: steps.scan.outputs.alert_count != '0' && env.NTFY_TOPIC != ''
+        run: |
+          curl -sS \
+            -H "Title: ${{ steps.scan.outputs.alert_count }} onsale window(s)" \
+            -H "Tags: ticket" \
+            -H "Priority: high" \
+            --data-binary @alerts.md \
+            "https://ntfy.sh/${NTFY_TOPIC}"
