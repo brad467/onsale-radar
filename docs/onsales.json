@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-04T17:06:37.823137+00:00",
+  "generated": "2026-09-04T17:22:41.690135+00:00",
   "artists_watched": 50,
-  "events_swept": 543,
+  "events_swept": 544,
   "truncated": false,
   "watched_count": 0,
   "big_count": 65,
-  "other_count": 478,
+  "other_count": 479,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -26,6 +26,23 @@
       "starts": "2026-09-08T14:00:00+00:00",
       "ends": "2026-09-10T16:00:00Z",
       "id": "vvG1VZ_oE_5n5H|Presale|Previous Buyer Thank-You Presale|2026-09-08T14:00:00+00:00"
+    },
+    {
+      "artist": "TOBYMAC",
+      "bucket": "big",
+      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+      "event_id": "vv1AAZkfbGkdjr-4o",
+      "event_date": "2027-02-18",
+      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-columbus-ohio-02-18-2027/event/05006518DC7A1551",
+      "venue": "Nationwide Arena",
+      "city": "Columbus",
+      "state": "OH",
+      "label": "Nationwide Arena, Columbus, OH",
+      "kind": "Presale",
+      "presale_name": "Previous Buyer Thank You Presale",
+      "starts": "2026-09-08T14:00:00+00:00",
+      "ends": "2026-09-10T15:00:00Z",
+      "id": "vv1AAZkfbGkdjr-4o|Presale|Previous Buyer Thank You Presale|2026-09-08T14:00:00+00:00"
     },
     {
       "artist": "Ye",
@@ -366,6 +383,23 @@
       "starts": "2026-09-09T14:00:00+00:00",
       "ends": "2026-09-11T02:00:00Z",
       "id": "vvG1zZ_oiNTE8L|Presale|Artist Presale|2026-09-09T14:00:00+00:00"
+    },
+    {
+      "artist": "TOBYMAC",
+      "bucket": "big",
+      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+      "event_id": "vv1AAZkfbGkdjr-4o",
+      "event_date": "2027-02-18",
+      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-columbus-ohio-02-18-2027/event/05006518DC7A1551",
+      "venue": "Nationwide Arena",
+      "city": "Columbus",
+      "state": "OH",
+      "label": "Nationwide Arena, Columbus, OH",
+      "kind": "Presale",
+      "presale_name": "TM CEN Presale",
+      "starts": "2026-09-09T14:00:00+00:00",
+      "ends": "2026-09-10T15:00:00Z",
+      "id": "vv1AAZkfbGkdjr-4o|Presale|TM CEN Presale|2026-09-09T14:00:00+00:00"
     },
     {
       "artist": "Billy Strings",
@@ -1928,7 +1962,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-09-10T16:00:00+00:00",
-      "ends": "2027-02-26T00:00:00Z",
+      "ends": "2027-02-26T02:00:00Z",
       "id": "1AxZkf_Gkdts4J7|Public onsale||2026-09-10T16:00:00+00:00"
     },
     {
