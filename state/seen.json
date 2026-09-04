@@ -1,6 +1,5 @@
 {
   "alerted": {
-    "vv170Z_oGkRc5vsy|Public onsale||2026-09-04T17:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
     "vvG1VZ_oE_5n5H|Presale|Previous Buyer Thank-You Presale|2026-09-08T14:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
     "G5dIZ_oSqZJfE|Presale|Premium Ticket Presale|2026-09-08T15:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
     "G5dIZ_oSqZJfE|Presale|Artist Presale|2026-09-08T15:00:00+00:00": "2026-09-03T13:09:40.010725+00:00",
@@ -133,7 +132,6 @@
     "G5dIZ_olF8jRI|Public onsale||2026-09-21T04:59:00+00:00": "2026-09-04T04:38:06.454336+00:00",
     "1A4Zkf_Gkd7DMjf|Public onsale||2026-09-21T04:01:00+00:00": "2026-09-04T13:39:06.519413+00:00",
     "1A4Zkf_GkdgVWVn|Public onsale||2026-09-21T04:01:00+00:00": "2026-09-04T13:39:06.519413+00:00",
-    "vv1kbZ_3GdG7Mpk3|Public onsale||2026-09-04T17:00:00+00:00": "2026-09-04T15:06:55.426221+00:00",
     "vvG1VZ_oNusnh8|Presale|Previous Buyer Thank You Presale|2026-09-08T16:00:00+00:00": "2026-09-04T16:25:37.567512+00:00",
     "vvG1VZ_oNusnh8|Presale|TOBYMAC Artist Presale|2026-09-09T16:00:00+00:00": "2026-09-04T16:25:37.567512+00:00",
     "vvG1VZ_oNusnh8|Presale|Awakening Events Presale|2026-09-09T16:00:00+00:00": "2026-09-04T16:25:37.567512+00:00",
@@ -141,8 +139,5 @@
     "vvG1VZ_oNusnh8|Presale|K-Love Presale|2026-09-09T16:00:00+00:00": "2026-09-04T16:25:37.567512+00:00",
     "vvG1VZ_oNusnh8|Presale|Ticketmaster Presale|2026-09-09T16:00:00+00:00": "2026-09-04T16:25:37.567512+00:00"
   },
-  "reminded": {
-    "vv170Z_oGkRc5vsy|Public onsale||2026-09-04T17:00:00+00:00": "2026-09-03T17:06:40.457697+00:00",
-    "vv1kbZ_3GdG7Mpk3|Public onsale||2026-09-04T17:00:00+00:00": "2026-09-04T15:25:31.721609+00:00"
-  }
+  "reminded": {}
 }
