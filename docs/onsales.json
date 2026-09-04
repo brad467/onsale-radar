@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T19:20:10.495087+00:00",
+  "generated": "2026-09-04T19:34:48.352805+00:00",
   "artists_watched": 50,
   "events_swept": 558,
   "truncated": false,
@@ -10,23 +10,6 @@
   "new_count": 0,
   "soon_count": 0,
   "windows": [
-    {
-      "artist": "TOBYMAC",
-      "bucket": "big",
-      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
-      "event_id": "vvG1VZ_oE_5n5H",
-      "event_date": "2027-02-04",
-      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-tampa-florida-02-04-2027/event/0D006519D92EA2FC",
-      "venue": "Benchmark International Arena",
-      "city": "Tampa",
-      "state": "FL",
-      "label": "Benchmark International Arena, Tampa, FL",
-      "kind": "Presale",
-      "presale_name": "Previous Buyer Thank-You Presale",
-      "starts": "2026-09-08T14:00:00+00:00",
-      "ends": "2026-09-10T16:00:00Z",
-      "id": "vvG1VZ_oE_5n5H|Presale|Previous Buyer Thank-You Presale|2026-09-08T14:00:00+00:00"
-    },
     {
       "artist": "TOBYMAC",
       "bucket": "big",
@@ -77,6 +60,23 @@
       "starts": "2026-09-08T16:00:00+00:00",
       "ends": "2026-09-10T15:00:00Z",
       "id": "1AOZkfbGkdEzfqD|Presale|Previous Buyer Thank-You Presale|2026-09-08T16:00:00+00:00"
+    },
+    {
+      "artist": "TOBYMAC",
+      "bucket": "big",
+      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+      "event_id": "vvG1VZ_oE_5n5H",
+      "event_date": "2027-02-04",
+      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-tampa-florida-02-04-2027/event/0D006519D92EA2FC",
+      "venue": "Benchmark International Arena",
+      "city": "Tampa",
+      "state": "FL",
+      "label": "Benchmark International Arena, Tampa, FL",
+      "kind": "Presale",
+      "presale_name": "Previous Buyer Thank-You Presale",
+      "starts": "2026-09-08T16:00:00+00:00",
+      "ends": "2026-09-10T16:00:00Z",
+      "id": "vvG1VZ_oE_5n5H|Presale|Previous Buyer Thank-You Presale|2026-09-08T16:00:00+00:00"
     },
     {
       "artist": "TOBYMAC",
