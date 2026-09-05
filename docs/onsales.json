@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T16:49:17.553805+00:00",
+  "generated": "2026-09-05T17:06:29.530682+00:00",
   "artists_watched": 50,
   "events_swept": 314,
   "truncated": false,
@@ -128,6 +128,23 @@
       "starts": "2026-09-08T16:00:00+00:00",
       "ends": "2026-09-10T15:45:00Z",
       "id": "1A4Zkf_GkdgVWVn|Presale|Previous Buyer Thank You Presale|2026-09-08T16:00:00+00:00"
+    },
+    {
+      "artist": "TOBYMAC",
+      "bucket": "big",
+      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+      "event_id": "G5viZ_oEqedtw",
+      "event_date": "2027-02-26",
+      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-nashville-tennessee-02-26-2027/event/1B006519DD083A72",
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Bridgestone Arena, Nashville, TN",
+      "kind": "Presale",
+      "presale_name": "Previous Buyer Thank You Presale",
+      "starts": "2026-09-08T16:00:00+00:00",
+      "ends": "2026-09-11T03:00:00Z",
+      "id": "G5viZ_oEqedtw|Presale|Previous Buyer Thank You Presale|2026-09-08T16:00:00+00:00"
     },
     {
       "artist": "TOBYMAC",
