@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-08T19:06:13.717718+00:00",
+  "generated": "2026-09-08T19:24:28.675570+00:00",
   "artists_watched": 50,
-  "events_swept": 636,
+  "events_swept": 656,
   "truncated": false,
-  "watched_count": 0,
+  "watched_count": 1,
   "big_count": 72,
-  "other_count": 564,
+  "other_count": 583,
   "baseline_run": false,
-  "new_count": 0,
-  "soon_count": 2,
+  "new_count": 2,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Babyface",
@@ -145,6 +145,23 @@
       "starts": "2026-09-09T14:00:00+00:00",
       "ends": "2026-09-11T02:00:00Z",
       "id": "vvG1zZ_oiNTE8L|Presale|Artist Presale|2026-09-09T14:00:00+00:00"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "bucket": "watched",
+      "event": "Jonas Brothers: The Burning Up Tour All Over Again",
+      "event_id": "G5dIZ_3N6RiaS",
+      "event_date": "2026-11-08",
+      "url": "https://www.toyotacenter.com/events/detail/jonas-brothers-2026__;!!GeIQSb45FBw!poRK91SWc_Kz8NVsMuyzJYfHT5bUnwiOsskk-H8ifNdH1cBWDr6X5ndWbskekdDm3eB6cPnaaMGAZIX8cvPiIOzXzw$",
+      "venue": "Toyota Center",
+      "city": "Houston",
+      "state": "TX",
+      "label": "Toyota Center, Houston, TX",
+      "kind": "Presale",
+      "presale_name": "Live Nation Presale",
+      "starts": "2026-09-09T15:00:00+00:00",
+      "ends": "2026-09-10T03:00:00Z",
+      "id": "G5dIZ_3N6RiaS|Presale|Live Nation Presale|2026-09-09T15:00:00+00:00"
     },
     {
       "artist": "Pantera",
@@ -1811,6 +1828,23 @@
       "starts": "2026-09-10T15:00:00+00:00",
       "ends": "2026-11-01T01:00:00Z",
       "id": "G5dIZ_oSqZJfE|Presale|Premium & VIP Onsale|2026-09-10T15:00:00+00:00"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "bucket": "watched",
+      "event": "Jonas Brothers: The Burning Up Tour All Over Again",
+      "event_id": "G5dIZ_3N6RiaS",
+      "event_date": "2026-11-08",
+      "url": "https://www.toyotacenter.com/events/detail/jonas-brothers-2026__;!!GeIQSb45FBw!poRK91SWc_Kz8NVsMuyzJYfHT5bUnwiOsskk-H8ifNdH1cBWDr6X5ndWbskekdDm3eB6cPnaaMGAZIX8cvPiIOzXzw$",
+      "venue": "Toyota Center",
+      "city": "Houston",
+      "state": "TX",
+      "label": "Toyota Center, Houston, TX",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-10T15:00:00+00:00",
+      "ends": "2026-11-09T01:30:00Z",
+      "id": "G5dIZ_3N6RiaS|Public onsale||2026-09-10T15:00:00+00:00"
     },
     {
       "artist": "Billy Strings",
