@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-08T14:12:16.502485+00:00",
+  "generated": "2026-09-08T14:29:43.914823+00:00",
   "artists_watched": 50,
-  "events_swept": 457,
+  "events_swept": 459,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 66,
-  "other_count": 391,
+  "big_count": 67,
+  "other_count": 392,
   "baseline_run": false,
-  "new_count": 17,
-  "soon_count": 0,
+  "new_count": 1,
+  "soon_count": 4,
   "windows": [
     {
       "artist": "TOBYMAC",
@@ -2627,6 +2627,23 @@
       "starts": "2026-09-11T14:00:00+00:00",
       "ends": "2027-02-14T01:30:00Z",
       "id": "vvG1zZ_oiNTE8L|Public onsale||2026-09-11T14:00:00+00:00"
+    },
+    {
+      "artist": "Night Fever - The Bee Gees Tribute",
+      "bucket": "big",
+      "event": "Night Fever - The Bee Gees Tribute",
+      "event_id": "rZ7HnEZ1AfG77f",
+      "event_date": "2026-12-12",
+      "url": "https://www.ticketweb.com/event/night-fever-the-emerald-theatre-tickets/14304114",
+      "venue": "Emerald Theatre",
+      "city": "Mount Clemens",
+      "state": "MI",
+      "label": "Emerald Theatre, Mount Clemens, MI",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-11T15:00:00+00:00",
+      "ends": "2026-12-13T03:00:00Z",
+      "id": "rZ7HnEZ1AfG77f|Public onsale||2026-09-11T15:00:00+00:00"
     },
     {
       "artist": "Billy Strings",
