@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-08T19:50:07.502471+00:00",
+  "generated": "2026-09-08T20:07:39.529850+00:00",
   "artists_watched": 50,
   "events_swept": 656,
   "truncated": false,
   "watched_count": 1,
-  "big_count": 71,
-  "other_count": 584,
+  "big_count": 70,
+  "other_count": 585,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -1881,23 +1881,6 @@
       "id": "G5dIZ_3F66DhN|Presale|LIVE NATION PRESALE|2026-09-10T15:00:00+00:00"
     },
     {
-      "artist": "Yuridia",
-      "bucket": "big",
-      "event": "Yuridia - Cartas Sobre La Mesa Tour 2027",
-      "event_id": "G5dIZ_3j7FaJB",
-      "event_date": "2027-03-19",
-      "url": "https://bertogdenarena.com/events/yuridia/",
-      "venue": "Bert Ogden Arena",
-      "city": "Edinburg",
-      "state": "TX",
-      "label": "Bert Ogden Arena, Edinburg, TX",
-      "kind": "Presale",
-      "presale_name": "Live Nation Presale",
-      "starts": "2026-09-10T15:00:00+00:00",
-      "ends": "2026-09-11T04:59:00Z",
-      "id": "G5dIZ_3j7FaJB|Presale|Live Nation Presale|2026-09-10T15:00:00+00:00"
-    },
-    {
       "artist": "Zac Brown Band",
       "bucket": "big",
       "event": "Zac Brown Band",
@@ -2474,23 +2457,6 @@
       "starts": "2026-09-11T15:00:00+00:00",
       "ends": "2027-03-19T02:00:00Z",
       "id": "G5dIZ_3F66DhN|Presale|Verizon Shine Select Seats|2026-09-11T15:00:00+00:00"
-    },
-    {
-      "artist": "Yuridia",
-      "bucket": "big",
-      "event": "Yuridia - Cartas Sobre La Mesa Tour 2027",
-      "event_id": "G5dIZ_3j7FaJB",
-      "event_date": "2027-03-19",
-      "url": "https://bertogdenarena.com/events/yuridia/",
-      "venue": "Bert Ogden Arena",
-      "city": "Edinburg",
-      "state": "TX",
-      "label": "Bert Ogden Arena, Edinburg, TX",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-11T15:00:00+00:00",
-      "ends": "2027-03-20T01:00:00Z",
-      "id": "G5dIZ_3j7FaJB|Public onsale||2026-09-11T15:00:00+00:00"
     },
     {
       "artist": "Zac Brown Band",
