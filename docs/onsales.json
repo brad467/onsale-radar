@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-08T15:44:08.992159+00:00",
+  "generated": "2026-09-08T15:56:20.726696+00:00",
   "artists_watched": 50,
-  "events_swept": 526,
+  "events_swept": 528,
   "truncated": false,
   "watched_count": 0,
   "big_count": 68,
-  "other_count": 458,
+  "other_count": 460,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -366,6 +366,23 @@
       "starts": "2026-09-08T19:00:00+00:00",
       "ends": "2026-09-11T06:59:00Z",
       "id": "vvG1IZ_35qkX8b|Presale|Citi\u00ae Cardmember Presale|2026-09-08T19:00:00+00:00"
+    },
+    {
+      "artist": "Yuridia",
+      "bucket": "big",
+      "event": "Yuridia - Cartas Sobre La Mesa Tour 2027",
+      "event_id": "vvG1IZ_35qkX8b",
+      "event_date": "2027-02-11",
+      "url": "https://www.ticketmaster.com/yuridia-cartas-sobre-la-mesa-tour-palm-desert-california-02-11-2027/event/0A006522DD1BE418",
+      "venue": "Acrisure Arena at Greater Palm Springs",
+      "city": "Palm Desert",
+      "state": "CA",
+      "label": "Acrisure Arena at Greater Palm Springs, Palm Desert, CA",
+      "kind": "Presale",
+      "presale_name": "Verizon Shine Presale Tickets",
+      "starts": "2026-09-08T19:00:00+00:00",
+      "ends": "2026-09-11T06:59:00Z",
+      "id": "vvG1IZ_35qkX8b|Presale|Verizon Shine Presale Tickets|2026-09-08T19:00:00+00:00"
     },
     {
       "artist": "Yuridia",
