@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-08T15:28:01.249109+00:00",
+  "generated": "2026-09-08T15:44:08.992159+00:00",
   "artists_watched": 50,
-  "events_swept": 525,
+  "events_swept": 526,
   "truncated": false,
   "watched_count": 0,
   "big_count": 68,
-  "other_count": 457,
+  "other_count": 458,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -1216,6 +1216,23 @@
       "starts": "2026-09-09T16:00:00+00:00",
       "ends": "2026-09-10T15:45:00Z",
       "id": "1A4Zkf_GkdgVWVn|Presale|Venue Presale|2026-09-09T16:00:00+00:00"
+    },
+    {
+      "artist": "TOBYMAC",
+      "bucket": "big",
+      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+      "event_id": "1AxZkf_Gkdts4J7",
+      "event_date": "2027-02-25",
+      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-jacksonville-florida-02-25-2027/event/22006519E9C55984",
+      "venue": "VyStar Veterans Memorial Arena",
+      "city": "Jacksonville",
+      "state": "FL",
+      "label": "VyStar Veterans Memorial Arena, Jacksonville, FL",
+      "kind": "Presale",
+      "presale_name": "Internet Presale",
+      "starts": "2026-09-09T16:00:00+00:00",
+      "ends": "2026-09-10T15:45:00Z",
+      "id": "1AxZkf_Gkdts4J7|Presale|Internet Presale|2026-09-09T16:00:00+00:00"
     },
     {
       "artist": "TOBYMAC",
