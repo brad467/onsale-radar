@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-08T20:39:10.142508+00:00",
+  "generated": "2026-09-08T20:51:21.424071+00:00",
   "artists_watched": 50,
-  "events_swept": 677,
+  "events_swept": 679,
   "truncated": false,
   "watched_count": 1,
   "big_count": 72,
-  "other_count": 604,
+  "other_count": 606,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -179,23 +179,6 @@
       "starts": "2026-09-09T15:00:00+00:00",
       "ends": "2026-09-10T03:00:00Z",
       "id": "G5dIZ_oSqZJfE|Presale|Venue Presale|2026-09-09T15:00:00+00:00"
-    },
-    {
-      "artist": "Ye",
-      "bucket": "big",
-      "event": "Ye Live in Houston",
-      "event_id": "G5dIZ_oSqZJfE",
-      "event_date": "2026-10-31",
-      "url": "https://www.ticketmaster.com/ye-live-in-houston-houston-texas-10-31-2026/event/3A00651CDD026527",
-      "venue": "Reliant Stadium",
-      "city": "Houston",
-      "state": "TX",
-      "label": "Reliant Stadium, Houston, TX",
-      "kind": "Presale",
-      "presale_name": "Premium & VIP Presale",
-      "starts": "2026-09-09T15:00:00+00:00",
-      "ends": "2026-09-10T03:00:00Z",
-      "id": "G5dIZ_oSqZJfE|Presale|Premium & VIP Presale|2026-09-09T15:00:00+00:00"
     },
     {
       "artist": "Ye",
