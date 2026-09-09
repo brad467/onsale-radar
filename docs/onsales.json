@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-09T17:50:41.165035+00:00",
+  "generated": "2026-09-09T18:09:09.500283+00:00",
   "artists_watched": 50,
-  "events_swept": 918,
+  "events_swept": 925,
   "truncated": false,
   "watched_count": 92,
   "big_count": 78,
-  "other_count": 748,
+  "other_count": 755,
   "baseline_run": false,
-  "new_count": 12,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 1,
   "windows": [
     {
       "artist": "MILEY",
@@ -349,23 +349,6 @@
       "starts": "2026-09-10T15:00:00+00:00",
       "ends": "2026-11-09T01:30:00Z",
       "id": "G5dIZ_3N6RiaS|Public onsale||2026-09-10T15:00:00+00:00"
-    },
-    {
-      "artist": "Trans-Siberian Orchestra",
-      "bucket": "watched",
-      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
-      "event_id": "G5dIZ_od7G9C0",
-      "event_date": "2026-12-09",
-      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-austin-texas-12-09-2026/event/3A006510C43173A4",
-      "venue": "Moody Center ATX",
-      "city": "Austin",
-      "state": "TX",
-      "label": "Moody Center ATX, Austin, TX",
-      "kind": "Presale",
-      "presale_name": "TSO Fan Club Presale",
-      "starts": "2026-09-10T15:00:00+00:00",
-      "ends": "2026-09-13T03:00:00Z",
-      "id": "G5dIZ_od7G9C0|Presale|TSO Fan Club Presale|2026-09-10T15:00:00+00:00"
     },
     {
       "artist": "Billy Strings",
