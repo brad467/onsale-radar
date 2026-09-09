@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-09T17:24:53.814912+00:00",
+  "generated": "2026-09-09T17:38:24.513000+00:00",
   "artists_watched": 50,
   "events_swept": 805,
   "truncated": false,
   "watched_count": 92,
-  "big_count": 67,
-  "other_count": 646,
+  "big_count": 66,
+  "other_count": 647,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -12130,23 +12130,6 @@
       "starts": "2026-09-21T04:01:00+00:00",
       "ends": "2027-02-21T01:00:00Z",
       "id": "1A4Zkf_GkdgVWVn|Public onsale||2026-09-21T04:01:00+00:00"
-    },
-    {
-      "artist": "TOBYMAC",
-      "bucket": "big",
-      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
-      "event_id": "G5dIZ_olF8jRI",
-      "event_date": "2027-03-12",
-      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-san-antonio-texas-03-12-2027/event/3A00651AC841CBE8",
-      "venue": "Freeman Coliseum",
-      "city": "San Antonio",
-      "state": "TX",
-      "label": "Freeman Coliseum, San Antonio, TX",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-21T04:59:00+00:00",
-      "ends": "2027-03-13T01:00:00Z",
-      "id": "G5dIZ_olF8jRI|Public onsale||2026-09-21T04:59:00+00:00"
     }
   ]
 }
