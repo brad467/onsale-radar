@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-09T20:39:26.071224+00:00",
+  "generated": "2026-09-09T20:50:38.507092+00:00",
   "artists_watched": 50,
-  "events_swept": 966,
+  "events_swept": 967,
   "truncated": false,
   "watched_count": 92,
   "big_count": 84,
-  "other_count": 790,
+  "other_count": 791,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -10872,23 +10872,6 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2027-04-19T00:00:00Z",
       "id": "vvG1zZ_3NNlVDZ|Public onsale||2026-09-18T14:00:00+00:00"
-    },
-    {
-      "artist": "Josiah Queen",
-      "bucket": "big",
-      "event": "Damascus Road Tour with Josiah Queen",
-      "event_id": "vvG1zZ_3NNlVDZ",
-      "event_date": "2027-04-18",
-      "url": "https://www.ticketmaster.com/damascus-road-tour-with-josiah-queen-duluth-georgia-04-18-2027/event/0E006528E3AF4EC0",
-      "venue": "Gas South Arena",
-      "city": "Duluth",
-      "state": "GA",
-      "label": "Gas South Arena, Duluth, GA",
-      "kind": "Presale",
-      "presale_name": "Debranded Platinum Onsale",
-      "starts": "2026-09-18T14:00:00+00:00",
-      "ends": "2027-04-19T00:00:00Z",
-      "id": "vvG1zZ_3NNlVDZ|Presale|Debranded Platinum Onsale|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "CMA Awards",
