@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-09T18:09:09.500283+00:00",
+  "generated": "2026-09-09T18:29:03.420602+00:00",
   "artists_watched": 50,
-  "events_swept": 925,
+  "events_swept": 927,
   "truncated": false,
   "watched_count": 92,
   "big_count": 78,
-  "other_count": 755,
+  "other_count": 757,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 1,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "MILEY",
@@ -878,7 +878,7 @@
       "id": "vv1AeZkfNGkdpXkb6|Public onsale||2026-09-11T14:00:00+00:00"
     },
     {
-      "artist": "The Music of Billy Joel featuring The Billy Joel Band",
+      "artist": "The Billy Joel Band",
       "bucket": "big",
       "event": "The Music of Billy Joel featuring The Billy Joel Band",
       "event_id": "vv1AeZkfNGkeYnc57",
