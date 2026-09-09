@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-09T15:26:23.663272+00:00",
+  "generated": "2026-09-09T15:42:26.105096+00:00",
   "artists_watched": 50,
-  "events_swept": 674,
+  "events_swept": 675,
   "truncated": false,
   "watched_count": 1,
   "big_count": 77,
-  "other_count": 596,
+  "other_count": 597,
   "baseline_run": false,
-  "new_count": 8,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -2522,9 +2522,9 @@
       "label": "Chaifetz Arena, Saint Louis, MO",
       "kind": "Presale",
       "presale_name": "Public Presale",
-      "starts": "2026-09-14T15:00:00+00:00",
+      "starts": "2026-09-14T14:30:00+00:00",
       "ends": "2026-09-18T14:30:00Z",
-      "id": "vv1AkZkfNGkeE0a6p|Presale|Public Presale|2026-09-14T15:00:00+00:00"
+      "id": "vv1AkZkfNGkeE0a6p|Presale|Public Presale|2026-09-14T14:30:00+00:00"
     },
     {
       "artist": "Josiah Queen",
