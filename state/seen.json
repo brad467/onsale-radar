@@ -404,7 +404,6 @@
     "vvG1zZ_36bbobM|Presale|Radio Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1zZ_36bbobM|Presale|Ticketmaster Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "1AxZkfIGkdrSgPW|Presale|AEG / Venue / Radio Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
-    "1AxZkfIGkdrSgPW|Presale|STIFEL Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "1AxZkfIGkdrSgPW|Presale|Ticketmaster Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1VZ_3NV0vjm|Presale|Venue/Casino/Soc Media/Radio/AEG Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1VZ_3NV0vjm|Presale|Ticketmaster Presale|2026-09-17T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
@@ -880,7 +879,9 @@
     "1A9ZkfPGkdrgSj0|Public onsale||2026-09-17T17:00:00+00:00": "2026-09-10T19:21:30.950616+00:00",
     "1A9ZkfPGkdrgSj0|Presale|Travel VIP Packages Onsale|2026-09-17T17:00:00+00:00": "2026-09-10T19:21:30.950616+00:00",
     "1A9ZkfPGkdrgSj0|Presale|VIP Package Onsale|2026-09-17T17:00:00+00:00": "2026-09-10T19:21:30.950616+00:00",
-    "1A9ZkfPGkdrgSj0|Presale|Verizon Shine Featured Venues|2026-09-17T17:00:00+00:00": "2026-09-10T19:21:30.950616+00:00"
+    "1A9ZkfPGkdrgSj0|Presale|Verizon Shine Featured Venues|2026-09-17T17:00:00+00:00": "2026-09-10T19:21:30.950616+00:00",
+    "vv1A7ZkffGkdsxaxx|Presale|T-Mobile Offer|2026-09-18T15:00:00+00:00": "2026-09-10T19:34:51.382390+00:00",
+    "vv1A7ZkffGkdsNtxU|Presale|T-Mobile Offer|2026-09-18T15:00:00+00:00": "2026-09-10T19:34:51.382390+00:00"
   },
   "reminded": {
     "vvG1VZ_oKVfxeW|Public onsale||2026-09-11T14:00:00+00:00": "2026-09-10T14:25:47.525077+00:00",
@@ -902,6 +903,7 @@
     "vvG1IZ_35qkX8b|Public onsale||2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
     "vvG1IZ_35qkX8b|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
     "vvG1IZ_3FqrWDV|Public onsale||2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
-    "vvG1IZ_3FqrWDV|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00"
+    "vvG1IZ_3FqrWDV|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
+    "vv1A6Zkf0GkdpF9tR|Public onsale||2026-09-11T15:00:00+00:00": "2026-09-10T19:34:51.382390+00:00"
   }
 }
