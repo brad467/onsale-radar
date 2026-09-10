@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-10T16:38:52.108315+00:00",
+  "generated": "2026-09-10T16:51:41.711949+00:00",
   "artists_watched": 50,
-  "events_swept": 922,
+  "events_swept": 924,
   "truncated": false,
   "watched_count": 103,
   "big_count": 99,
-  "other_count": 720,
+  "other_count": 722,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -1282,7 +1282,7 @@
       "kind": "Presale",
       "presale_name": "Amex Presale Tickets\u00ae VIP Packages",
       "starts": "2026-09-15T14:00:00+00:00",
-      "ends": "2026-09-16T14:00:00Z",
+      "ends": "2026-09-16T13:00:00Z",
       "id": "vvG1zZ_36bbobM|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-15T14:00:00+00:00"
     },
     {
@@ -9364,6 +9364,23 @@
       "artist": "Trans-Siberian Orchestra",
       "bucket": "watched",
       "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "G5vzZ_8L3-M4c",
+      "event_date": "2026-11-27",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-boise-idaho-11-27-2026/event/1E006507D287756D",
+      "venue": "ExtraMile Arena",
+      "city": "Boise",
+      "state": "ID",
+      "label": "ExtraMile Arena, Boise, ID",
+      "kind": "Presale",
+      "presale_name": "$10 Off Limited Time Offer",
+      "starts": "2026-09-17T16:00:00+00:00",
+      "ends": "2026-11-18T05:00:00Z",
+      "id": "G5vzZ_8L3-M4c|Presale|$10 Off Limited Time Offer|2026-09-17T16:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
       "event_id": "G5vzZ_8L3xM4M",
       "event_date": "2026-11-27",
       "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-boise-idaho-11-27-2026/event/1E006507D28B7577",
@@ -12060,7 +12077,7 @@
       "kind": "Presale",
       "presale_name": "T-Mobile\u00ae Concert Perks",
       "starts": "2026-09-18T14:00:00+00:00",
-      "ends": "2026-09-21T03:59:00Z",
+      "ends": "2026-12-10T03:00:00Z",
       "id": "vv17OZ_8GkSWw5C7|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00"
     },
     {
@@ -13371,23 +13388,6 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-09-21T04:59:00Z",
       "id": "vv17bZ_oGkn-ppo4|Presale|$10 Off TSO Limited Time Offer|2026-09-18T15:00:00+00:00"
-    },
-    {
-      "artist": "Trans-Siberian Orchestra",
-      "bucket": "watched",
-      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
-      "event_id": "vv17bZ_oGkn-ppo4",
-      "event_date": "2026-12-27",
-      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-minneapolis-minnesota-12-27-2026/event/0600651AA1596455",
-      "venue": "Target Center",
-      "city": "Minneapolis",
-      "state": "MN",
-      "label": "Target Center, Minneapolis, MN",
-      "kind": "Presale",
-      "presale_name": "T-Mobile Offer",
-      "starts": "2026-09-18T15:00:00+00:00",
-      "ends": "2026-09-21T04:59:00Z",
-      "id": "vv17bZ_oGkn-ppo4|Presale|T-Mobile Offer|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
