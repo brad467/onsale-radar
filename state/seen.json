@@ -34,8 +34,6 @@
     "G5dIZ_3F66DhN|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T15:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "G5dIZ_3F66DhN|Presale|Verizon Shine Select Seats|2026-09-11T15:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "G5dIZ_3j7FaJB|Public onsale||2026-09-11T15:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
-    "G5dIZ_35I4rvI|Presale|Promoter Presale|2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
-    "G5dIZ_35I4rvI|Presale|Venue Presale|2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_35qkX8b|Public onsale||2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_35qkX8b|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_35qkX8b|Presale|Verizon Shine Select Seats|2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
@@ -55,7 +53,6 @@
     "vv1AkZkfNGkeE0a6p|Presale|Ticketmaster CEN Presale|2026-09-14T14:30:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vv1A7ZkfIGkdsnse_|Presale|Presales|2026-09-14T14:30:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "G5diZ_3C1Vwav|Presale|Seated Artist Presale|2026-09-14T15:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
-    "G5dIZ_35I4rvI|Public onsale||2026-09-14T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_33LZbnE|Presale|Artist Presale|2026-09-14T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_33LZbnE|Presale|LIVE NATION PRESALE|2026-09-14T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "1Fk8vPaVkaZ7G1ee|Presale|Presale|2026-09-14T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
@@ -887,7 +884,10 @@
     "vv1kvOvPkbGACwdwU|Presale|$10 Off Presale|2026-09-17T15:00:00+00:00": "2026-09-10T20:06:55.878799+00:00",
     "G5eVZ_2wEe5m0|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00": "2026-09-10T20:06:55.878799+00:00",
     "1AeFZ_oGkwzigoN|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00": "2026-09-10T20:37:56.823323+00:00",
-    "G5vzZ_o66YlJp|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T16:00:00+00:00": "2026-09-10T21:06:39.735600+00:00"
+    "G5vzZ_o66YlJp|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T16:00:00+00:00": "2026-09-10T21:06:39.735600+00:00",
+    "G5dIZ_35I4rvI|Presale|Promoter Presale|2026-09-14T17:00:00+00:00": "2026-09-10T21:36:36.166393+00:00",
+    "G5dIZ_35I4rvI|Presale|Venue Presale|2026-09-14T17:00:00+00:00": "2026-09-10T21:36:36.166393+00:00",
+    "G5dIZ_35I4rvI|Public onsale||2026-09-15T17:00:00+00:00": "2026-09-10T21:36:36.166393+00:00"
   },
   "reminded": {
     "vvG1VZ_oKVfxeW|Public onsale||2026-09-11T14:00:00+00:00": "2026-09-10T14:25:47.525077+00:00",
