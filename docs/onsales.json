@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-10T13:39:13.819312+00:00",
+  "generated": "2026-09-10T13:52:26.807180+00:00",
   "artists_watched": 50,
-  "events_swept": 800,
+  "events_swept": 801,
   "truncated": false,
   "watched_count": 94,
   "big_count": 87,
-  "other_count": 619,
+  "other_count": 620,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -130,7 +130,7 @@
       "id": "1A4ZkfxGkdPTCCa|Public onsale||2026-09-10T14:00:00+00:00"
     },
     {
-      "artist": "Carl Payne",
+      "artist": "Earthquake",
       "bucket": "big",
       "event": "Legends on the Block",
       "event_id": "vv1AvZkfxGkd-Jna2",
