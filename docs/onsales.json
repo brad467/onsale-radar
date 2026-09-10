@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-10T15:07:09.552175+00:00",
+  "generated": "2026-09-10T15:26:12.515861+00:00",
   "artists_watched": 50,
-  "events_swept": 889,
+  "events_swept": 891,
   "truncated": false,
   "watched_count": 103,
   "big_count": 96,
-  "other_count": 690,
+  "other_count": 692,
   "baseline_run": false,
-  "new_count": 0,
-  "soon_count": 9,
+  "new_count": 1,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "TOBYMAC",
@@ -1386,23 +1386,6 @@
       "starts": "2026-09-15T14:00:00+00:00",
       "ends": "2026-09-18T02:00:00Z",
       "id": "1A4ZkffGkePSF12|Presale|Amex Preferred Tickets\u2122|2026-09-15T14:00:00+00:00"
-    },
-    {
-      "artist": "Andrea Bocelli",
-      "bucket": "watched",
-      "event": "ANDREA BOCELLI Romanza 30th Anniversary World Tour",
-      "event_id": "1A4ZkffGkePSF12",
-      "event_date": "2027-01-31",
-      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-baltimore-maryland-01-31-2027/event/15006514A5CC828F",
-      "venue": "CFG Bank Arena",
-      "city": "Baltimore",
-      "state": "MD",
-      "label": "CFG Bank Arena, Baltimore, MD",
-      "kind": "Presale",
-      "presale_name": "Amex Reserved Tickets",
-      "starts": "2026-09-15T14:00:00+00:00",
-      "ends": "2026-09-18T02:00:00Z",
-      "id": "1A4ZkffGkePSF12|Presale|Amex Reserved Tickets|2026-09-15T14:00:00+00:00"
     },
     {
       "artist": "Andrea Bocelli",
@@ -12640,6 +12623,23 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2027-01-21T22:00:00Z",
       "id": "1A4ZkffGkePSF12|Presale|VIP Packages Onsale|2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Andrea Bocelli",
+      "bucket": "watched",
+      "event": "ANDREA BOCELLI Romanza 30th Anniversary World Tour",
+      "event_id": "1A4ZkffGkePSF12",
+      "event_date": "2027-01-31",
+      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-baltimore-maryland-01-31-2027/event/15006514A5CC828F",
+      "venue": "CFG Bank Arena",
+      "city": "Baltimore",
+      "state": "MD",
+      "label": "CFG Bank Arena, Baltimore, MD",
+      "kind": "Presale",
+      "presale_name": "Amex Reserved Tickets",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2027-02-01T03:00:00Z",
+      "id": "1A4ZkffGkePSF12|Presale|Amex Reserved Tickets|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "Andrea Bocelli",
