@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-10T18:42:33.010673+00:00",
+  "generated": "2026-09-10T18:54:57.006218+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 103,
-  "big_count": 100,
-  "other_count": 797,
+  "big_count": 99,
+  "other_count": 798,
   "baseline_run": false,
   "new_count": 1,
   "soon_count": 0,
@@ -12993,10 +12993,10 @@
       "state": "TX",
       "label": "Moody Center ATX, Austin, TX",
       "kind": "Presale",
-      "presale_name": "Mastercard Postsale",
+      "presale_name": "Mastercard Preferred Tickets",
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-11-12T04:00:00Z",
-      "id": "G5dIZ_od7G9C0|Presale|Mastercard Postsale|2026-09-18T15:00:00+00:00"
+      "id": "G5dIZ_od7G9C0|Presale|Mastercard Preferred Tickets|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
