@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-10T19:34:51.382390+00:00",
+  "generated": "2026-09-10T19:49:18.054332+00:00",
   "artists_watched": 50,
-  "events_swept": 969,
+  "events_swept": 971,
   "truncated": false,
   "watched_count": 103,
   "big_count": 104,
-  "other_count": 762,
+  "other_count": 764,
   "baseline_run": false,
-  "new_count": 2,
-  "soon_count": 1,
+  "new_count": 1,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Loe Shimmy",
@@ -13388,6 +13388,23 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-12-10T01:00:00Z",
       "id": "G5dIZ_od7G9C0|Public onsale||2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "G5dIZ_od7G9C0",
+      "event_date": "2026-12-09",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-austin-texas-12-09-2026/event/3A006510C43173A4",
+      "venue": "Moody Center ATX",
+      "city": "Austin",
+      "state": "TX",
+      "label": "Moody Center ATX, Austin, TX",
+      "kind": "Presale",
+      "presale_name": "T-Mobile Concert Perks",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2026-11-26T04:00:00Z",
+      "id": "G5dIZ_od7G9C0|Presale|T-Mobile Concert Perks|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
