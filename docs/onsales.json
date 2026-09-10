@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-10T20:23:42.218124+00:00",
+  "generated": "2026-09-10T20:37:56.823323+00:00",
   "artists_watched": 50,
-  "events_swept": 980,
+  "events_swept": 982,
   "truncated": false,
   "watched_count": 103,
   "big_count": 104,
-  "other_count": 773,
+  "other_count": 775,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -11960,6 +11960,23 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2026-11-20T03:00:00Z",
       "id": "1AeFZ_oGkwzigoN|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "1AeFZ_oGkwzigoN",
+      "event_date": "2026-12-17",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-jacksonville-florida-12-17-2026/event/2200651CB8B35463",
+      "venue": "VyStar Veterans Memorial Arena",
+      "city": "Jacksonville",
+      "state": "FL",
+      "label": "VyStar Veterans Memorial Arena, Jacksonville, FL",
+      "kind": "Presale",
+      "presale_name": "T-Mobile\u00ae Concert Perks",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2026-12-04T03:00:00Z",
+      "id": "1AeFZ_oGkwzigoN|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
