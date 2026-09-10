@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T18:26:52.213835+00:00",
+  "generated": "2026-09-10T18:42:33.010673+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,8 +7,8 @@
   "big_count": 100,
   "other_count": 797,
   "baseline_run": false,
-  "new_count": 11,
-  "soon_count": 19,
+  "new_count": 1,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Loe Shimmy",
@@ -10581,7 +10581,7 @@
       "kind": "Presale",
       "presale_name": "T-Mobile Offer",
       "starts": "2026-09-18T14:00:00+00:00",
-      "ends": "2026-11-22T15:59:00Z",
+      "ends": "2026-11-09T03:00:00Z",
       "id": "vv1AAZkfAGkd2ZwpT|Presale|T-Mobile Offer|2026-09-18T14:00:00+00:00"
     },
     {
@@ -10632,7 +10632,7 @@
       "kind": "Presale",
       "presale_name": "T-Mobile Offer",
       "starts": "2026-09-18T14:00:00+00:00",
-      "ends": "2026-11-22T15:59:00Z",
+      "ends": "2026-11-09T03:00:00Z",
       "id": "vv1AAZkfAGkeygXe1|Presale|T-Mobile Offer|2026-09-18T14:00:00+00:00"
     },
     {
@@ -12130,6 +12130,23 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2026-11-26T03:00:00Z",
       "id": "vv17OZ_8GkYvghOu|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv17OZ_8GkYvghOu",
+      "event_date": "2026-12-23",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-detroit-michigan-12-23-2026/event/0800650C01D5B80D",
+      "venue": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "MI",
+      "label": "Little Caesars Arena, Detroit, MI",
+      "kind": "Presale",
+      "presale_name": "T-Mobile\u00ae Concert Perks",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2026-12-10T03:00:00Z",
+      "id": "vv17OZ_8GkYvghOu|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
