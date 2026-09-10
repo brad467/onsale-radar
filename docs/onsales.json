@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T18:54:57.006218+00:00",
+  "generated": "2026-09-10T19:05:55.086232+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 99,
   "other_count": 798,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -9019,23 +9019,6 @@
       "starts": "2026-09-17T15:00:00+00:00",
       "ends": "2026-09-18T03:00:00Z",
       "id": "vvG1YZ_33_TJ3C|Presale|Ticketmaster Presale|2026-09-17T15:00:00+00:00"
-    },
-    {
-      "artist": "Andrea Bocelli",
-      "bucket": "watched",
-      "event": "ANDREA BOCELLI \"Romanza - 30th Anniversary World Tour\"",
-      "event_id": "vvG1YZ_33_TJ3C",
-      "event_date": "2027-02-05",
-      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-dallas-texas-02-05-2027/event/0C00652499FE648E",
-      "venue": "American Airlines Center",
-      "city": "Dallas",
-      "state": "TX",
-      "label": "American Airlines Center, Dallas, TX",
-      "kind": "Presale",
-      "presale_name": "STIFEL Presale",
-      "starts": "2026-09-17T15:00:00+00:00",
-      "ends": "2026-09-18T03:00:00Z",
-      "id": "vvG1YZ_33_TJ3C|Presale|STIFEL Presale|2026-09-17T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
