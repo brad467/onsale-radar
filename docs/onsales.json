@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T00:10:26.546573+00:00",
+  "generated": "2026-09-11T00:32:39.179853+00:00",
   "artists_watched": 50,
   "events_swept": 705,
   "truncated": false,
@@ -7,8 +7,8 @@
   "big_count": 78,
   "other_count": 526,
   "baseline_run": false,
-  "new_count": 4,
-  "soon_count": 0,
+  "new_count": 3,
+  "soon_count": 1,
   "windows": [
     {
       "artist": "Loe Shimmy",
@@ -2627,6 +2627,40 @@
       "starts": "2026-09-16T15:00:00+00:00",
       "ends": "2026-09-18T03:00:00Z",
       "id": "G5dIZ_3kPl_-E|Presale|VIP Package Presale|2026-09-16T15:00:00+00:00"
+    },
+    {
+      "artist": "Andrea Bocelli",
+      "bucket": "watched",
+      "event": "ANDREA BOCELLI \"Romanza - 30th Anniversary World Tour\"",
+      "event_id": "vvG1YZ_33_TJ3C",
+      "event_date": "2027-02-05",
+      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-dallas-texas-02-05-2027/event/0C00652499FE648E",
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "label": "American Airlines Center, Dallas, TX",
+      "kind": "Presale",
+      "presale_name": "Andrea Bocelli Social Fan Presale",
+      "starts": "2026-09-16T15:00:00+00:00",
+      "ends": "2026-09-18T03:00:00Z",
+      "id": "vvG1YZ_33_TJ3C|Presale|Andrea Bocelli Social Fan Presale|2026-09-16T15:00:00+00:00"
+    },
+    {
+      "artist": "Andrea Bocelli",
+      "bucket": "watched",
+      "event": "ANDREA BOCELLI \"Romanza - 30th Anniversary World Tour\"",
+      "event_id": "vvG1YZ_33_TJ3C",
+      "event_date": "2027-02-05",
+      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-dallas-texas-02-05-2027/event/0C00652499FE648E",
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "label": "American Airlines Center, Dallas, TX",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale",
+      "starts": "2026-09-16T15:00:00+00:00",
+      "ends": "2026-09-18T03:00:00Z",
+      "id": "vvG1YZ_33_TJ3C|Presale|VIP Packages Presale|2026-09-16T15:00:00+00:00"
     },
     {
       "artist": "Harry Styles",
@@ -14340,6 +14374,23 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2027-01-23T04:00:00Z",
       "id": "vvG1YZ_33_TJ3C|Presale|Amex Reserved Tickets\u00ae|2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Andrea Bocelli",
+      "bucket": "watched",
+      "event": "ANDREA BOCELLI \"Romanza - 30th Anniversary World Tour\"",
+      "event_id": "vvG1YZ_33_TJ3C",
+      "event_date": "2027-02-05",
+      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-dallas-texas-02-05-2027/event/0C00652499FE648E",
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "label": "American Airlines Center, Dallas, TX",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2027-01-26T23:00:00Z",
+      "id": "vvG1YZ_33_TJ3C|Presale|VIP Packages Onsale|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Josiah Queen",
