@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-11T22:07:19.348003+00:00",
+  "generated": "2026-09-11T22:23:54.301985+00:00",
   "artists_watched": 50,
-  "events_swept": 900,
+  "events_swept": 910,
   "truncated": false,
   "watched_count": 101,
-  "big_count": 84,
-  "other_count": 715,
+  "big_count": 86,
+  "other_count": 723,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -2457,6 +2457,23 @@
       "starts": "2026-09-16T17:00:00+00:00",
       "ends": "2026-09-17T05:00:00Z",
       "id": "1A9ZkfPGkdrgSj0|Presale|Venue Presale|2026-09-16T17:00:00+00:00"
+    },
+    {
+      "artist": "Feng Wang",
+      "bucket": "big",
+      "event": "Feng Wang",
+      "event_id": "G5vVZ_oXT0RJC",
+      "event_date": "2026-11-25",
+      "url": "https://www.ticketmaster.com/feng-wang-uncasville-connecticut-11-25-2026/event/1D00651FBF92F98E",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-16T18:00:00+00:00",
+      "ends": "2026-11-26T04:59:00Z",
+      "id": "G5vVZ_oXT0RJC|Public onsale||2026-09-16T18:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
