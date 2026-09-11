@@ -30,7 +30,6 @@
     "vvG1IZ_3FqrWDV|Public onsale||2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_3FqrWDV|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "vvG1IZ_3FqrWDV|Presale|Verizon Shine Select Seats|2026-09-11T17:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
-    "G5eVZ_8wBRWyb|Public onsale||2026-09-12T14:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "G5diZ_3C1Vwav|Presale|Verizon Shine Presale Tickets|2026-09-14T12:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "G5diZ_3C1Vwav|Presale|Citi\u00ae Cardmember Presale|2026-09-14T12:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
     "G5diZ_3C1Vwav|Presale|VIP Packages Presale|2026-09-14T12:00:00+00:00": "2026-09-10T18:08:40.074944+00:00",
@@ -883,7 +882,8 @@
     "G5eVZ_3NKdbnI|Presale|VIP Packages Public Onsale|2026-09-16T14:00:00+00:00": "2026-09-11T13:26:17.083132+00:00",
     "1AYZkfNGkd5vh6x|Presale|Artist Presale|2026-09-14T14:00:00+00:00": "2026-09-11T14:07:17.851398+00:00",
     "1AYZkfNGkd5vh6x|Presale|Venue Presale|2026-09-14T14:00:00+00:00": "2026-09-11T14:07:17.851398+00:00",
-    "1AYZkfNGkd5vh6x|Public onsale||2026-09-15T14:00:00+00:00": "2026-09-11T14:07:17.851398+00:00"
+    "1AYZkfNGkd5vh6x|Public onsale||2026-09-15T14:00:00+00:00": "2026-09-11T14:07:17.851398+00:00",
+    "G5eVZ_8wBRWyb|Public onsale||2026-09-12T03:59:00+00:00": "2026-09-11T14:26:11.425137+00:00"
   },
   "reminded": {
     "G5viZ_35cCeZd|Public onsale||2026-09-11T15:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
@@ -898,7 +898,6 @@
     "vvG1IZ_35qkX8b|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
     "vvG1IZ_3FqrWDV|Public onsale||2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
     "vvG1IZ_3FqrWDV|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-11T17:00:00+00:00": "2026-09-10T18:26:52.213835+00:00",
-    "vv1A6Zkf0GkdpF9tR|Public onsale||2026-09-11T15:00:00+00:00": "2026-09-11T00:32:39.179853+00:00",
-    "G5eVZ_8wBRWyb|Public onsale||2026-09-12T14:00:00+00:00": "2026-09-11T14:07:17.851398+00:00"
+    "vv1A6Zkf0GkdpF9tR|Public onsale||2026-09-11T15:00:00+00:00": "2026-09-11T00:32:39.179853+00:00"
   }
 }
