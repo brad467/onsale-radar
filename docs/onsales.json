@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-11T01:51:28.730270+00:00",
+  "generated": "2026-09-11T02:07:12.995546+00:00",
   "artists_watched": 50,
-  "events_swept": 707,
+  "events_swept": 721,
   "truncated": false,
   "watched_count": 101,
   "big_count": 78,
-  "other_count": 528,
+  "other_count": 542,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -14238,6 +14238,23 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-12-03T04:00:00Z",
       "id": "vv1AkZkfbGkdrSdGs|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv1AkZkfbGkdrSdGs",
+      "event_date": "2026-12-30",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-saint-louis-missouri-12-30-2026/event/06006518DECC3331",
+      "venue": "Enterprise Center",
+      "city": "Saint Louis",
+      "state": "MO",
+      "label": "Enterprise Center, Saint Louis, MO",
+      "kind": "Presale",
+      "presale_name": "T-Mobile\u00ae Concert Perks",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2026-12-17T04:00:00Z",
+      "id": "vv1AkZkfbGkdrSdGs|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
