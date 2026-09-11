@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-11T19:49:19.848007+00:00",
+  "generated": "2026-09-11T20:06:55.665416+00:00",
   "artists_watched": 50,
-  "events_swept": 884,
+  "events_swept": 887,
   "truncated": false,
   "watched_count": 101,
   "big_count": 87,
-  "other_count": 696,
+  "other_count": 699,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -7064,6 +7064,23 @@
       "starts": "2026-09-17T15:00:00+00:00",
       "ends": "2026-09-18T03:00:00Z",
       "id": "vv1A6ZkfIGkdFHP3m|Presale|Live Nation Presale|2026-09-17T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv17bZ_8GkR7R5-J",
+      "event_date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-council-bluffs-iowa-11-19-2026/event/0600650BC4BCB866",
+      "venue": "Mid-America Center",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "label": "Mid-America Center, Council Bluffs, IA",
+      "kind": "Presale",
+      "presale_name": "The Salvation Army Presale",
+      "starts": "2026-09-17T15:00:00+00:00",
+      "ends": "2026-09-18T03:00:00Z",
+      "id": "vv17bZ_8GkR7R5-J|Presale|The Salvation Army Presale|2026-09-17T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
