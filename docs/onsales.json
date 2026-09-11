@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-11T19:35:59.189128+00:00",
+  "generated": "2026-09-11T19:49:19.848007+00:00",
   "artists_watched": 50,
-  "events_swept": 883,
+  "events_swept": 884,
   "truncated": false,
   "watched_count": 101,
   "big_count": 87,
-  "other_count": 695,
+  "other_count": 696,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -447,10 +447,10 @@
       "state": "NY",
       "label": "Infosys Theater at Madison Square Garden, New York, NY",
       "kind": "Presale",
-      "presale_name": "Seated Artist Presale",
+      "presale_name": "Artist Presale",
       "starts": "2026-09-14T15:00:00+00:00",
       "ends": "2026-09-16T02:00:00Z",
-      "id": "G5diZ_3C1Vwav|Presale|Seated Artist Presale|2026-09-14T15:00:00+00:00"
+      "id": "G5diZ_3C1Vwav|Presale|Artist Presale|2026-09-14T15:00:00+00:00"
     },
     {
       "artist": "Slim Thug",
