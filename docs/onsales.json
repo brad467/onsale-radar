@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-11T15:07:45.338858+00:00",
+  "generated": "2026-09-11T15:25:12.035621+00:00",
   "artists_watched": 50,
-  "events_swept": 822,
+  "events_swept": 823,
   "truncated": false,
   "watched_count": 101,
   "big_count": 81,
-  "other_count": 640,
+  "other_count": 641,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -8951,23 +8951,6 @@
       "starts": "2026-09-17T15:00:00+00:00",
       "ends": "2026-09-18T03:00:00Z",
       "id": "G5dIZ_3kPl_-E|Presale|Ticketmaster Presale|2026-09-17T15:00:00+00:00"
-    },
-    {
-      "artist": "Andrea Bocelli",
-      "bucket": "watched",
-      "event": "ANDREA BOCELLI \"Romanza - 30th Anniversary World Tour\"",
-      "event_id": "G5dIZ_3kPl_-E",
-      "event_date": "2027-02-04",
-      "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-austin-texas-02-04-2027/event/3A006521A5AD9867",
-      "venue": "Moody Center ATX",
-      "city": "Austin",
-      "state": "TX",
-      "label": "Moody Center ATX, Austin, TX",
-      "kind": "Presale",
-      "presale_name": "STIFEL Presale",
-      "starts": "2026-09-17T15:00:00+00:00",
-      "ends": "2026-09-18T03:00:00Z",
-      "id": "G5dIZ_3kPl_-E|Presale|STIFEL Presale|2026-09-17T15:00:00+00:00"
     },
     {
       "artist": "Andrea Bocelli",
