@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-14T20:51:50.229898+00:00",
+  "generated": "2026-09-14T21:07:12.429991+00:00",
   "artists_watched": 50,
-  "events_swept": 968,
+  "events_swept": 973,
   "truncated": false,
   "watched_count": 101,
-  "big_count": 75,
-  "other_count": 792,
+  "big_count": 76,
+  "other_count": 796,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -11346,7 +11346,7 @@
       "kind": "Presale",
       "presale_name": "T-Mobile Offer",
       "starts": "2026-09-18T14:00:00+00:00",
-      "ends": "2026-12-07T01:30:00Z",
+      "ends": "2026-11-23T03:00:00Z",
       "id": "vv17OZ_8GkSf_bpO|Presale|T-Mobile Offer|2026-09-18T14:00:00+00:00"
     },
     {
@@ -14493,6 +14493,23 @@
       "starts": "2026-09-18T16:00:00+00:00",
       "ends": "2026-10-31T04:00:00Z",
       "id": "G5vzZ_8L3xM4M|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T16:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "G5vzZ_8L3xM4M",
+      "event_date": "2026-11-27",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-boise-idaho-11-27-2026/event/1E006507D28B7577",
+      "venue": "ExtraMile Arena",
+      "city": "Boise",
+      "state": "ID",
+      "label": "ExtraMile Arena, Boise, ID",
+      "kind": "Presale",
+      "presale_name": "T-Mobile Concert Perks",
+      "starts": "2026-09-18T16:00:00+00:00",
+      "ends": "2026-11-14T05:00:00Z",
+      "id": "G5vzZ_8L3xM4M|Presale|T-Mobile Concert Perks|2026-09-18T16:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
