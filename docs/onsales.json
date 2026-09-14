@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-14T12:56:47.383278+00:00",
+  "generated": "2026-09-14T13:14:01.402772+00:00",
   "artists_watched": 50,
-  "events_swept": 419,
+  "events_swept": 425,
   "truncated": false,
   "watched_count": 101,
   "big_count": 60,
-  "other_count": 258,
+  "other_count": 264,
   "baseline_run": false,
-  "new_count": 1,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 4,
   "windows": [
     {
       "artist": "Josiah Queen",
