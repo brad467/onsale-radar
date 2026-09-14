@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T21:07:12.429991+00:00",
+  "generated": "2026-09-14T21:24:39.092977+00:00",
   "artists_watched": 50,
   "events_swept": 973,
   "truncated": false,
@@ -7,7 +7,7 @@
   "big_count": 76,
   "other_count": 796,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -876,6 +876,23 @@
       "starts": "2026-09-15T17:00:00+00:00",
       "ends": "2026-09-18T16:00:00Z",
       "id": "vvG1IZ_3n0r6vH|Presale|Artist Presale|2026-09-15T17:00:00+00:00"
+    },
+    {
+      "artist": "Alan Walker",
+      "bucket": "big",
+      "event": "Insomniac Presents Alan Walker - LEGEND OF ATLANTIS Tour - Ages 18+",
+      "event_id": "vvG1IZ_3n0r6vH",
+      "event_date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/insomniac-presents-alan-walker-legend-of-los-angeles-california-03-06-2027/event/0A00652AA478707C",
+      "venue": "The Torch at LA Coliseum",
+      "city": "Los Angeles",
+      "state": "CA",
+      "label": "The Torch at LA Coliseum, Los Angeles, CA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale",
+      "starts": "2026-09-15T17:00:00+00:00",
+      "ends": "2026-09-18T16:00:00Z",
+      "id": "vvG1IZ_3n0r6vH|Presale|VIP Packages Presale|2026-09-15T17:00:00+00:00"
     },
     {
       "artist": "Car\u00edn Le\u00f3n",
@@ -15190,6 +15207,23 @@
       "starts": "2026-09-18T17:00:00+00:00",
       "ends": "2027-03-07T06:00:00Z",
       "id": "vvG1IZ_3n0r6vH|Public onsale||2026-09-18T17:00:00+00:00"
+    },
+    {
+      "artist": "Alan Walker",
+      "bucket": "big",
+      "event": "Insomniac Presents Alan Walker - LEGEND OF ATLANTIS Tour - Ages 18+",
+      "event_id": "vvG1IZ_3n0r6vH",
+      "event_date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/insomniac-presents-alan-walker-legend-of-los-angeles-california-03-06-2027/event/0A00652AA478707C",
+      "venue": "The Torch at LA Coliseum",
+      "city": "Los Angeles",
+      "state": "CA",
+      "label": "The Torch at LA Coliseum, Los Angeles, CA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-09-18T17:00:00+00:00",
+      "ends": "2027-03-02T20:00:00Z",
+      "id": "vvG1IZ_3n0r6vH|Presale|VIP Packages Onsale|2026-09-18T17:00:00+00:00"
     },
     {
       "artist": "Josiah Queen",
