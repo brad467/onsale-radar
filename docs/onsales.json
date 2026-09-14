@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-14T18:47:29.526873+00:00",
+  "generated": "2026-09-14T19:07:27.933448+00:00",
   "artists_watched": 50,
-  "events_swept": 943,
+  "events_swept": 946,
   "truncated": false,
   "watched_count": 101,
   "big_count": 75,
-  "other_count": 767,
+  "other_count": 770,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -4582,6 +4582,40 @@
       "starts": "2026-09-17T14:00:00+00:00",
       "ends": "2026-09-18T02:00:00Z",
       "id": "k7vGF_8UQSipG|Presale|iHeart Presale|2026-09-17T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "k7vGF_8UQSipG",
+      "event_date": "2026-12-17",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-albany-new-york-12-17-2026/event/0000650D9ACEC58C",
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY",
+      "label": "MVP Arena, Albany, NY",
+      "kind": "Presale",
+      "presale_name": "MVP Arena Presale",
+      "starts": "2026-09-17T14:00:00+00:00",
+      "ends": "2026-09-18T02:00:00Z",
+      "id": "k7vGF_8UQSipG|Presale|MVP Arena Presale|2026-09-17T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "k7vGF_8UQSipG",
+      "event_date": "2026-12-17",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-albany-new-york-12-17-2026/event/0000650D9ACEC58C",
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY",
+      "label": "MVP Arena, Albany, NY",
+      "kind": "Presale",
+      "presale_name": "Citi\u00ae Cardmember Aisle Offer",
+      "starts": "2026-09-17T14:00:00+00:00",
+      "ends": "2026-09-18T02:00:00Z",
+      "id": "k7vGF_8UQSipG|Presale|Citi\u00ae Cardmember Aisle Offer|2026-09-17T14:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
