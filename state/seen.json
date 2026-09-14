@@ -1,7 +1,5 @@
 {
   "alerted": {
-    "G5eVZ_3NPNcOA|Presale|Seated Artist Presale|2026-09-14T15:00:00+00:00": "2026-09-10T14:06:54.136307+00:00",
-    "G5eVZ_3NKdbnI|Presale|Seated Artist Presale|2026-09-14T15:00:00+00:00": "2026-09-10T14:06:54.136307+00:00",
     "G5eVZ_3NPNcOA|Presale|LIVE NATION PRESALE|2026-09-15T14:00:00+00:00": "2026-09-10T14:06:54.136307+00:00",
     "G5eVZ_3NKdbnI|Presale|LIVE NATION PRESALE|2026-09-15T14:00:00+00:00": "2026-09-10T14:06:54.136307+00:00",
     "G5eVZ_3NPNcOA|Public onsale||2026-09-16T14:00:00+00:00": "2026-09-10T14:06:54.136307+00:00",
@@ -807,7 +805,6 @@
     "1AYZkfNGkd5vh6x|Public onsale||2026-09-15T14:00:00+00:00": "2026-09-11T14:07:17.851398+00:00",
     "vv1AvZkffGkecCONl|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00": "2026-09-11T17:24:00.699710+00:00",
     "vv1AvZkffGkec2YNU|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T14:00:00+00:00": "2026-09-11T17:24:00.699710+00:00",
-    "G5diZ_3C1Vwav|Presale|Artist Presale|2026-09-14T15:00:00+00:00": "2026-09-11T19:49:19.848007+00:00",
     "vv17bZ_8GkR7R5-J|Presale|The Salvation Army Presale|2026-09-17T15:00:00+00:00": "2026-09-11T20:06:55.665416+00:00",
     "G5vVZ_oXT0RJC|Public onsale||2026-09-16T18:00:00+00:00": "2026-09-11T22:23:54.301985+00:00",
     "G5eVZ_3NPNcOA|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-16T14:00:00+00:00": "2026-09-11T23:49:09.790202+00:00",
@@ -836,7 +833,6 @@
     "vvG1IZ_33LZbnE|Presale|Artist Presale|2026-09-14T16:30:00+00:00": "2026-09-13T19:34:50.307183+00:00",
     "vvG1IZ_33LZbnE|Presale|LIVE NATION PRESALE|2026-09-14T16:30:00+00:00": "2026-09-13T19:34:50.307183+00:00",
     "vvG1IZ_33LZbnE|Presale|Ticketmaster CEN Presale|2026-09-14T16:30:00+00:00": "2026-09-13T21:23:16.786796+00:00",
-    "G5diZ_3C1Vwav|Presale|Community Artist Presale|2026-09-14T15:00:00+00:00": "2026-09-14T00:10:54.608834+00:00",
     "1A9ZkfPGkdqTN6J|Presale|VIP Package Presale|2026-09-15T17:00:00+00:00": "2026-09-14T01:24:44.180237+00:00",
     "1A9ZkfPGkdqTN6J|Presale|Artist Presale|2026-09-15T17:00:00+00:00": "2026-09-14T01:24:44.180237+00:00",
     "1A9ZkfPGkdrSKjZ|Presale|VIP Package Presale|2026-09-15T17:00:00+00:00": "2026-09-14T01:24:44.180237+00:00",
@@ -864,7 +860,8 @@
     "vv17FZ_3Gkl1S-Np|Public onsale||2026-09-18T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
     "vvG1VZ_3JjcEel|Public onsale||2026-09-18T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
     "1AyZkftGkdvnPgB|Public onsale||2026-09-18T17:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
-    "1AyZkftGkdviPgH|Public onsale||2026-09-18T17:00:00+00:00": "2026-09-14T14:08:10.124444+00:00"
+    "1AyZkftGkdviPgH|Public onsale||2026-09-18T17:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
+    "rZ7HnEZ1AfGK8f|Public onsale||2026-09-14T17:00:00+00:00": "2026-09-14T15:16:50.924005+00:00"
   },
   "reminded": {
     "vvG1zZ_3NnLpPu|Presale|Amex Presale Tickets\u00ae|2026-09-15T13:00:00+00:00": "2026-09-14T13:14:01.402772+00:00",
@@ -895,6 +892,13 @@
     "vv1A7ZkftGkdrmTcH|Presale|Amex Presale Tickets\u00ae|2026-09-15T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
     "vv1A7ZkftGkdrmTcH|Presale|Amex Preferred Tickets\u2122|2026-09-15T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
     "vv1A7ZkftGkdgSgdj|Presale|Amex Presale Tickets\u00ae|2026-09-15T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
-    "vv1A7ZkftGkdgSgdj|Presale|Amex Preferred Tickets\u2122|2026-09-15T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00"
+    "vv1A7ZkftGkdgSgdj|Presale|Amex Preferred Tickets\u2122|2026-09-15T14:00:00+00:00": "2026-09-14T14:08:10.124444+00:00",
+    "G5eVZ_8muTUYo|Presale|Amex Presale Tickets\u00ae|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00",
+    "G5dIZ_3kPl_-E|Presale|Amex Presale Tickets\u00ae|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00",
+    "G5dIZ_3kPl_-E|Presale|Amex Preferred Tickets\u2122|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00",
+    "G5dIZ_3kPl_-E|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00",
+    "vvG1YZ_33_TJ3C|Presale|Amex Presale Tickets\u00ae|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00",
+    "vvG1YZ_33_TJ3C|Presale|Amex Preferred Tickets|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00",
+    "vvG1YZ_33_TJ3C|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-15T15:00:00+00:00": "2026-09-14T15:16:50.924005+00:00"
   }
 }
