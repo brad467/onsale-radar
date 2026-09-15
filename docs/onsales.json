@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-15T18:26:25.208706+00:00",
+  "generated": "2026-09-15T18:42:05.631321+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 100,
-  "big_count": 68,
-  "other_count": 832,
+  "big_count": 66,
+  "other_count": 834,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -26,23 +26,6 @@
       "starts": "2026-09-15T21:00:00+00:00",
       "ends": "2026-09-16T13:00:00Z",
       "id": "vvG1YZ_30WFqHT|Presale|Artist Presale|2026-09-15T21:00:00+00:00"
-    },
-    {
-      "artist": "Harry Styles",
-      "bucket": "big",
-      "event": "Harry Styles: Together, Together",
-      "event_id": "vvG1YZ_30HRWD_",
-      "event_date": "2027-04-10",
-      "url": "https://signup.livenation.com/harrystyles",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
-      "state": "TX",
-      "label": "AT&T Stadium, Arlington, TX",
-      "kind": "Presale",
-      "presale_name": "Artist Presale",
-      "starts": "2026-09-15T21:00:00+00:00",
-      "ends": "2026-09-16T13:00:00Z",
-      "id": "vvG1YZ_30HRWD_|Presale|Artist Presale|2026-09-15T21:00:00+00:00"
     },
     {
       "artist": "Harry Styles",
@@ -825,40 +808,6 @@
       "starts": "2026-09-16T15:00:00+00:00",
       "ends": "2026-09-18T03:00:00Z",
       "id": "vvG1YZ_33_TJ3C|Presale|VIP Packages Presale|2026-09-16T15:00:00+00:00"
-    },
-    {
-      "artist": "Harry Styles",
-      "bucket": "big",
-      "event": "Harry Styles w/ CA7RIEL / PACO AMOROSO",
-      "event_id": "Z7r9jZ1AAvP4p",
-      "event_date": "2027-04-10",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvP4p",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
-      "state": "TX",
-      "label": "AT&T Stadium, Arlington, TX",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-16T15:00:00+00:00",
-      "ends": "2027-04-11T00:45:00Z",
-      "id": "Z7r9jZ1AAvP4p|Public onsale||2026-09-16T15:00:00+00:00"
-    },
-    {
-      "artist": "Harry Styles",
-      "bucket": "big",
-      "event": "Harry Styles: Together, Together",
-      "event_id": "vvG1YZ_30HRWD_",
-      "event_date": "2027-04-10",
-      "url": "https://signup.livenation.com/harrystyles",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
-      "state": "TX",
-      "label": "AT&T Stadium, Arlington, TX",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-16T15:00:00+00:00",
-      "ends": "2027-04-11T00:45:00Z",
-      "id": "vvG1YZ_30HRWD_|Public onsale||2026-09-16T15:00:00+00:00"
     },
     {
       "artist": "Harry Styles",
@@ -3375,23 +3324,6 @@
       "starts": "2026-09-17T14:00:00+00:00",
       "ends": "2026-09-18T02:00:00Z",
       "id": "G5eVZ_o2S_BFy|Presale|Venue Presale|2026-09-17T14:00:00+00:00"
-    },
-    {
-      "artist": "Trans-Siberian Orchestra",
-      "bucket": "watched",
-      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
-      "event_id": "G5eVZ_o2S_BFy",
-      "event_date": "2026-12-11",
-      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-greenville-south-carolina-12-11-2026/event/2D006513F367A239",
-      "venue": "Bon Secours Wellness Arena ",
-      "city": "Greenville",
-      "state": "SC",
-      "label": "Bon Secours Wellness Arena , Greenville, SC",
-      "kind": "Presale",
-      "presale_name": "Presales",
-      "starts": "2026-09-17T14:00:00+00:00",
-      "ends": "2026-09-18T02:00:00Z",
-      "id": "G5eVZ_o2S_BFy|Presale|Presales|2026-09-17T14:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
@@ -6282,6 +6214,23 @@
       "starts": "2026-09-17T15:00:00+00:00",
       "ends": "2026-09-18T03:00:00Z",
       "id": "vv17bZ_8GkR7R5-J|Presale|LIVE NATION PRESALE|2026-09-17T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv17bZ_8GkR7R5-J",
+      "event_date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-council-bluffs-iowa-11-19-2026/event/0600650BC4BCB866",
+      "venue": "Mid-America Center",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "label": "Mid-America Center, Council Bluffs, IA",
+      "kind": "Presale",
+      "presale_name": "Radio Presale",
+      "starts": "2026-09-17T15:00:00+00:00",
+      "ends": "2026-09-18T03:00:00Z",
+      "id": "vv17bZ_8GkR7R5-J|Presale|Radio Presale|2026-09-17T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
