@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T17:07:07.973894+00:00",
+  "generated": "2026-09-15T17:23:05.290895+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 69,
   "other_count": 831,
   "baseline_run": false,
-  "new_count": 3,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -10685,6 +10685,23 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2026-11-14T03:00:00Z",
       "id": "G5eVZ_o2S2Bkg|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "G5eVZ_o2S2Bkg",
+      "event_date": "2026-12-11",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-greenville-south-carolina-12-11-2026/event/2D006513F33FA1B5",
+      "venue": "Bon Secours Wellness Arena ",
+      "city": "Greenville",
+      "state": "SC",
+      "label": "Bon Secours Wellness Arena , Greenville, SC",
+      "kind": "Presale",
+      "presale_name": "$10 Off TSO Limited Time Offer",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2026-09-21T03:59:00Z",
+      "id": "G5eVZ_o2S2Bkg|Presale|$10 Off TSO Limited Time Offer|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "Shinedown",
