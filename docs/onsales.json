@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T11:07:34.754628+00:00",
+  "generated": "2026-09-15T11:24:55.692698+00:00",
   "artists_watched": 50,
   "events_swept": 864,
   "truncated": false,
@@ -7,7 +7,7 @@
   "big_count": 73,
   "other_count": 690,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -11110,6 +11110,23 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2026-12-04T02:30:00Z",
       "id": "1AvbZ_8GkwOuUeg|Public onsale||2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "1AvbZ_8GkwOuUeg",
+      "event_date": "2026-12-03",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-charleston-west-virginia-12-03-2026/event/1600650CA03760B5",
+      "venue": "Charleston Coliseum",
+      "city": "Charleston",
+      "state": "WV",
+      "label": "Charleston Coliseum, Charleston, WV",
+      "kind": "Presale",
+      "presale_name": "T-Mobile Offer",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2026-11-20T03:00:00Z",
+      "id": "1AvbZ_8GkwOuUeg|Presale|T-Mobile Offer|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
