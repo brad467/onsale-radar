@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-15T13:41:55.355913+00:00",
+  "generated": "2026-09-15T13:54:04.777632+00:00",
   "artists_watched": 50,
-  "events_swept": 894,
+  "events_swept": 899,
   "truncated": false,
   "watched_count": 101,
-  "big_count": 77,
-  "other_count": 716,
+  "big_count": 78,
+  "other_count": 720,
   "baseline_run": false,
-  "new_count": 6,
-  "soon_count": 0,
+  "new_count": 2,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Sidhu Moose Wala",
@@ -13869,6 +13869,23 @@
       "artist": "Trans-Siberian Orchestra",
       "bucket": "watched",
       "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vvG1YZ_8BGbA0q",
+      "event_date": "2026-12-13",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-dallas-texas-12-13-2026/event/0C00650E8C60591D",
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "label": "American Airlines Center, Dallas, TX",
+      "kind": "Presale",
+      "presale_name": "T-Mobile\u00ae Concerts Perk Offer",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2026-11-30T04:00:00Z",
+      "id": "vvG1YZ_8BGbA0q|Presale|T-Mobile\u00ae Concerts Perk Offer|2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
       "event_id": "vvG1YZ_8BGaPN7",
       "event_date": "2026-12-13",
       "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-dallas-texas-12-13-2026/event/0C00650E8C2658C4",
@@ -15392,7 +15409,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-09-18T17:00:00+00:00",
-      "ends": "2027-02-07T04:00:00Z",
+      "ends": "2027-02-07T05:00:00Z",
       "id": "1Av0Z_3GkRqRnNa|Public onsale||2026-09-18T17:00:00+00:00"
     },
     {
@@ -16038,7 +16055,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-09-25T14:00:00+00:00",
-      "ends": "2027-04-25T02:30:00Z",
+      "ends": "2027-04-24T22:30:00Z",
       "id": "vvG1VZ_3xhd4sR|Public onsale||2026-09-25T14:00:00+00:00"
     },
     {
@@ -16091,6 +16108,23 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-05-16T00:00:00Z",
       "id": "vv1kvOvPFIGAupVVY|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Kenny Chesney",
+      "bucket": "big",
+      "event": "Kenny Chesney w/ Eric Church",
+      "event_id": "Z7r9jZ1AAvsAA",
+      "event_date": "2027-07-03",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvsAA",
+      "venue": "Nissan Stadium",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Nissan Stadium, Nashville, TN",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-07-03T21:30:00Z",
+      "id": "Z7r9jZ1AAvsAA|Public onsale||2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Kenny Chesney",
