@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-16T01:24:14.952911+00:00",
+  "generated": "2026-09-16T01:36:54.766173+00:00",
   "artists_watched": 50,
-  "events_swept": 996,
+  "events_swept": 999,
   "truncated": false,
   "watched_count": 104,
   "big_count": 103,
-  "other_count": 789,
+  "other_count": 792,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -15853,6 +15853,23 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-12-02T04:00:00Z",
       "id": "vv1kvOvPkbGACwdwU|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv1kvOvPkbGACwdwU",
+      "event_date": "2026-12-29",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-kansas-city-missouri-12-29-2026/event/060065198EC83CB6",
+      "venue": "T-Mobile Center",
+      "city": "Kansas City",
+      "state": "MO",
+      "label": "T-Mobile Center, Kansas City, MO",
+      "kind": "Presale",
+      "presale_name": "T-Mobile Concert Perks",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2026-12-16T04:00:00Z",
+      "id": "vv1kvOvPkbGACwdwU|Presale|T-Mobile Concert Perks|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
