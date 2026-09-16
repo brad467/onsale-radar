@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-16T20:25:49.315506+00:00",
+  "generated": "2026-09-16T20:39:59.888653+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 102,
-  "big_count": 75,
-  "other_count": 823,
+  "big_count": 76,
+  "other_count": 822,
   "baseline_run": false,
-  "new_count": 2,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -13269,6 +13269,23 @@
       "starts": "2026-09-18T16:00:00+00:00",
       "ends": "2026-11-14T05:00:00Z",
       "id": "G5vzZ_8L3xM4M|Presale|T-Mobile Concert Perks|2026-09-18T16:00:00+00:00"
+    },
+    {
+      "artist": "Rene Vaca",
+      "bucket": "big",
+      "event": "Rene Vaca w/ That Mexican OT",
+      "event_id": "Z7r9jZ1AAvSPI",
+      "event_date": "2026-12-04",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvSPI",
+      "venue": "Sames Auto Arena",
+      "city": "Laredo",
+      "state": "TX",
+      "label": "Sames Auto Arena, Laredo, TX",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-18T16:00:00+00:00",
+      "ends": "2026-12-05T02:00:00Z",
+      "id": "Z7r9jZ1AAvSPI|Public onsale||2026-09-18T16:00:00+00:00"
     },
     {
       "artist": "Karan Aujla",
