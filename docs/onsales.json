@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-16T15:39:13.273275+00:00",
+  "generated": "2026-09-16T15:52:30.972262+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 100,
-  "big_count": 80,
-  "other_count": 820,
+  "big_count": 82,
+  "other_count": 818,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -14391,6 +14391,23 @@
       "starts": "2026-09-21T04:59:00+00:00",
       "ends": "2027-03-13T01:00:00Z",
       "id": "G5dIZ_olF8jRI|Public onsale||2026-09-21T04:59:00+00:00"
+    },
+    {
+      "artist": "Homecoming Concert 159 Ed.",
+      "bucket": "big",
+      "event": "Homecoming Concert 159 Ed.",
+      "event_id": "1A4ZkfYGke08bPT",
+      "event_date": "2026-10-07",
+      "url": "https://www.ticketmaster.com/homecoming-concert-159-ed-baltimore-maryland-10-07-2026/event/15006530A441897F",
+      "venue": "Hill Field House",
+      "city": "Baltimore",
+      "state": "MD",
+      "label": "Hill Field House, Baltimore, MD",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-21T21:00:00+00:00",
+      "ends": "2026-10-08T02:00:00Z",
+      "id": "1A4ZkfYGke08bPT|Public onsale||2026-09-21T21:00:00+00:00"
     },
     {
       "artist": "Oprah Winfrey",
