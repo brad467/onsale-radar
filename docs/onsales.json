@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T20:08:14.127392+00:00",
+  "generated": "2026-09-16T20:25:49.315506+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 75,
   "other_count": 823,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -9296,6 +9296,23 @@
       "artist": "Trans-Siberian Orchestra",
       "bucket": "watched",
       "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "G5vVZ_8EBYJDo",
+      "event_date": "2026-11-29",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-uncasville-connecticut-11-29-2026/event/1D006509FAC26ED1",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Presale",
+      "presale_name": "Citi\u00ae Cardmember Preferred Tickets",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2026-11-02T03:00:00Z",
+      "id": "G5vVZ_8EBYJDo|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
       "event_id": "G5vVZ_3kuLMRK",
       "event_date": "2026-11-29",
       "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-uncasville-connecticut-11-29-2026/event/1D0065218D7F7BD3",
@@ -9308,6 +9325,23 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2026-11-30T03:00:00Z",
       "id": "G5vVZ_3kuLMRK|Public onsale||2026-09-18T14:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "G5vVZ_3kuLMRK",
+      "event_date": "2026-11-29",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-uncasville-connecticut-11-29-2026/event/1D0065218D7F7BD3",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Presale",
+      "presale_name": "Citi\u00ae Cardmember Preferred Tickets",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2026-11-02T03:00:00Z",
+      "id": "G5vVZ_3kuLMRK|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
