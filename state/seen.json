@@ -935,8 +935,6 @@
     "1A9ZkfPGkdqTN6J|Presale|Venue Presale|2026-09-16T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "1A9ZkfPGkdrSKjZ|Presale|Ticketmaster Presale|2026-09-16T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "1A9ZkfPGkdrSKjZ|Presale|Venue Presale|2026-09-16T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
-    "1A9ZkfPGkdrgSj0|Presale|Ticketmaster Presale|2026-09-16T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
-    "1A9ZkfPGkdrgSj0|Presale|Venue Presale|2026-09-16T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "G5vzZ_3K6u08y|Presale|Church Choir Presale|2026-09-16T18:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "vv1A7ZkftGkdXYE23|Presale|Artist Presale|2026-09-16T21:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "vvG1VZ_3xhd4sR|Presale|Vibe Room Presale|2026-09-17T14:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
@@ -981,10 +979,6 @@
     "1A9ZkfPGkdrSKjZ|Presale|Travel VIP Packages Onsale|2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "1A9ZkfPGkdrSKjZ|Presale|VIP Package Onsale|2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "1A9ZkfPGkdrSKjZ|Presale|Verizon Shine Featured Venues|2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
-    "1A9ZkfPGkdrgSj0|Public onsale||2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
-    "1A9ZkfPGkdrgSj0|Presale|Travel VIP Packages Onsale|2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
-    "1A9ZkfPGkdrgSj0|Presale|VIP Package Onsale|2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
-    "1A9ZkfPGkdrgSj0|Presale|Verizon Shine Featured Venues|2026-09-17T17:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "G5vzZ_3K6u08y|Presale|Support Presale|2026-09-17T18:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "vvG1VZ_3JjcEel|Public onsale||2026-09-18T14:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "vv1AFZkfNGkeiofUw|Public onsale||2026-09-18T14:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
@@ -1109,7 +1103,8 @@
     "Z7r9jZ1AAvsA7|Public onsale||2026-09-26T15:00:00+00:00": "2026-09-16T00:09:41.139622+00:00",
     "vv1kvOvPkbGACwdwU|Presale|T-Mobile Concert Perks|2026-09-18T15:00:00+00:00": "2026-09-16T01:36:54.766173+00:00",
     "vv1kvOvPkbGACwdwU|Presale|Preferred Seating|2026-09-18T15:00:00+00:00": "2026-09-16T01:51:10.489695+00:00",
-    "vv1FbZ_oJ8vKZdC8G|Presale|Preferred Seating|2026-09-18T15:00:00+00:00": "2026-09-16T02:07:16.504238+00:00"
+    "vv1FbZ_oJ8vKZdC8G|Presale|Preferred Seating|2026-09-18T15:00:00+00:00": "2026-09-16T02:07:16.504238+00:00",
+    "vv1FbZ_oJ8vKZdC8G|Presale|$10 Off Trans-Siberian Orchestra Presale|2026-09-17T15:00:00+00:00": "2026-09-16T02:25:22.467876+00:00"
   },
   "reminded": {
     "G5eVZ_3NPNcOA|Public onsale||2026-09-16T14:00:00+00:00": "2026-09-15T19:50:43.185371+00:00",
