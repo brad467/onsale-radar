@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T02:25:22.467876+00:00",
+  "generated": "2026-09-16T02:39:17.852949+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -15870,6 +15870,23 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-12-29T16:00:00Z",
       "id": "vv1FbZ_oJ8vKZdC8G|Presale|Preferred Seating|2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv1FbZ_oJ8vKZdC8G",
+      "event_date": "2026-12-29",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-kansas-city-missouri-12-29-2026/event/0600651990053DFB",
+      "venue": "T-Mobile Center",
+      "city": "Kansas City",
+      "state": "MO",
+      "label": "T-Mobile Center, Kansas City, MO",
+      "kind": "Presale",
+      "presale_name": "$10 Off Trans-Siberian Orchestra Offer",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2026-09-21T04:59:00Z",
+      "id": "vv1FbZ_oJ8vKZdC8G|Presale|$10 Off Trans-Siberian Orchestra Offer|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
