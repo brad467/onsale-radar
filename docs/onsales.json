@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T23:07:19.533093+00:00",
+  "generated": "2026-09-16T23:23:27.995678+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,8 +7,8 @@
   "big_count": 77,
   "other_count": 821,
   "baseline_run": false,
-  "new_count": 5,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Dylan Scott",
