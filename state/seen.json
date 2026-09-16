@@ -1,7 +1,6 @@
 {
   "alerted": {
     "G5dIZ_3z1jt7I|Public onsale||2026-09-16T20:00:00+00:00": "2026-09-15T19:37:41.705223+00:00",
-    "1ApZkffGkdGgXqT|Presale|Citi\u00ae Cardmember Aisle Offer|2026-09-17T04:00:00+00:00": "2026-09-15T19:37:41.705223+00:00",
     "vvG1zZ_3mYJGwO|Presale|LIVE NATION PRESALE|2026-09-17T14:00:00+00:00": "2026-09-15T19:37:41.705223+00:00",
     "G5diZ_3IvACNR|Presale|LIVE NATION PRESALE|2026-09-17T14:00:00+00:00": "2026-09-15T19:37:41.705223+00:00",
     "G5diZ_3IvACNR|Presale|Venue Presale|2026-09-17T14:00:00+00:00": "2026-09-15T19:37:41.705223+00:00",
@@ -833,11 +832,11 @@
     "vv17FZ_8GkU2VDcC|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T19:08:48.905282+00:00",
     "G5vVZ_8EBYJDo|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T19:08:48.905282+00:00",
     "G5vVZ_3kuLMRK|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T19:08:48.905282+00:00",
-    "vv17FZ_8GkU2VDcC|Presale|T-Mobile $99 All-In Offer|2026-09-18T14:00:00+00:00": "2026-09-16T19:08:48.905282+00:00"
+    "vv17FZ_8GkU2VDcC|Presale|T-Mobile $99 All-In Offer|2026-09-18T14:00:00+00:00": "2026-09-16T19:08:48.905282+00:00",
+    "1ApZkffGkdGgXqT|Presale|Citi\u00ae Cardmember Aisle Offer|2026-09-17T14:00:00+00:00": "2026-09-16T19:24:02.271804+00:00"
   },
   "reminded": {
     "G5dIZ_3z1jt7I|Public onsale||2026-09-16T20:00:00+00:00": "2026-09-15T20:07:40.001038+00:00",
-    "1ApZkffGkdGgXqT|Presale|Citi\u00ae Cardmember Aisle Offer|2026-09-17T04:00:00+00:00": "2026-09-16T04:07:26.667311+00:00",
     "G5diZ_3IvACNR|Presale|Chase Cardholder Preferred Tickets|2026-09-17T14:00:00+00:00": "2026-09-16T14:10:11.781797+00:00",
     "1ApZkffGkdGgXqT|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T14:10:11.781797+00:00",
     "1ApZkffGkdGgXqT|Presale|Presales|2026-09-17T14:00:00+00:00": "2026-09-16T14:10:11.781797+00:00",
@@ -1323,6 +1322,9 @@
     "1Av0Z_8GkUp94Si|Presale|Venue Presale|2026-09-17T17:00:00+00:00": "2026-09-16T17:06:49.763758+00:00",
     "1Av0Z_8GkUp94Si|Presale|Citi\u00ae Cardmember Presale|2026-09-17T17:00:00+00:00": "2026-09-16T17:06:49.763758+00:00",
     "1Av0Z_8GkUp94Si|Presale|Citi\u00ae Cardmember Aisle Offer|2026-09-17T17:00:00+00:00": "2026-09-16T17:06:49.763758+00:00",
-    "1Av0Z_8GkUp94Si|Presale|$10 Off Trans-Siberian Orchestra Offer|2026-09-17T17:00:00+00:00": "2026-09-16T17:06:49.763758+00:00"
+    "1Av0Z_8GkUp94Si|Presale|$10 Off Trans-Siberian Orchestra Offer|2026-09-17T17:00:00+00:00": "2026-09-16T17:06:49.763758+00:00",
+    "vv17FZ_8GkU2VDcC|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T19:24:02.271804+00:00",
+    "G5vVZ_8EBYJDo|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T19:24:02.271804+00:00",
+    "G5vVZ_3kuLMRK|Presale|Artist Presale|2026-09-17T14:00:00+00:00": "2026-09-16T19:24:02.271804+00:00"
   }
 }
