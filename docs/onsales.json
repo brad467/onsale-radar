@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-17T15:07:42.524050+00:00",
+  "generated": "2026-09-17T15:25:42.270188+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 120,
-  "big_count": 83,
-  "other_count": 797,
+  "big_count": 81,
+  "other_count": 799,
   "baseline_run": false,
-  "new_count": 3,
-  "soon_count": 89,
+  "new_count": 4,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Karan Aujla",
@@ -7485,10 +7485,10 @@
       "state": "MI",
       "label": "Little Caesars Arena, Detroit, MI",
       "kind": "Presale",
-      "presale_name": "Amex Presale Tickets VIP Packages",
+      "presale_name": "Amex Presale Tickets\u00ae VIP Packages",
       "starts": "2026-09-23T14:00:00+00:00",
       "ends": "2026-09-24T13:45:00Z",
-      "id": "vv17OZ_3GkY-oWzW|Presale|Amex Presale Tickets VIP Packages|2026-09-23T14:00:00+00:00"
+      "id": "vv17OZ_3GkY-oWzW|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -7502,10 +7502,10 @@
       "state": "MI",
       "label": "Little Caesars Arena, Detroit, MI",
       "kind": "Presale",
-      "presale_name": "Amex Presale Tickets",
+      "presale_name": "Amex Presale Tickets\u00ae",
       "starts": "2026-09-23T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
-      "id": "vv17OZ_3GkY-oWzW|Presale|Amex Presale Tickets|2026-09-23T14:00:00+00:00"
+      "id": "vv17OZ_3GkY-oWzW|Presale|Amex Presale Tickets\u00ae|2026-09-23T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -7557,6 +7557,23 @@
       "starts": "2026-09-23T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "1AvbZ_3GkBx_fB1|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1AvbZ_3GkBx_fB1",
+      "event_date": "2027-03-07",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-cincinnati-ohio-03-07-2027/event/1600652EA2654E8A",
+      "venue": "Heritage Bank Center",
+      "city": "Cincinnati",
+      "state": "OH",
+      "label": "Heritage Bank Center, Cincinnati, OH",
+      "kind": "Presale",
+      "presale_name": "Amex Presale Tickets VIP Packages",
+      "starts": "2026-09-23T14:00:00+00:00",
+      "ends": "2026-09-24T13:45:00Z",
+      "id": "1AvbZ_3GkBx_fB1|Presale|Amex Presale Tickets VIP Packages|2026-09-23T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -8441,6 +8458,23 @@
       "starts": "2026-09-24T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "1AvbZ_3GkBx_fB1|Presale|Local Presales|2026-09-24T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1AvbZ_3GkBx_fB1",
+      "event_date": "2027-03-07",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-cincinnati-ohio-03-07-2027/event/1600652EA2654E8A",
+      "venue": "Heritage Bank Center",
+      "city": "Cincinnati",
+      "state": "OH",
+      "label": "Heritage Bank Center, Cincinnati, OH",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-09-24T14:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "1AvbZ_3GkBx_fB1|Presale|VIP Package Presale|2026-09-24T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
