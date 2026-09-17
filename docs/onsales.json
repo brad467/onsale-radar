@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T15:25:42.270188+00:00",
+  "generated": "2026-09-17T15:38:43.383934+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 81,
   "other_count": 799,
   "baseline_run": false,
-  "new_count": 4,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -7468,10 +7468,10 @@
       "state": "MA",
       "label": "TD Garden, Boston, MA",
       "kind": "Presale",
-      "presale_name": "Amex Presale",
+      "presale_name": "Amex Presale Tickets\u00ae",
       "starts": "2026-09-23T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
-      "id": "vv1AvZkftGkdjVZxR|Presale|Amex Presale|2026-09-23T14:00:00+00:00"
+      "id": "vv1AvZkftGkdjVZxR|Presale|Amex Presale Tickets\u00ae|2026-09-23T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
