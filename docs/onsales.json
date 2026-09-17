@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-17T16:39:30.078141+00:00",
+  "generated": "2026-09-17T16:52:13.387421+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 116,
-  "big_count": 74,
-  "other_count": 810,
+  "big_count": 73,
+  "other_count": 811,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -3902,23 +3902,6 @@
       "starts": "2026-09-18T14:00:00+00:00",
       "ends": "2027-03-21T02:00:00Z",
       "id": "vv17FZ_3Gkl1S-Np|Public onsale||2026-09-18T14:00:00+00:00"
-    },
-    {
-      "artist": "Brit Floyd",
-      "bucket": "big",
-      "event": "Brit Floyd: Animals 50 World Tour 2027",
-      "event_id": "vvG1VZ_3JjcEel",
-      "event_date": "2027-04-03",
-      "url": "https://www.ticketmaster.com/brit-floyd-animals-50-world-tour-estero-florida-04-03-2027/event/0D0065299CB670AB",
-      "venue": "Hertz Arena",
-      "city": "Estero",
-      "state": "FL",
-      "label": "Hertz Arena, Estero, FL",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-18T14:00:00+00:00",
-      "ends": "2027-04-04T01:00:00Z",
-      "id": "vvG1VZ_3JjcEel|Public onsale||2026-09-18T14:00:00+00:00"
     },
     {
       "artist": "UAU 2026 FANCON [Playlist #Your Youth] in Seattle",
