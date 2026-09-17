@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T18:08:51.798765+00:00",
+  "generated": "2026-09-17T18:29:10.344373+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 74,
   "other_count": 814,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -6406,6 +6406,23 @@
       "artist": "Hans Zimmer",
       "bucket": "watched",
       "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1kGZvPGaGA1LecY",
+      "event_date": "2027-02-23",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-philadelphia-pennsylvania-02-23-2027/event/300065309A7C2B70",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale",
+      "starts": "2026-09-24T14:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "1kGZvPGaGA1LecY|Presale|VIP Packages Presale|2026-09-24T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
       "event_id": "vv1AvZkftGkdjVZxR",
       "event_date": "2027-02-24",
       "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-boston-massachusetts-02-24-2027/event/01006529DCD008AF",
@@ -7115,6 +7132,23 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-02-24T00:30:00Z",
       "id": "1kGZvPGaGA1LecY|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1kGZvPGaGA1LecY",
+      "event_date": "2027-02-23",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-philadelphia-pennsylvania-02-23-2027/event/300065309A7C2B70",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-02-02T22:00:00Z",
+      "id": "1kGZvPGaGA1LecY|Presale|VIP Packages Onsale|2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
