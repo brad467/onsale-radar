@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T17:06:07.037286+00:00",
+  "generated": "2026-09-17T17:22:30.043415+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,8 +7,8 @@
   "big_count": 76,
   "other_count": 811,
   "baseline_run": false,
-  "new_count": 4,
-  "soon_count": 32,
+  "new_count": 0,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Sidhu Moose Wala",
