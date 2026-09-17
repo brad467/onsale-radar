@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T23:34:27.466722+00:00",
+  "generated": "2026-09-17T23:49:23.926904+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 74,
   "other_count": 819,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -3239,6 +3239,23 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2026-11-20T01:00:00Z",
       "id": "vv17bZ_8GkR7R5-J|Presale|T-Mobile\u00ae Reserved Tickets|2026-09-18T15:00:00+00:00"
+    },
+    {
+      "artist": "Trans-Siberian Orchestra",
+      "bucket": "watched",
+      "event": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "event_id": "vv17bZ_8GkR7R5-J",
+      "event_date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-council-bluffs-iowa-11-19-2026/event/0600650BC4BCB866",
+      "venue": "Mid-America Center",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "label": "Mid-America Center, Council Bluffs, IA",
+      "kind": "Presale",
+      "presale_name": "T-Mobile\u00ae Concert Perks",
+      "starts": "2026-09-18T15:00:00+00:00",
+      "ends": "2026-11-20T01:00:00Z",
+      "id": "vv17bZ_8GkR7R5-J|Presale|T-Mobile\u00ae Concert Perks|2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Trans-Siberian Orchestra",
