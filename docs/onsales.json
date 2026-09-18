@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T02:07:02.596810+00:00",
+  "generated": "2026-09-18T02:26:27.889073+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 80,
   "other_count": 800,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -2867,6 +2867,23 @@
       "id": "vvG1VZ_3ERvKx7|Presale|VIP Packages Onsale|2026-09-18T14:00:00+00:00"
     },
     {
+      "artist": "Ikkimel: Gib Mir Die Bratwurst Tour",
+      "bucket": "big",
+      "event": "Ikkimel: Gib Mir Die Bratwurst Tour",
+      "event_id": "rZ7HnEZ1AfGOb0",
+      "event_date": "2027-02-20",
+      "url": "https://www.ticketweb.com/event/ikkimel-gib-mir-die-bratwurst-thalia-hall-tickets/14320624",
+      "venue": "Thalia Hall",
+      "city": "Chicago",
+      "state": "IL",
+      "label": "Thalia Hall, Chicago, IL",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-18T14:00:00+00:00",
+      "ends": "2027-02-21T01:30:00Z",
+      "id": "rZ7HnEZ1AfGOb0|Public onsale||2026-09-18T14:00:00+00:00"
+    },
+    {
       "artist": "Brit Floyd",
       "bucket": "big",
       "event": "Brit Floyd",
@@ -4412,23 +4429,6 @@
       "starts": "2026-09-18T15:00:00+00:00",
       "ends": "2027-01-26T23:00:00Z",
       "id": "vvG1YZ_33_TJ3C|Presale|VIP Packages Onsale|2026-09-18T15:00:00+00:00"
-    },
-    {
-      "artist": "Ikkimel: Gib Mir Die Bratwurst Tour",
-      "bucket": "big",
-      "event": "Ikkimel: Gib Mir Die Bratwurst Tour",
-      "event_id": "rZ7HnEZ1AfGOb0",
-      "event_date": "2027-02-20",
-      "url": "https://www.ticketweb.com/event/ikkimel-gib-mir-die-bratwurst-thalia-hall-tickets/14320624",
-      "venue": "Thalia Hall",
-      "city": "Chicago",
-      "state": "IL",
-      "label": "Thalia Hall, Chicago, IL",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-18T15:00:00+00:00",
-      "ends": "2027-02-21T01:30:00Z",
-      "id": "rZ7HnEZ1AfGOb0|Public onsale||2026-09-18T15:00:00+00:00"
     },
     {
       "artist": "Josiah Queen",
