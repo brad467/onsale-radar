@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-18T18:40:41.828351+00:00",
+  "generated": "2026-09-18T18:50:52.410475+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 120,
-  "big_count": 68,
-  "other_count": 812,
+  "big_count": 67,
+  "other_count": 813,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -60,23 +60,6 @@
       "starts": "2026-09-19T17:00:00+00:00",
       "ends": "2027-03-03T04:00:00Z",
       "id": "G5vYZ_3NpydIE|Public onsale||2026-09-19T17:00:00+00:00"
-    },
-    {
-      "artist": "Elevation Worship",
-      "bucket": "big",
-      "event": "Elevation Worship & Steven Furtick",
-      "event_id": "vvG1IZ_37k-njG",
-      "event_date": "2027-03-05",
-      "url": "https://www.ticketmaster.com/elevation-worship-steven-furtick-san-diego-california-03-05-2027/event/0A0065210686A70C",
-      "venue": "Viejas Arena at Aztec Bowl San Diego State University",
-      "city": "San Diego",
-      "state": "CA",
-      "label": "Viejas Arena at Aztec Bowl San Diego State University, San Diego, CA",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-19T17:00:00+00:00",
-      "ends": "2027-03-06T05:00:00Z",
-      "id": "vvG1IZ_37k-njG|Public onsale||2026-09-19T17:00:00+00:00"
     },
     {
       "artist": "TOBYMAC",
