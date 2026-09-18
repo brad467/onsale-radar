@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T14:25:01.697163+00:00",
+  "generated": "2026-09-18T14:38:24.357581+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 72,
   "other_count": 811,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -4094,6 +4094,23 @@
       "artist": "Hans Zimmer",
       "bucket": "watched",
       "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1AvbZ_3GkBx_fB1",
+      "event_date": "2027-03-07",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-cincinnati-ohio-03-07-2027/event/1600652EA2654E8A",
+      "venue": "Heritage Bank Center",
+      "city": "Cincinnati",
+      "state": "OH",
+      "label": "Heritage Bank Center, Cincinnati, OH",
+      "kind": "Presale",
+      "presale_name": "Ticketmaster Presale",
+      "starts": "2026-09-24T16:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "1AvbZ_3GkBx_fB1|Presale|Ticketmaster Presale|2026-09-24T16:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
       "event_id": "G5eVZ_3H3LwH3",
       "event_date": "2027-03-09",
       "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-charlotte-north-carolina-03-09-2027/event/2D00652F127F2F12",
@@ -4582,6 +4599,23 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-03-08T02:30:00Z",
       "id": "1AvbZ_3GkBx_fB1|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1AvbZ_3GkBx_fB1",
+      "event_date": "2027-03-07",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-cincinnati-ohio-03-07-2027/event/1600652EA2654E8A",
+      "venue": "Heritage Bank Center",
+      "city": "Cincinnati",
+      "state": "OH",
+      "label": "Heritage Bank Center, Cincinnati, OH",
+      "kind": "Presale",
+      "presale_name": "VIP Package Onsale",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-02-14T22:00:00Z",
+      "id": "1AvbZ_3GkBx_fB1|Presale|VIP Package Onsale|2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
