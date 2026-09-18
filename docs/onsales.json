@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T17:49:02.532226+00:00",
+  "generated": "2026-09-18T18:07:44.628229+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 68,
   "other_count": 812,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -430,10 +430,10 @@
       "state": "IL",
       "label": "United Center, Chicago, IL",
       "kind": "Presale",
-      "presale_name": "Amex Presale Tickets VIP Packages",
+      "presale_name": "Amex Presale Tickets\u00ae VIP Packages",
       "starts": "2026-09-23T15:00:00+00:00",
       "ends": "2026-09-25T03:00:00Z",
-      "id": "vv178Z_3GkTA7u7G|Presale|Amex Presale Tickets VIP Packages|2026-09-23T15:00:00+00:00"
+      "id": "vv178Z_3GkTA7u7G|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T15:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
