@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T20:23:19.747375+00:00",
+  "generated": "2026-09-19T20:36:48.602568+00:00",
   "artists_watched": 50,
   "events_swept": 400,
   "truncated": false,
@@ -3375,6 +3375,23 @@
       "starts": "2026-09-24T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "vvG1zZ_3EbKNKC|Presale|Artist Presale|2026-09-24T14:00:00+00:00"
+    },
+    {
+      "artist": "Death Cab for Cutie",
+      "bucket": "big",
+      "event": "Death Cab for Cutie - I Built You A Tower Tour",
+      "event_id": "G5vVZ_3VQDTRT",
+      "event_date": "2027-04-09",
+      "url": "https://www.ticketmaster.com/death-cab-for-cutie-i-built-uncasville-connecticut-04-09-2027/event/1D00652D1AEFFBFF",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Presale",
+      "presale_name": "Mohegan Sun Presale",
+      "starts": "2026-09-24T14:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "G5vVZ_3VQDTRT|Presale|Mohegan Sun Presale|2026-09-24T14:00:00+00:00"
     },
     {
       "artist": "Metallica",
