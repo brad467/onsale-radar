@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T21:06:32.558760+00:00",
+  "generated": "2026-09-19T21:22:37.443638+00:00",
   "artists_watched": 50,
   "events_swept": 400,
   "truncated": false,
@@ -364,7 +364,7 @@
       "kind": "Presale",
       "presale_name": "Legacy Member Presale",
       "starts": "2026-09-21T15:00:00+00:00",
-      "ends": "2026-09-22T14:45:00Z",
+      "ends": "2026-09-22T15:00:00Z",
       "id": "vv17bZ_3GkwEMFoK|Presale|Legacy Member Presale|2026-09-21T15:00:00+00:00"
     },
     {
@@ -381,7 +381,7 @@
       "kind": "Presale",
       "presale_name": "Legacy Member VIP Packages Presale",
       "starts": "2026-09-21T15:00:00+00:00",
-      "ends": "2026-09-22T14:45:00Z",
+      "ends": "2026-09-22T15:00:00Z",
       "id": "vv17bZ_3GkwEMFoK|Presale|Legacy Member VIP Packages Presale|2026-09-21T15:00:00+00:00"
     },
     {
@@ -755,7 +755,7 @@
       "kind": "Presale",
       "presale_name": "Fifth Member Presale",
       "starts": "2026-09-21T17:00:00+00:00",
-      "ends": "2026-09-22T14:45:00Z",
+      "ends": "2026-09-22T15:00:00Z",
       "id": "vv17bZ_3GkwEMFoK|Presale|Fifth Member Presale|2026-09-21T17:00:00+00:00"
     },
     {
@@ -772,7 +772,7 @@
       "kind": "Presale",
       "presale_name": "Fifth Member VIP Packages Presale",
       "starts": "2026-09-21T17:00:00+00:00",
-      "ends": "2026-09-22T14:45:00Z",
+      "ends": "2026-09-22T15:00:00Z",
       "id": "vv17bZ_3GkwEMFoK|Presale|Fifth Member VIP Packages Presale|2026-09-21T17:00:00+00:00"
     },
     {
