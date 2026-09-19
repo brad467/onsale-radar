@@ -43,9 +43,6 @@
     "vvG1IZ_3DQR_0d|Public onsale||2026-09-25T20:00:00+00:00": "2026-09-17T17:06:07.037286+00:00",
     "1kGZvPGaGA1LecY|Presale|VIP Packages Presale|2026-09-24T14:00:00+00:00": "2026-09-17T18:29:10.344373+00:00",
     "1kGZvPGaGA1LecY|Presale|VIP Packages Onsale|2026-09-25T14:00:00+00:00": "2026-09-17T18:29:10.344373+00:00",
-    "vvG1HZ_35cKwG5|Public onsale||2026-09-19T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
-    "G5vYZ_3NpydIE|Public onsale||2026-09-19T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
-    "vvG1IZ_37k-njG|Public onsale||2026-09-19T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "G5dIZ_olF8jRI|Public onsale||2026-09-21T04:59:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "G5eVZ_3TnKsfK|Presale|Legacy Member Presale|2026-09-21T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "vv17fZ_3GkTr8LNi|Presale|Metallica Legacy Fan Club Presale|2026-09-21T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
@@ -423,9 +420,5 @@
     "vv17GZ_3GkTmReUp|Presale|Fifth Member VIP Packages Presale|2026-09-21T16:00:00+00:00": "2026-09-19T16:24:03.601537+00:00",
     "G5vzZ_3Hepr-9|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-25T16:00:00+00:00": "2026-09-19T16:24:03.601537+00:00"
   },
-  "reminded": {
-    "vvG1HZ_35cKwG5|Public onsale||2026-09-19T17:00:00+00:00": "2026-09-19T00:30:56.563176+00:00",
-    "G5vYZ_3NpydIE|Public onsale||2026-09-19T17:00:00+00:00": "2026-09-19T00:30:56.563176+00:00",
-    "vvG1IZ_37k-njG|Public onsale||2026-09-19T17:00:00+00:00": "2026-09-19T00:30:56.563176+00:00"
-  }
+  "reminded": {}
 }
