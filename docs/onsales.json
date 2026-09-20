@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-20T16:37:30.957159+00:00",
+  "generated": "2026-09-20T16:49:59.733449+00:00",
   "artists_watched": 50,
-  "events_swept": 352,
+  "events_swept": 354,
   "truncated": false,
   "watched_count": 32,
   "big_count": 59,
-  "other_count": 261,
+  "other_count": 263,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -3970,6 +3970,23 @@
       "starts": "2026-09-24T16:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "vv17OZ_3GkY-oWzW|Presale|Ticketmaster Presale|2026-09-24T16:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv17OZ_3GkY-oWzW",
+      "event_date": "2027-03-03",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-detroit-michigan-03-03-2027/event/0800652C2147DE3D",
+      "venue": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "MI",
+      "label": "Little Caesars Arena, Detroit, MI",
+      "kind": "Presale",
+      "presale_name": "Venue Presale",
+      "starts": "2026-09-24T16:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "vv17OZ_3GkY-oWzW|Presale|Venue Presale|2026-09-24T16:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
