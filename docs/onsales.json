@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T20:49:08.879624+00:00",
+  "generated": "2026-09-20T21:06:45.252548+00:00",
   "artists_watched": 50,
   "events_swept": 358,
   "truncated": false,
@@ -8,7 +8,7 @@
   "other_count": 267,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 0,
+  "soon_count": 1,
   "windows": [
     {
       "artist": "TOBYMAC",
