@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T23:36:55.225364+00:00",
+  "generated": "2026-09-21T23:49:16.901344+00:00",
   "artists_watched": 50,
   "events_swept": 680,
   "truncated": false,
@@ -651,23 +651,6 @@
       "state": "NV",
       "label": "Sphere, Las Vegas, NV",
       "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Presale",
-      "starts": "2026-09-22T17:00:00+00:00",
-      "ends": "2026-09-25T05:00:00Z",
-      "id": "1AvjZ_3GkirBzKT|Presale|Vibee Concert & Hotel Experience Presale|2026-09-22T17:00:00+00:00"
-    },
-    {
-      "artist": "Oprah Winfrey",
-      "bucket": "big",
-      "event": "Oprah Winfrey's AHA",
-      "event_id": "1AvjZ_3GkirBzKT",
-      "event_date": "2027-04-02",
-      "url": "https://www.ticketmaster.com/oprah-winfreys-aha-las-vegas-nevada-04-02-2027/event/1700652B1EEB84FF",
-      "venue": "Sphere",
-      "city": "Las Vegas",
-      "state": "NV",
-      "label": "Sphere, Las Vegas, NV",
-      "kind": "Presale",
       "presale_name": "Oprah's AHA Presale",
       "starts": "2026-09-22T17:00:00+00:00",
       "ends": "2026-09-25T05:00:00Z",
@@ -689,23 +672,6 @@
       "starts": "2026-09-22T17:00:00+00:00",
       "ends": "2026-09-25T05:00:00Z",
       "id": "1AvjZ_3GkirBzKT|Presale|VIP Package Presale|2026-09-22T17:00:00+00:00"
-    },
-    {
-      "artist": "Oprah Winfrey",
-      "bucket": "big",
-      "event": "Oprah Winfrey's AHA",
-      "event_id": "1AvjZ_3GkiLSFhf",
-      "event_date": "2027-04-03",
-      "url": "https://www.ticketmaster.com/oprah-winfreys-aha-las-vegas-nevada-04-03-2027/event/1700652B1FCC86D4",
-      "venue": "Sphere",
-      "city": "Las Vegas",
-      "state": "NV",
-      "label": "Sphere, Las Vegas, NV",
-      "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Presale",
-      "starts": "2026-09-22T17:00:00+00:00",
-      "ends": "2026-09-25T05:00:00Z",
-      "id": "1AvjZ_3GkiLSFhf|Presale|Vibee Concert & Hotel Experience Presale|2026-09-22T17:00:00+00:00"
     },
     {
       "artist": "Oprah Winfrey",
@@ -753,23 +719,6 @@
       "state": "NV",
       "label": "Sphere, Las Vegas, NV",
       "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Presale",
-      "starts": "2026-09-22T17:00:00+00:00",
-      "ends": "2026-09-25T05:00:00Z",
-      "id": "1AvjZ_3GkiO1zLZ|Presale|Vibee Concert & Hotel Experience Presale|2026-09-22T17:00:00+00:00"
-    },
-    {
-      "artist": "Oprah Winfrey",
-      "bucket": "big",
-      "event": "Oprah Winfrey's AHA",
-      "event_id": "1AvjZ_3GkiO1zLZ",
-      "event_date": "2027-04-04",
-      "url": "https://www.ticketmaster.com/oprah-winfreys-aha-las-vegas-nevada-04-04-2027/event/1700652B202B87C0",
-      "venue": "Sphere",
-      "city": "Las Vegas",
-      "state": "NV",
-      "label": "Sphere, Las Vegas, NV",
-      "kind": "Presale",
       "presale_name": "Oprah's AHA Presale",
       "starts": "2026-09-22T17:00:00+00:00",
       "ends": "2026-09-25T05:00:00Z",
@@ -791,23 +740,6 @@
       "starts": "2026-09-22T17:00:00+00:00",
       "ends": "2026-09-25T05:00:00Z",
       "id": "1AvjZ_3GkiO1zLZ|Presale|VIP Package Presale|2026-09-22T17:00:00+00:00"
-    },
-    {
-      "artist": "Oprah Winfrey",
-      "bucket": "big",
-      "event": "Oprah Winfrey's AHA",
-      "event_id": "1AvjZ_3GkSoU-RG",
-      "event_date": "2027-04-04",
-      "url": "https://www.ticketmaster.com/oprah-winfreys-aha-las-vegas-nevada-04-04-2027/event/1700652CD1DA1BCC",
-      "venue": "Sphere",
-      "city": "Las Vegas",
-      "state": "NV",
-      "label": "Sphere, Las Vegas, NV",
-      "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Presale",
-      "starts": "2026-09-22T17:00:00+00:00",
-      "ends": "2026-09-25T05:00:00Z",
-      "id": "1AvjZ_3GkSoU-RG|Presale|Vibee Concert & Hotel Experience Presale|2026-09-22T17:00:00+00:00"
     },
     {
       "artist": "Oprah Winfrey",
@@ -7094,10 +7026,10 @@
       "state": "NV",
       "label": "Sphere, Las Vegas, NV",
       "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Onsale",
+      "presale_name": "VIP Package Onsale",
       "starts": "2026-09-25T17:00:00+00:00",
       "ends": "2027-03-27T05:00:00Z",
-      "id": "1AvjZ_3GkirBzKT|Presale|Vibee Concert & Hotel Experience Onsale|2026-09-25T17:00:00+00:00"
+      "id": "1AvjZ_3GkirBzKT|Presale|VIP Package Onsale|2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Oprah Winfrey",
@@ -7128,10 +7060,10 @@
       "state": "NV",
       "label": "Sphere, Las Vegas, NV",
       "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Onsale",
+      "presale_name": "VIP Package Onsale",
       "starts": "2026-09-25T17:00:00+00:00",
       "ends": "2027-03-28T05:00:00Z",
-      "id": "1AvjZ_3GkiLSFhf|Presale|Vibee Concert & Hotel Experience Onsale|2026-09-25T17:00:00+00:00"
+      "id": "1AvjZ_3GkiLSFhf|Presale|VIP Package Onsale|2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Oprah Winfrey",
@@ -7162,10 +7094,10 @@
       "state": "NV",
       "label": "Sphere, Las Vegas, NV",
       "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Onsale",
+      "presale_name": "VIP Package Onsale",
       "starts": "2026-09-25T17:00:00+00:00",
       "ends": "2027-03-29T05:00:00Z",
-      "id": "1AvjZ_3GkiO1zLZ|Presale|Vibee Concert & Hotel Experience Onsale|2026-09-25T17:00:00+00:00"
+      "id": "1AvjZ_3GkiO1zLZ|Presale|VIP Package Onsale|2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Oprah Winfrey",
@@ -7196,10 +7128,10 @@
       "state": "NV",
       "label": "Sphere, Las Vegas, NV",
       "kind": "Presale",
-      "presale_name": "Vibee Concert & Hotel Experience Onsale",
+      "presale_name": "VIP Package Onsale",
       "starts": "2026-09-25T17:00:00+00:00",
       "ends": "2027-03-29T05:00:00Z",
-      "id": "1AvjZ_3GkSoU-RG|Presale|Vibee Concert & Hotel Experience Onsale|2026-09-25T17:00:00+00:00"
+      "id": "1AvjZ_3GkSoU-RG|Presale|VIP Package Onsale|2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
