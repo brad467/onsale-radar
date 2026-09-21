@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-21T19:37:28.134501+00:00",
+  "generated": "2026-09-21T19:49:05.971374+00:00",
   "artists_watched": 50,
-  "events_swept": 662,
+  "events_swept": 663,
   "truncated": false,
   "watched_count": 33,
   "big_count": 75,
-  "other_count": 554,
+  "other_count": 555,
   "baseline_run": false,
-  "new_count": 2,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -3256,6 +3256,23 @@
       "starts": "2026-09-24T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "vv177Z_3GkT1lKmv|Presale|Amex Presale Tickets\u00ae|2026-09-24T14:00:00+00:00"
+    },
+    {
+      "artist": "Kenny Chesney",
+      "bucket": "big",
+      "event": "Kenny Chesney: The Original Vibe Room Tour with Eric Church",
+      "event_id": "vv177Z_3GkT1lKmv",
+      "event_date": "2027-08-27",
+      "url": "https://www.ticketmaster.com/kenny-chesney-the-original-vibe-room-foxborough-massachusetts-08-27-2027/event/0100652FCAAD3B81",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA",
+      "label": "Gillette Stadium, Foxborough, MA",
+      "kind": "Presale",
+      "presale_name": "STM/Extended GS Family Presale",
+      "starts": "2026-09-24T14:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "vv177Z_3GkT1lKmv|Presale|STM/Extended GS Family Presale|2026-09-24T14:00:00+00:00"
     },
     {
       "artist": "Dylan Scott",
@@ -7402,7 +7419,7 @@
       "kind": "Presale",
       "presale_name": "Verizon Shine Select Seats",
       "starts": "2026-09-25T17:00:00+00:00",
-      "ends": "2027-04-14T05:00:00Z",
+      "ends": "2027-04-16T05:00:00Z",
       "id": "vvG1IZ_3RSxTwD|Presale|Verizon Shine Select Seats|2026-09-25T17:00:00+00:00"
     },
     {
