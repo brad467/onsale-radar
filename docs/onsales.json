@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-21T20:07:20.775778+00:00",
+  "generated": "2026-09-21T20:24:16.947466+00:00",
   "artists_watched": 50,
-  "events_swept": 662,
+  "events_swept": 664,
   "truncated": false,
   "watched_count": 33,
   "big_count": 75,
-  "other_count": 554,
+  "other_count": 556,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -7285,6 +7285,23 @@
       "starts": "2026-09-25T17:00:00+00:00",
       "ends": "2027-03-15T00:00:00Z",
       "id": "G5vYZ_32UcFLK|Presale|VIP Packages Public Onsale|2026-09-25T17:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "G5vYZ_32UcFLK",
+      "event_date": "2027-04-04",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-san-francisco-california-04-04-2027/event/1C006523F6B487D3",
+      "venue": "Chase Center",
+      "city": "San Francisco",
+      "state": "CA",
+      "label": "Chase Center, San Francisco, CA",
+      "kind": "Presale",
+      "presale_name": "Chase Cardmember Preferred Tickets",
+      "starts": "2026-09-25T17:00:00+00:00",
+      "ends": "2027-03-04T06:00:00Z",
+      "id": "G5vYZ_32UcFLK|Presale|Chase Cardmember Preferred Tickets|2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
