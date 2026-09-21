@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T04:53:43.636605+00:00",
+  "generated": "2026-09-21T05:07:20.730805+00:00",
   "artists_watched": 50,
   "events_swept": 352,
   "truncated": false,
@@ -10,23 +10,6 @@
   "new_count": 0,
   "soon_count": 0,
   "windows": [
-    {
-      "artist": "TOBYMAC",
-      "bucket": "big",
-      "event": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
-      "event_id": "G5dIZ_olF8jRI",
-      "event_date": "2027-03-12",
-      "url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-san-antonio-texas-03-12-2027/event/3A00651AC841CBE8",
-      "venue": "Freeman Coliseum",
-      "city": "San Antonio",
-      "state": "TX",
-      "label": "Freeman Coliseum, San Antonio, TX",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-21T04:59:00+00:00",
-      "ends": "2027-03-13T01:00:00Z",
-      "id": "G5dIZ_olF8jRI|Public onsale||2026-09-21T04:59:00+00:00"
-    },
     {
       "artist": "Metallica",
       "bucket": "watched",
