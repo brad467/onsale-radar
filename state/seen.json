@@ -143,8 +143,6 @@
     "G5vYZ_3nNPQVC|Presale|Amex Preferred Tickets|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "G5vYZ_3nNPQVC|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "vvG1HZ_3ExnTSl|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
-    "vvG1HZ_3ExnTSl|Presale|Amex Presale Tickets|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
-    "vvG1HZ_3ExnTSl|Presale|Amex Preferred Tickets|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "vvG1HZ_3zbQmZV|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "vvG1HZ_3zbQmZV|Presale|Amex Presale Tickets\u00ae|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "vvG1HZ_3zbQmZV|Presale|Amex Preferred Tickets|2026-09-23T17:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
@@ -435,7 +433,12 @@
     "G5vzZ_KeilE5w|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T16:00:00+00:00": "2026-09-21T17:50:17.468040+00:00",
     "G5vzZ_KeilE5w|Presale|VIP Packages Presale|2026-09-24T16:00:00+00:00": "2026-09-21T17:50:17.468040+00:00",
     "G5vzZ_KeilE5w|Presale|VIP Packages Public Onsale|2026-09-25T16:00:00+00:00": "2026-09-21T17:50:17.468040+00:00",
-    "G5dIZ_KpYFLcs|Public onsale||2026-09-23T20:00:00+00:00": "2026-09-21T18:08:36.961910+00:00"
+    "G5dIZ_KpYFLcs|Public onsale||2026-09-23T20:00:00+00:00": "2026-09-21T18:08:36.961910+00:00",
+    "vv1AeZkfYGkePJHRe|Presale|American Express\u00ae Aisle Seat|2026-09-23T14:00:00+00:00": "2026-09-21T18:44:34.141926+00:00",
+    "vvG1YZ_8UYDbMt|Presale|Amex Presale Tickets|2026-09-23T15:00:00+00:00": "2026-09-21T18:44:34.141926+00:00",
+    "vvG1HZ_3ExnTSl|Presale|Amex Presale Tickets\u00ae|2026-09-23T17:00:00+00:00": "2026-09-21T18:44:34.141926+00:00",
+    "vvG1HZ_3ExnTSl|Presale|Amex Preferred Tickets\u2122|2026-09-23T17:00:00+00:00": "2026-09-21T18:44:34.141926+00:00",
+    "vv1AeZkfYGkePJHRe|Presale|Aisle Seat Presale|2026-09-24T14:00:00+00:00": "2026-09-21T18:44:34.141926+00:00"
   },
   "reminded": {
     "vvG1IZ_3RSxTwD|Presale|Fifth Member Presale|2026-09-21T19:00:00+00:00": "2026-09-20T19:05:48.460137+00:00",
