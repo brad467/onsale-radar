@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-21T19:24:00.222596+00:00",
+  "generated": "2026-09-21T19:37:28.134501+00:00",
   "artists_watched": 50,
-  "events_swept": 663,
+  "events_swept": 662,
   "truncated": false,
   "watched_count": 33,
   "big_count": 75,
-  "other_count": 555,
+  "other_count": 554,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -2986,6 +2986,23 @@
       "id": "vvG1zZ_3EbKNKC|Presale|Artist Presale|2026-09-24T14:00:00+00:00"
     },
     {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vvG1zZ_3EbKNKC",
+      "event_date": "2027-03-16",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-atlanta-georgia-03-16-2027/event/0E006529D84E34CE",
+      "venue": "State Farm Arena",
+      "city": "Atlanta",
+      "state": "GA",
+      "label": "State Farm Arena, Atlanta, GA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-09-24T14:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "vvG1zZ_3EbKNKC|Presale|VIP Package Presale|2026-09-24T14:00:00+00:00"
+    },
+    {
       "artist": "Death Cab for Cutie",
       "bucket": "big",
       "event": "Death Cab for Cutie - I Built You A Tower Tour",
@@ -5194,6 +5211,23 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-03-17T00:30:00Z",
       "id": "vvG1zZ_3EbKNKC|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vvG1zZ_3EbKNKC",
+      "event_date": "2027-03-16",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-atlanta-georgia-03-16-2027/event/0E006529D84E34CE",
+      "venue": "State Farm Arena",
+      "city": "Atlanta",
+      "state": "GA",
+      "label": "State Farm Arena, Atlanta, GA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Public Onsale",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-02-23T22:00:00Z",
+      "id": "vvG1zZ_3EbKNKC|Presale|VIP Packages Public Onsale|2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Death Cab for Cutie",
