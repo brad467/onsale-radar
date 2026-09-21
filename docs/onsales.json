@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-21T17:24:47.805194+00:00",
+  "generated": "2026-09-21T17:36:31.303244+00:00",
   "artists_watched": 50,
-  "events_swept": 643,
+  "events_swept": 646,
   "truncated": false,
   "watched_count": 32,
   "big_count": 75,
-  "other_count": 536,
+  "other_count": 539,
   "baseline_run": false,
-  "new_count": 3,
-  "soon_count": 1,
+  "new_count": 8,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Metallica",
@@ -2136,6 +2136,23 @@
       "id": "vv170Z_3GkwTDbyN|Presale|Amex Preferred Tickets|2026-09-23T17:00:00+00:00"
     },
     {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv170Z_3GkwTDbyN",
+      "event_date": "2027-04-02",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-anaheim-california-04-02-2027/event/0900652CBFED8E63",
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "label": "Honda Center, Anaheim, CA",
+      "kind": "Presale",
+      "presale_name": "Amex Presale Tickets VIP Packages",
+      "starts": "2026-09-23T17:00:00+00:00",
+      "ends": "2026-09-24T16:45:00Z",
+      "id": "vv170Z_3GkwTDbyN|Presale|Amex Presale Tickets VIP Packages|2026-09-23T17:00:00+00:00"
+    },
+    {
       "artist": "Oprah Winfrey",
       "bucket": "big",
       "event": "Oprah Winfrey's AHA",
@@ -2338,6 +2355,23 @@
       "starts": "2026-09-23T17:00:00+00:00",
       "ends": "2026-09-24T16:45:00Z",
       "id": "G5vYZ_32UcFLK|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T17:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "G5vYZ_3nNPQVC",
+      "event_date": "2027-04-05",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-sacramento-california-04-05-2027/event/1C00652AA395AD0E",
+      "venue": "Golden 1 Center",
+      "city": "Sacramento",
+      "state": "CA",
+      "label": "Golden 1 Center, Sacramento, CA",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-23T17:00:00+00:00",
+      "ends": "2027-04-06T02:30:00Z",
+      "id": "G5vYZ_3nNPQVC|Public onsale||2026-09-23T17:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -2695,6 +2729,23 @@
       "starts": "2026-09-24T14:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "vv1AvZkftGkdjVZxR|Presale|Artist Presale|2026-09-24T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv1AvZkftGkdjVZxR",
+      "event_date": "2027-02-24",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-boston-massachusetts-02-24-2027/event/01006529DCD008AF",
+      "venue": "TD Garden",
+      "city": "Boston",
+      "state": "MA",
+      "label": "TD Garden, Boston, MA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale",
+      "starts": "2026-09-24T14:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "vv1AvZkftGkdjVZxR|Presale|VIP Packages Presale|2026-09-24T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -4255,10 +4306,27 @@
       "state": "CA",
       "label": "Honda Center, Anaheim, CA",
       "kind": "Presale",
-      "presale_name": "ARTIST PRESALE",
+      "presale_name": "Artist Presale",
       "starts": "2026-09-24T17:00:00+00:00",
       "ends": "2026-09-25T05:00:00Z",
-      "id": "vv170Z_3GkwTDbyN|Presale|ARTIST PRESALE|2026-09-24T17:00:00+00:00"
+      "id": "vv170Z_3GkwTDbyN|Presale|Artist Presale|2026-09-24T17:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv170Z_3GkwTDbyN",
+      "event_date": "2027-04-02",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-anaheim-california-04-02-2027/event/0900652CBFED8E63",
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "label": "Honda Center, Anaheim, CA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-09-24T17:00:00+00:00",
+      "ends": "2026-09-25T05:00:00Z",
+      "id": "vv170Z_3GkwTDbyN|Presale|VIP Package Presale|2026-09-24T17:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -4531,6 +4599,23 @@
       "starts": "2026-09-24T19:00:00+00:00",
       "ends": "2026-09-25T05:00:00Z",
       "id": "vv170Z_3GkwTDbyN|Presale|LOCAL PRESALES|2026-09-24T19:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv170Z_3GkwTDbyN",
+      "event_date": "2027-04-02",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-anaheim-california-04-02-2027/event/0900652CBFED8E63",
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "label": "Honda Center, Anaheim, CA",
+      "kind": "Presale",
+      "presale_name": "Ticketmaster Presale",
+      "starts": "2026-09-24T19:00:00+00:00",
+      "ends": "2026-09-25T05:00:00Z",
+      "id": "vv170Z_3GkwTDbyN|Presale|Ticketmaster Presale|2026-09-24T19:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -4871,6 +4956,23 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-02-25T01:30:00Z",
       "id": "vv1AvZkftGkdjVZxR|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv1AvZkftGkdjVZxR",
+      "event_date": "2027-02-24",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-boston-massachusetts-02-24-2027/event/01006529DCD008AF",
+      "venue": "TD Garden",
+      "city": "Boston",
+      "state": "MA",
+      "label": "TD Garden, Boston, MA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Public Onsale",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-02-03T22:00:00Z",
+      "id": "vv1AvZkftGkdjVZxR|Presale|VIP Packages Public Onsale|2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
@@ -6930,6 +7032,23 @@
       "id": "vv170Z_3GkwTDbyN|Public onsale||2026-09-25T17:00:00+00:00"
     },
     {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "vv170Z_3GkwTDbyN",
+      "event_date": "2027-04-02",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-anaheim-california-04-02-2027/event/0900652CBFED8E63",
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "label": "Honda Center, Anaheim, CA",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Public Onsale",
+      "starts": "2026-09-25T17:00:00+00:00",
+      "ends": "2027-03-13T01:00:00Z",
+      "id": "vv170Z_3GkwTDbyN|Presale|VIP Packages Public Onsale|2026-09-25T17:00:00+00:00"
+    },
+    {
       "artist": "Oprah Winfrey",
       "bucket": "big",
       "event": "Oprah Winfrey's AHA",
@@ -7115,23 +7234,6 @@
       "starts": "2026-09-25T17:00:00+00:00",
       "ends": "2027-03-15T00:00:00Z",
       "id": "G5vYZ_32UcFLK|Presale|VIP Packages Public Onsale|2026-09-25T17:00:00+00:00"
-    },
-    {
-      "artist": "Hans Zimmer",
-      "bucket": "watched",
-      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
-      "event_id": "G5vYZ_3nNPQVC",
-      "event_date": "2027-04-05",
-      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-sacramento-california-04-05-2027/event/1C00652AA395AD0E",
-      "venue": "Golden 1 Center",
-      "city": "Sacramento",
-      "state": "CA",
-      "label": "Golden 1 Center, Sacramento, CA",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-25T17:00:00+00:00",
-      "ends": "2027-04-06T02:30:00Z",
-      "id": "G5vYZ_3nNPQVC|Public onsale||2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
