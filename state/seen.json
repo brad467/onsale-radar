@@ -46,7 +46,6 @@
     "1AvbZ_3GkBx_fB1|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "1AvbZ_3GkBx_fB1|Presale|Amex Presale Tickets VIP Packages|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "G5eVZ_3H3LwH3|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
-    "G5eVZ_3H3LwH3|Presale|Amex Presale Tickets|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "1AxZkfYGkexMgrX|Presale|Amex Presale Tickets\u00ae|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "1AxZkfYGkexMgrX|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
     "1AxZkfYGkexMgrX|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T14:00:00+00:00": "2026-09-19T00:09:51.619892+00:00",
@@ -399,7 +398,8 @@
     "G5dIZ_K6-kEVR|Presale|Reventon Presale|2026-09-24T15:00:00+00:00": "2026-09-22T17:06:56.900422+00:00",
     "G5dIZ_K6-kEVR|Presale|CMN Fan Presale|2026-09-24T15:00:00+00:00": "2026-09-22T17:06:56.900422+00:00",
     "G5dIZ_K6-kEVR|Presale|Venue Presale|2026-09-24T15:00:00+00:00": "2026-09-22T17:06:56.900422+00:00",
-    "G5dIZ_K6-kEVR|Public onsale||2026-09-25T15:00:00+00:00": "2026-09-22T17:06:56.900422+00:00"
+    "G5dIZ_K6-kEVR|Public onsale||2026-09-25T15:00:00+00:00": "2026-09-22T17:06:56.900422+00:00",
+    "G5eVZ_3H3LwH3|Presale|Amex Presale Tickets\u00ae|2026-09-23T14:00:00+00:00": "2026-09-22T17:50:01.609406+00:00"
   },
   "reminded": {
     "1AdZZ_3GkmRvUZw|Presale|Amex Presale Tickets\u00ae VIP Packages|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
@@ -422,7 +422,6 @@
     "1AvbZ_3GkBx_fB1|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
     "1AvbZ_3GkBx_fB1|Presale|Amex Presale Tickets VIP Packages|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
     "G5eVZ_3H3LwH3|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
-    "G5eVZ_3H3LwH3|Presale|Amex Presale Tickets|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
     "G5eVZ_3H3LwH3|Presale|Amex Presale Tickets VIP Packages|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
     "1AxZkfYGkexMgrX|Presale|Amex Presale Tickets\u00ae|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
     "1AxZkfYGkexMgrX|Presale|Amex Preferred Tickets|2026-09-23T14:00:00+00:00": "2026-09-22T14:07:21.685418+00:00",
