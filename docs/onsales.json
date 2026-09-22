@@ -1,19 +1,19 @@
 {
-  "generated": "2026-09-22T15:07:16.656381+00:00",
+  "generated": "2026-09-22T15:24:49.632518+00:00",
   "artists_watched": 50,
-  "events_swept": 678,
+  "events_swept": 680,
   "truncated": false,
   "watched_count": 33,
   "big_count": 71,
-  "other_count": 574,
+  "other_count": 576,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 11,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Ha*Ash",
       "bucket": "big",
-      "event": "Ha*Ash - No Me Hablen De Amor Tour 2026 North America",
+      "event": "Ha*Ash - No Me Hablen de Amor",
       "event_id": "vvG1YZ_KGeOLU1",
       "event_date": "2027-05-12",
       "url": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-el-paso-texas-05-12-2027/event/0C0065330281FD8A",
@@ -1951,7 +1951,7 @@
     {
       "artist": "Ha*Ash",
       "bucket": "big",
-      "event": "Ha*Ash - No Me Hablen De Amor Tour 2026 North America",
+      "event": "Ha*Ash - No Me Hablen de Amor",
       "event_id": "vvG1YZ_KGeOLU1",
       "event_date": "2027-05-12",
       "url": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-el-paso-texas-05-12-2027/event/0C0065330281FD8A",
@@ -1968,10 +1968,10 @@
     {
       "artist": "Chris Brown",
       "bucket": "watched",
-      "event": "Chris Brown Concert Afterparty",
+      "event": "The R&B Tour Concert Afterparty with Chris Brown",
       "event_id": "G5dIZ_KpYFLcs",
       "event_date": "2026-10-10",
-      "url": "https://www.ticketmaster.com/chris-brown-concert-afterparty-houston-texas-10-10-2026/event/3A006535B021FB71",
+      "url": "https://www.ticketmaster.com/the-rb-tour-concert-afterparty-with-houston-texas-10-10-2026/event/3A006535B021FB71",
       "venue": "NOTO",
       "city": "Houston",
       "state": "TX",
@@ -3498,7 +3498,7 @@
     {
       "artist": "Ha*Ash",
       "bucket": "big",
-      "event": "Ha*Ash - No Me Hablen De Amor Tour 2026 North America",
+      "event": "Ha*Ash - No Me Hablen de Amor",
       "event_id": "vvG1YZ_KGeOLU1",
       "event_date": "2027-05-12",
       "url": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-el-paso-texas-05-12-2027/event/0C0065330281FD8A",
@@ -3515,7 +3515,7 @@
     {
       "artist": "Ha*Ash",
       "bucket": "big",
-      "event": "Ha*Ash - No Me Hablen De Amor Tour 2026 North America",
+      "event": "Ha*Ash - No Me Hablen de Amor",
       "event_id": "vvG1YZ_KGeOLU1",
       "event_date": "2027-05-12",
       "url": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-el-paso-texas-05-12-2027/event/0C0065330281FD8A",
@@ -6337,7 +6337,7 @@
     {
       "artist": "Ha*Ash",
       "bucket": "big",
-      "event": "Ha*Ash - No Me Hablen De Amor Tour 2026 North America",
+      "event": "Ha*Ash - No Me Hablen de Amor",
       "event_id": "vvG1YZ_KGeOLU1",
       "event_date": "2027-05-12",
       "url": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-el-paso-texas-05-12-2027/event/0C0065330281FD8A",
@@ -6354,7 +6354,7 @@
     {
       "artist": "Ha*Ash",
       "bucket": "big",
-      "event": "Ha*Ash - No Me Hablen De Amor Tour 2026 North America",
+      "event": "Ha*Ash - No Me Hablen de Amor",
       "event_id": "vvG1YZ_KGeOLU1",
       "event_date": "2027-05-12",
       "url": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-el-paso-texas-05-12-2027/event/0C0065330281FD8A",
