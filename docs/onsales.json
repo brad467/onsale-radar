@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T20:51:16.749933+00:00",
+  "generated": "2026-09-22T21:06:34.440644+00:00",
   "artists_watched": 50,
   "events_swept": 919,
   "truncated": false,
@@ -8,25 +8,8 @@
   "other_count": 809,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 1,
+  "soon_count": 0,
   "windows": [
-    {
-      "artist": "Basketball",
-      "bucket": "big",
-      "event": "Breakaway Holiday Classic",
-      "event_id": "vv1AAZkfUGkdqIaBf",
-      "event_date": "2027-01-02",
-      "url": "https://www.ticketmaster.com/breakaway-holiday-classic-noblesville-indiana-01-02-2027/event/05006536DDA09E94",
-      "venue": "Riverview Health Arena at Innovation Mile",
-      "city": "Noblesville",
-      "state": "IN",
-      "label": "Riverview Health Arena at Innovation Mile, Noblesville, IN",
-      "kind": "Presale",
-      "presale_name": "Presale - School",
-      "starts": "2026-09-22T21:00:00+00:00",
-      "ends": "2027-01-02T19:00:00Z",
-      "id": "vv1AAZkfUGkdqIaBf|Presale|Presale - School|2026-09-22T21:00:00+00:00"
-    },
     {
       "artist": "Braxton Keith",
       "bucket": "big",
