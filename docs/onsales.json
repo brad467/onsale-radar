@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T14:25:58.699641+00:00",
+  "generated": "2026-09-22T14:41:35.215240+00:00",
   "artists_watched": 50,
   "events_swept": 620,
   "truncated": false,
@@ -7,7 +7,7 @@
   "big_count": 71,
   "other_count": 516,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -3023,6 +3023,23 @@
       "artist": "Hans Zimmer",
       "bucket": "watched",
       "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "G5viZ_3PZFVFC",
+      "event_date": "2027-03-17",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-nashville-tennessee-03-17-2027/event/1B0065294023420E",
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Bridgestone Arena, Nashville, TN",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-09-24T15:00:00+00:00",
+      "ends": "2026-09-25T03:00:00Z",
+      "id": "G5viZ_3PZFVFC|Presale|VIP Package Presale|2026-09-24T15:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
       "event_id": "vvG1YZ_8UYDbMt",
       "event_date": "2027-03-22",
       "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-fort-worth-texas-03-22-2027/event/0C00650DB0ED8DE9",
@@ -3885,6 +3902,23 @@
       "starts": "2026-09-24T17:00:00+00:00",
       "ends": "2026-09-25T03:00:00Z",
       "id": "G5viZ_3PZFVFC|Presale|Local Presales|2026-09-24T17:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "G5viZ_3PZFVFC",
+      "event_date": "2027-03-17",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-nashville-tennessee-03-17-2027/event/1B0065294023420E",
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Bridgestone Arena, Nashville, TN",
+      "kind": "Presale",
+      "presale_name": "Ticketmaster Presale",
+      "starts": "2026-09-24T17:00:00+00:00",
+      "ends": "2026-09-25T03:00:00Z",
+      "id": "G5viZ_3PZFVFC|Presale|Ticketmaster Presale|2026-09-24T17:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
