@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T18:55:10.792213+00:00",
+  "generated": "2026-09-23T19:06:43.553629+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -8,7 +8,7 @@
   "other_count": 881,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 0,
+  "soon_count": 12,
   "windows": [
     {
       "artist": "Chris Brown",
@@ -3798,7 +3798,7 @@
       "kind": "Presale",
       "presale_name": "VIP Travel Packages Onsale",
       "starts": "2026-09-25T14:00:00+00:00",
-      "ends": "2027-06-02T02:00:00Z",
+      "ends": "2027-04-25T02:00:00Z",
       "id": "vv17GZ_3GkTmReUp|Presale|VIP Travel Packages Onsale|2026-09-25T14:00:00+00:00"
     },
     {
@@ -6063,23 +6063,6 @@
       "id": "vv1AAZkfsGkdcvKcQ|Presale|Venue Presale|2026-09-29T16:00:00+00:00"
     },
     {
-      "artist": "Hilary Duff",
-      "bucket": "big",
-      "event": "Hilary Duff: the lucky me tour",
-      "event_id": "vvG1VZ_KhvmypQ",
-      "event_date": "2027-10-01",
-      "url": "https://seatgeek.com/hilary-duff-tickets/sunrise-florida-amerant-bank-arena-2027-10-01-7-30-pm/concert/18604684",
-      "venue": "Amerant Bank Arena ",
-      "city": "Sunrise",
-      "state": "FL",
-      "label": "Amerant Bank Arena , Sunrise, FL",
-      "kind": "Presale",
-      "presale_name": "Artist Presale",
-      "starts": "2026-09-29T16:00:00+00:00",
-      "ends": "2026-10-01T02:00:00Z",
-      "id": "vvG1VZ_KhvmypQ|Presale|Artist Presale|2026-09-29T16:00:00+00:00"
-    },
-    {
       "artist": "Buckeye Country Superfest",
       "bucket": "big",
       "event": "Buckeye Country Superfest starring Chris Stapleton",
@@ -6114,23 +6097,6 @@
       "id": "vv1AAZkfsGkdcvKcQ|Presale|Radio Presale|2026-09-30T14:00:00+00:00"
     },
     {
-      "artist": "Hilary Duff",
-      "bucket": "big",
-      "event": "Hilary Duff: the lucky me tour",
-      "event_id": "vvG1VZ_KhvmypQ",
-      "event_date": "2027-10-01",
-      "url": "https://seatgeek.com/hilary-duff-tickets/sunrise-florida-amerant-bank-arena-2027-10-01-7-30-pm/concert/18604684",
-      "venue": "Amerant Bank Arena ",
-      "city": "Sunrise",
-      "state": "FL",
-      "label": "Amerant Bank Arena , Sunrise, FL",
-      "kind": "Presale",
-      "presale_name": "Live Nation Presale",
-      "starts": "2026-10-01T14:00:00+00:00",
-      "ends": "2026-10-02T13:00:00Z",
-      "id": "vvG1VZ_KhvmypQ|Presale|Live Nation Presale|2026-10-01T14:00:00+00:00"
-    },
-    {
       "artist": "Buckeye Country Superfest",
       "bucket": "big",
       "event": "Buckeye Country Superfest starring Chris Stapleton",
@@ -6146,23 +6112,6 @@
       "starts": "2026-10-02T14:00:00+00:00",
       "ends": "2027-07-10T21:00:00Z",
       "id": "vv1AAZkfsGkdcvKcQ|Public onsale||2026-10-02T14:00:00+00:00"
-    },
-    {
-      "artist": "Hilary Duff",
-      "bucket": "big",
-      "event": "Hilary Duff: the lucky me tour",
-      "event_id": "vvG1VZ_KhvmypQ",
-      "event_date": "2027-10-01",
-      "url": "https://seatgeek.com/hilary-duff-tickets/sunrise-florida-amerant-bank-arena-2027-10-01-7-30-pm/concert/18604684",
-      "venue": "Amerant Bank Arena ",
-      "city": "Sunrise",
-      "state": "FL",
-      "label": "Amerant Bank Arena , Sunrise, FL",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-02T14:00:00+00:00",
-      "ends": "2027-10-01T23:30:00Z",
-      "id": "vvG1VZ_KhvmypQ|Public onsale||2026-10-02T14:00:00+00:00"
     },
     {
       "artist": "Contest of Champions",
