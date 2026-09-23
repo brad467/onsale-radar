@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-23T01:06:58.294971+00:00",
+  "generated": "2026-09-23T01:23:52.264297+00:00",
   "artists_watched": 50,
-  "events_swept": 806,
+  "events_swept": 807,
   "truncated": false,
   "watched_count": 33,
-  "big_count": 74,
+  "big_count": 75,
   "other_count": 699,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -5364,6 +5364,40 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-08-06T21:00:00Z",
       "id": "vv177Z_3GkT1lKmv|Presale|VIP Package Onsale|2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Kenny Chesney",
+      "bucket": "big",
+      "event": "Kenny Chesney: The Original Vibe Room Tour with Eric Church",
+      "event_id": "vv1AvZkfxGkdu8gfO",
+      "event_date": "2027-08-28",
+      "url": "https://www.ticketmaster.com/kenny-chesney-the-original-vibe-room-foxborough-massachusetts-08-28-2027/event/01006522CD435520",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA",
+      "label": "Gillette Stadium, Foxborough, MA",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-08-28T22:30:00Z",
+      "id": "vv1AvZkfxGkdu8gfO|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Kenny Chesney",
+      "bucket": "big",
+      "event": "Kenny Chesney: The Original Vibe Room Tour with Eric Church",
+      "event_id": "vv1AvZkfxGkdu8gfO",
+      "event_date": "2027-08-28",
+      "url": "https://www.ticketmaster.com/kenny-chesney-the-original-vibe-room-foxborough-massachusetts-08-28-2027/event/01006522CD435520",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA",
+      "label": "Gillette Stadium, Foxborough, MA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Onsale",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-08-06T21:00:00Z",
+      "id": "vv1AvZkfxGkdu8gfO|Presale|VIP Package Onsale|2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Flo Rida",
