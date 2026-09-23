@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T20:50:05.982926+00:00",
+  "generated": "2026-09-23T21:07:31.023320+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,8 +7,8 @@
   "big_count": 73,
   "other_count": 899,
   "baseline_run": false,
-  "new_count": 215,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 103,
   "windows": [
     {
       "artist": "Braxton Keith",
