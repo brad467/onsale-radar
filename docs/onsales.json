@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T19:23:54.248212+00:00",
+  "generated": "2026-09-23T19:37:43.019291+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -1522,6 +1522,23 @@
       "starts": "2026-09-24T15:00:00+00:00",
       "ends": "2026-09-25T03:00:00Z",
       "id": "G5dIZ_K6-kEVR|Presale|Venue Presale|2026-09-24T15:00:00+00:00"
+    },
+    {
+      "artist": "Flans",
+      "bucket": "big",
+      "event": "FLANS 40 - Sin Control Tour",
+      "event_id": "G5dIZ_K6-kEVR",
+      "event_date": "2027-05-29",
+      "url": "https://www.ticketmaster.com/flans-40-sin-control-tour-houston-texas-05-29-2027/event/3A006531E11A7D2F",
+      "venue": "Arena Theatre",
+      "city": "Houston",
+      "state": "TX",
+      "label": "Arena Theatre, Houston, TX",
+      "kind": "Presale",
+      "presale_name": "Ticketmaster Presale",
+      "starts": "2026-09-24T15:00:00+00:00",
+      "ends": "2026-09-25T03:00:00Z",
+      "id": "G5dIZ_K6-kEVR|Presale|Ticketmaster Presale|2026-09-24T15:00:00+00:00"
     },
     {
       "artist": "Metallica",
@@ -5870,23 +5887,6 @@
       "state": "OH",
       "label": "Ohio Stadium, Columbus, OH",
       "kind": "Presale",
-      "presale_name": "OSU FB Season Ticket Holder Presale",
-      "starts": "2026-09-29T14:00:00+00:00",
-      "ends": "2026-10-02T02:00:00Z",
-      "id": "vv1AAZkfsGkdcvKcQ|Presale|OSU FB Season Ticket Holder Presale|2026-09-29T14:00:00+00:00"
-    },
-    {
-      "artist": "Buckeye Country Superfest",
-      "bucket": "big",
-      "event": "Buckeye Country Superfest starring Chris Stapleton",
-      "event_id": "vv1AAZkfsGkdcvKcQ",
-      "event_date": "2027-07-10",
-      "url": "https://www.ticketmaster.com/buckeye-country-superfest-starring-chris-stapleton-columbus-ohio-07-10-2027/event/05006531ED053B5A",
-      "venue": "Ohio Stadium",
-      "city": "Columbus",
-      "state": "OH",
-      "label": "Ohio Stadium, Columbus, OH",
-      "kind": "Presale",
       "presale_name": "Amex Presale Tickets",
       "starts": "2026-09-29T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
@@ -5942,6 +5942,23 @@
       "starts": "2026-09-29T16:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "vv1AAZkfsGkdcvKcQ|Presale|Venue Presale|2026-09-29T16:00:00+00:00"
+    },
+    {
+      "artist": "Buckeye Country Superfest",
+      "bucket": "big",
+      "event": "Buckeye Country Superfest starring Chris Stapleton",
+      "event_id": "vv1AAZkfsGkdcvKcQ",
+      "event_date": "2027-07-10",
+      "url": "https://www.ticketmaster.com/buckeye-country-superfest-starring-chris-stapleton-columbus-ohio-07-10-2027/event/05006531ED053B5A",
+      "venue": "Ohio Stadium",
+      "city": "Columbus",
+      "state": "OH",
+      "label": "Ohio Stadium, Columbus, OH",
+      "kind": "Presale",
+      "presale_name": "OSU FB Season Ticket Holder Presale",
+      "starts": "2026-09-29T16:00:00+00:00",
+      "ends": "2026-10-02T02:00:00Z",
+      "id": "vv1AAZkfsGkdcvKcQ|Presale|OSU FB Season Ticket Holder Presale|2026-09-29T16:00:00+00:00"
     },
     {
       "artist": "Buckeye Country Superfest",
