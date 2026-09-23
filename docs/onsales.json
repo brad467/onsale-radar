@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-23T15:40:49.267355+00:00",
+  "generated": "2026-09-23T15:52:56.054538+00:00",
   "artists_watched": 50,
-  "events_swept": 911,
+  "events_swept": 912,
   "truncated": false,
   "watched_count": 33,
   "big_count": 87,
-  "other_count": 791,
+  "other_count": 792,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -5009,6 +5009,23 @@
       "id": "G5dIZ_3MPIS-k|Presale|VIP Travel Packages Onsale|2026-09-25T15:00:00+00:00"
     },
     {
+      "artist": "Face 2 Face",
+      "bucket": "big",
+      "event": "Face 2 Face - A Tribute To Elton John & Billy Joel\u00a0",
+      "event_id": "G5eVZ_K10gLlg",
+      "event_date": "2027-05-22",
+      "url": "https://www.ticketmaster.com/face-2-face-a-tribute-to-wilmington-north-carolina-05-22-2027/event/2D006532A4D5FAF5",
+      "venue": "Greenfield Lake Amphitheater",
+      "city": "Wilmington",
+      "state": "NC",
+      "label": "Greenfield Lake Amphitheater, Wilmington, NC",
+      "kind": "Presale",
+      "presale_name": "T-Mobile Offer + Fastlane",
+      "starts": "2026-09-25T15:00:00+00:00",
+      "ends": "2027-05-20T02:00:00Z",
+      "id": "G5eVZ_K10gLlg|Presale|T-Mobile Offer + Fastlane|2026-09-25T15:00:00+00:00"
+    },
+    {
       "artist": "Metallica",
       "bucket": "watched",
       "event": "Metallica M72 World Tour",
@@ -5073,7 +5090,7 @@
       "kind": "Presale",
       "presale_name": "VIP Travel Packages Onsale",
       "starts": "2026-09-25T15:00:00+00:00",
-      "ends": "2027-05-20T03:00:00Z",
+      "ends": "2027-04-12T03:00:00Z",
       "id": "G5viZ_om30aTL|Presale|VIP Travel Packages Onsale|2026-09-25T15:00:00+00:00"
     },
     {
