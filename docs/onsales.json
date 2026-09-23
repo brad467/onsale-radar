@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-23T20:07:47.815501+00:00",
+  "generated": "2026-09-23T20:25:34.539263+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 30,
-  "big_count": 75,
-  "other_count": 895,
+  "big_count": 74,
+  "other_count": 896,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -4310,23 +4310,6 @@
       "starts": "2026-09-25T15:00:00+00:00",
       "ends": "2027-05-30T03:00:00Z",
       "id": "G5dIZ_K6-kEVR|Public onsale||2026-09-25T15:00:00+00:00"
-    },
-    {
-      "artist": "Kenny Chesney",
-      "bucket": "big",
-      "event": "Kenny Chesney",
-      "event_id": "vv1AkZkfMGkdf1wUd",
-      "event_date": "2027-06-05",
-      "url": "https://www.ticketmaster.com/kenny-chesney-ames-iowa-06-05-2027/event/06006537D42B2D83",
-      "venue": "ISU Cyclones - MidAmerican Energy Field at Jack Trice Stadium",
-      "city": "Ames",
-      "state": "IA",
-      "label": "ISU Cyclones - MidAmerican Energy Field at Jack Trice Stadium, Ames, IA",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-09-25T15:00:00+00:00",
-      "ends": "2027-06-05T16:30:00Z",
-      "id": "vv1AkZkfMGkdf1wUd|Public onsale||2026-09-25T15:00:00+00:00"
     },
     {
       "artist": "Kenny Chesney",
