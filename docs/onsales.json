@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T16:07:40.648850+00:00",
+  "generated": "2026-09-23T16:27:07.471859+00:00",
   "artists_watched": 50,
   "events_swept": 959,
   "truncated": false,
@@ -7,8 +7,8 @@
   "big_count": 89,
   "other_count": 837,
   "baseline_run": false,
-  "new_count": 4,
-  "soon_count": 29,
+  "new_count": 0,
+  "soon_count": 1,
   "windows": [
     {
       "artist": "Taemin",
