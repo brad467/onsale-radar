@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-23T13:41:20.233696+00:00",
+  "generated": "2026-09-23T13:52:24.013189+00:00",
   "artists_watched": 50,
-  "events_swept": 834,
+  "events_swept": 835,
   "truncated": false,
   "watched_count": 33,
   "big_count": 83,
-  "other_count": 718,
+  "other_count": 719,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -7710,6 +7710,23 @@
       "starts": "2026-10-01T14:00:00+00:00",
       "ends": "2026-10-02T13:00:00Z",
       "id": "1ApZkfsGkdQpqGI|Presale|Venue Presale|2026-10-01T14:00:00+00:00"
+    },
+    {
+      "artist": "Hilary Duff",
+      "bucket": "big",
+      "event": "Hilary Duff: the lucky me tour",
+      "event_id": "1ApZkfsGkdQpqGI",
+      "event_date": "2027-10-16",
+      "url": "https://www.ticketmaster.com/hilary-duff-the-lucky-me-tour-pittsburgh-pennsylvania-10-16-2027/event/16006531DA59D328",
+      "venue": "PPG Paints Arena",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "label": "PPG Paints Arena, Pittsburgh, PA",
+      "kind": "Presale",
+      "presale_name": "Dashboard Confessional Artist Presale",
+      "starts": "2026-10-01T14:00:00+00:00",
+      "ends": "2026-10-02T02:00:00Z",
+      "id": "1ApZkfsGkdQpqGI|Presale|Dashboard Confessional Artist Presale|2026-10-01T14:00:00+00:00"
     },
     {
       "artist": "Hilary Duff",
