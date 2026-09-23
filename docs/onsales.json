@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T18:43:55.979113+00:00",
+  "generated": "2026-09-23T18:55:10.792213+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 86,
   "other_count": 881,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
