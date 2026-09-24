@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T14:07:46.895409+00:00",
+  "generated": "2026-09-24T14:26:41.383189+00:00",
   "artists_watched": 50,
   "events_swept": 909,
   "truncated": false,
@@ -7,8 +7,8 @@
   "big_count": 94,
   "other_count": 783,
   "baseline_run": false,
-  "new_count": 14,
-  "soon_count": 67,
+  "new_count": 1,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Dylan Scott",
@@ -808,6 +808,23 @@
       "starts": "2026-09-24T16:00:00+00:00",
       "ends": "2026-09-25T02:00:00Z",
       "id": "vv17OZ_3GkY-oWzW|Presale|Venue Presale|2026-09-24T16:00:00+00:00"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "bucket": "watched",
+      "event": "HANS ZIMMER LIVE - THE NEXT LEVEL",
+      "event_id": "1AvbZ_3GkBx_fB1",
+      "event_date": "2027-03-07",
+      "url": "https://www.ticketmaster.com/hans-zimmer-live-the-next-level-cincinnati-ohio-03-07-2027/event/1600652EA2654E8A",
+      "venue": "Heritage Bank Center",
+      "city": "Cincinnati",
+      "state": "OH",
+      "label": "Heritage Bank Center, Cincinnati, OH",
+      "kind": "Presale",
+      "presale_name": "Local Presales",
+      "starts": "2026-09-24T16:00:00+00:00",
+      "ends": "2026-09-25T02:00:00Z",
+      "id": "1AvbZ_3GkBx_fB1|Presale|Local Presales|2026-09-24T16:00:00+00:00"
     },
     {
       "artist": "Hans Zimmer",
