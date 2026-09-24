@@ -331,13 +331,11 @@
     "G5vzZ_KkRpbyy|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-02T16:00:00+00:00": "2026-09-24T04:39:54.733713+00:00",
     "G5vzZ_KkRpbyy|Presale|Verizon Shine Select Seats|2026-10-02T16:00:00+00:00": "2026-09-24T04:39:54.733713+00:00",
     "G5viZ_K4wXSaY|Public onsale||2026-10-05T14:00:00+00:00": "2026-09-24T04:39:54.733713+00:00",
-    "vv1A8vPuzGA1baPr|Presale|Artist Presale 1|2026-09-30T14:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5diZ_Kr8E3Se|Presale|Artist Presale|2026-09-30T14:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5diZ_Kr8E3Se|Presale|VIP Packages Artist Presale|2026-09-30T14:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5viZ_KqSM0Og|Presale|Artist Presale Wave 1|2026-09-30T15:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "vvG1HZ_KF6I_hN|Presale|VIP Package Presale|2026-09-30T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "vvG1HZ_KF6I_hN|Presale|Artist Presale Wave 1|2026-09-30T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
-    "vv1A8vPuzGA1baPr|Presale|Artist Presale 2|2026-09-30T18:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5diZ_Kr8E3Se|Presale|Artist Presale|2026-09-30T18:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5diZ_Kr8E3Se|Presale|VIP Packages Presale|2026-09-30T18:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5viZ_KqSM0Og|Presale|Artist Presale Wave 2|2026-09-30T19:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
@@ -369,7 +367,11 @@
     "1AvbZ_3GkBx_fB1|Presale|Local Presales|2026-09-24T16:00:00+00:00": "2026-09-24T14:26:41.383189+00:00",
     "1AYZkfsGkdUbyXp|Presale|Artist Presale Wave 1|2026-09-30T14:00:00+00:00": "2026-09-24T15:10:16.676760+00:00",
     "G5viZ_KqSM0Og|Presale|Amex Presale Tickets\u00ae|2026-10-01T15:00:00+00:00": "2026-09-24T15:10:16.676760+00:00",
-    "G5viZ_KqSM0Og|Presale|Amex Reserved Tickets\u00ae|2026-10-02T15:00:00+00:00": "2026-09-24T15:10:16.676760+00:00"
+    "G5viZ_KqSM0Og|Presale|Amex Reserved Tickets\u00ae|2026-10-02T15:00:00+00:00": "2026-09-24T15:10:16.676760+00:00",
+    "vv1A8vPuzGA1baPr|Presale|Artist Presale Wave 1|2026-09-30T14:00:00+00:00": "2026-09-24T15:27:17.378228+00:00",
+    "vv1A8vPuzGA1baPr|Presale|Artist Presale Wave 2|2026-09-30T18:00:00+00:00": "2026-09-24T15:27:17.378228+00:00",
+    "vv1A8vPuzGA1baPr|Presale|Amex Presale Tickets\u00ae|2026-10-01T14:00:00+00:00": "2026-09-24T15:27:17.378228+00:00",
+    "vv1A8vPuzGA1baPr|Presale|Amex Reserved Tickets\u00ae|2026-10-02T14:00:00+00:00": "2026-09-24T15:27:17.378228+00:00"
   },
   "reminded": {
     "1AdZZ_3GkmRvUZw|Presale|Venue Presale|2026-09-24T16:00:00+00:00": "2026-09-24T04:51:59.327350+00:00",
