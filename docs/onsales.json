@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-24T17:06:39.773780+00:00",
+  "generated": "2026-09-24T17:24:16.224463+00:00",
   "artists_watched": 50,
-  "events_swept": 981,
+  "events_swept": 983,
   "truncated": false,
   "watched_count": 32,
   "big_count": 98,
-  "other_count": 851,
+  "other_count": 853,
   "baseline_run": false,
-  "new_count": 1,
-  "soon_count": 22,
+  "new_count": 2,
+  "soon_count": 1,
   "windows": [
     {
       "artist": "Hans Zimmer",
@@ -3764,7 +3764,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-09-28T17:00:00+00:00",
-      "ends": "2027-02-06T03:00:00Z",
+      "ends": "2027-02-06T05:00:00Z",
       "id": "vv1AaZkfUGkdNKX7X|Public onsale||2026-09-28T17:00:00+00:00"
     },
     {
@@ -4195,23 +4195,6 @@
     {
       "artist": "Lizzy McAlpine",
       "bucket": "big",
-      "event": "WXPN Welcomes Lizzy McAlpine: The Over Country Tour",
-      "event_id": "1AYZkfsGkdUbyXp",
-      "event_date": "2027-06-18",
-      "url": "https://www.ticketmaster.com/wxpn-welcomes-lizzy-mcalpine-the-over-philadelphia-pennsylvania-06-18-2027/event/30006531F6639F96",
-      "venue": "Xfinity Mobile Arena",
-      "city": "Philadelphia",
-      "state": "PA",
-      "label": "Xfinity Mobile Arena, Philadelphia, PA",
-      "kind": "Presale",
-      "presale_name": "Artist Presale Wave 2",
-      "starts": "2026-09-30T18:00:00+00:00",
-      "ends": "2026-10-02T02:00:00Z",
-      "id": "1AYZkfsGkdUbyXp|Presale|Artist Presale Wave 2|2026-09-30T18:00:00+00:00"
-    },
-    {
-      "artist": "Lizzy McAlpine",
-      "bucket": "big",
       "event": "Lizzy McAlpine: The Over Country Tour",
       "event_id": "vv1A8vPuzGA1baPr",
       "event_date": "2027-06-20",
@@ -4361,6 +4344,23 @@
       "starts": "2026-10-01T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "1AYZkfsGkdUbyXp|Presale|Amex Presale Tickets\u00ae|2026-10-01T14:00:00+00:00"
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "bucket": "big",
+      "event": "WXPN Welcomes Lizzy McAlpine: The Over Country Tour",
+      "event_id": "1AYZkfsGkdUbyXp",
+      "event_date": "2027-06-18",
+      "url": "https://www.ticketmaster.com/wxpn-welcomes-lizzy-mcalpine-the-over-philadelphia-pennsylvania-06-18-2027/event/30006531F6639F96",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Presale",
+      "presale_name": "Amex Presale Tickets",
+      "starts": "2026-10-01T14:00:00+00:00",
+      "ends": "2026-10-02T02:00:00Z",
+      "id": "1AYZkfsGkdUbyXp|Presale|Amex Presale Tickets|2026-10-01T14:00:00+00:00"
     },
     {
       "artist": "Lizzy McAlpine",
@@ -4922,6 +4922,23 @@
       "starts": "2026-10-02T14:00:00+00:00",
       "ends": "2027-06-05T02:00:00Z",
       "id": "1AYZkfsGkdUbyXp|Presale|Amex Reserved Tickets\u00ae|2026-10-02T14:00:00+00:00"
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "bucket": "big",
+      "event": "WXPN Welcomes Lizzy McAlpine: The Over Country Tour",
+      "event_id": "1AYZkfsGkdUbyXp",
+      "event_date": "2027-06-18",
+      "url": "https://www.ticketmaster.com/wxpn-welcomes-lizzy-mcalpine-the-over-philadelphia-pennsylvania-06-18-2027/event/30006531F6639F96",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Presale",
+      "presale_name": "Amex Reserved Tickets",
+      "starts": "2026-10-02T14:00:00+00:00",
+      "ends": "2027-06-05T02:00:00Z",
+      "id": "1AYZkfsGkdUbyXp|Presale|Amex Reserved Tickets|2026-10-02T14:00:00+00:00"
     },
     {
       "artist": "Lizzy McAlpine",
