@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-25T15:08:50.974251+00:00",
+  "generated": "2026-09-25T15:26:49.173085+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 36,
-  "big_count": 101,
-  "other_count": 863,
+  "big_count": 97,
+  "other_count": 867,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 1,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Hans Zimmer",
