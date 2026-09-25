@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-25T13:41:48.152988+00:00",
+  "generated": "2026-09-25T13:54:01.222066+00:00",
   "artists_watched": 50,
-  "events_swept": 906,
+  "events_swept": 911,
   "truncated": false,
   "watched_count": 33,
-  "big_count": 102,
-  "other_count": 771,
+  "big_count": 103,
+  "other_count": 775,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -247,6 +247,23 @@
       "starts": "2026-09-25T14:00:00+00:00",
       "ends": "2027-01-01T03:00:00Z",
       "id": "G5eVZ_K6HPnaa|Public onsale||2026-09-25T14:00:00+00:00"
+    },
+    {
+      "artist": "Yacht Rock Revue",
+      "bucket": "big",
+      "event": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
+      "event_id": "Z7r9jZ1AAeefV",
+      "event_date": "2027-01-20",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAeefV",
+      "venue": "Coffee Butler Amphitheater",
+      "city": "Key West",
+      "state": "FL",
+      "label": "Coffee Butler Amphitheater, Key West, FL",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-25T14:00:00+00:00",
+      "ends": "2027-01-21T00:30:00Z",
+      "id": "Z7r9jZ1AAeefV|Public onsale||2026-09-25T14:00:00+00:00"
     },
     {
       "artist": "Yacht Rock Revue",
