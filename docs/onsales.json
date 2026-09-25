@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-25T05:52:13.168844+00:00",
+  "generated": "2026-09-25T06:09:15.739859+00:00",
   "artists_watched": 50,
-  "events_swept": 895,
+  "events_swept": 896,
   "truncated": false,
   "watched_count": 32,
-  "big_count": 96,
+  "big_count": 97,
   "other_count": 767,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -2644,6 +2644,23 @@
       "starts": "2026-09-25T16:00:00+00:00",
       "ends": "2027-06-26T23:00:00Z",
       "id": "G5vzZ_3K6u08y|Presale|VIP Packages Onsale|2026-09-25T16:00:00+00:00"
+    },
+    {
+      "artist": "Tha Dogg Pound",
+      "bucket": "big",
+      "event": "THA DOGG POUND",
+      "event_id": "rZ7HnEZ1AfGgPf",
+      "event_date": "2026-12-19",
+      "url": "https://www.ticketweb.com/event/tha-dogg-pound-garden-amphitheatre-tickets/14335954",
+      "venue": "Garden Amphitheatre",
+      "city": "Garden Grove",
+      "state": "CA",
+      "label": "Garden Amphitheatre, Garden Grove, CA",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-09-25T17:00:00+00:00",
+      "ends": "2026-12-20T05:00:00Z",
+      "id": "rZ7HnEZ1AfGgPf|Public onsale||2026-09-25T17:00:00+00:00"
     },
     {
       "artist": "Former Ladies of the Supremes",
