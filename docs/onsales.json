@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-25T12:09:17.609414+00:00",
+  "generated": "2026-09-25T12:31:02.917775+00:00",
   "artists_watched": 50,
-  "events_swept": 901,
+  "events_swept": 902,
   "truncated": false,
   "watched_count": 33,
-  "big_count": 99,
+  "big_count": 100,
   "other_count": 769,
   "baseline_run": false,
-  "new_count": 7,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -3632,6 +3632,23 @@
       "id": "1kA8vPAFGA26PI0|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00"
     },
     {
+      "artist": "Q102 Jingle Ball",
+      "bucket": "big",
+      "event": "Q102's Jingle Ball Presented by Capital One",
+      "event_id": "1AdZZ_3GkD57zG1",
+      "event_date": "2026-12-15",
+      "url": "https://www.ticketmaster.com/q102s-jingle-ball-presented-by-capital-philadelphia-pennsylvania-12-15-2026/event/3000652ECB13830A",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Presale",
+      "presale_name": "Capital One Cardholder Presale",
+      "starts": "2026-09-29T14:00:00+00:00",
+      "ends": "2026-10-01T14:00:00Z",
+      "id": "1AdZZ_3GkD57zG1|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00"
+    },
+    {
       "artist": "Buckeye Country Superfest",
       "bucket": "big",
       "event": "Buckeye Country Superfest starring Chris Stapleton",
@@ -4601,6 +4618,23 @@
       "id": "1kA8vPAFGA26PI0|Presale|Local Station VIP Sale|2026-10-01T15:00:00+00:00"
     },
     {
+      "artist": "Q102 Jingle Ball",
+      "bucket": "big",
+      "event": "Q102's Jingle Ball Presented by Capital One",
+      "event_id": "1AdZZ_3GkD57zG1",
+      "event_date": "2026-12-15",
+      "url": "https://www.ticketmaster.com/q102s-jingle-ball-presented-by-capital-philadelphia-pennsylvania-12-15-2026/event/3000652ECB13830A",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Presale",
+      "presale_name": "Q102 VIP Sale",
+      "starts": "2026-10-01T15:00:00+00:00",
+      "ends": "2026-10-02T15:00:00Z",
+      "id": "1AdZZ_3GkD57zG1|Presale|Q102 VIP Sale|2026-10-01T15:00:00+00:00"
+    },
+    {
       "artist": "Lizzy McAlpine",
       "bucket": "big",
       "event": "Lizzy McAlpine: The Over Country Tour",
@@ -5347,6 +5381,23 @@
       "starts": "2026-10-02T16:00:00+00:00",
       "ends": "2026-12-15T00:30:00Z",
       "id": "1kA8vPAFGA26PI0|Public onsale||2026-10-02T16:00:00+00:00"
+    },
+    {
+      "artist": "Q102 Jingle Ball",
+      "bucket": "big",
+      "event": "Q102's Jingle Ball Presented by Capital One",
+      "event_id": "1AdZZ_3GkD57zG1",
+      "event_date": "2026-12-15",
+      "url": "https://www.ticketmaster.com/q102s-jingle-ball-presented-by-capital-philadelphia-pennsylvania-12-15-2026/event/3000652ECB13830A",
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state": "PA",
+      "label": "Xfinity Mobile Arena, Philadelphia, PA",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-10-02T16:00:00+00:00",
+      "ends": "2026-12-16T00:30:00Z",
+      "id": "1AdZZ_3GkD57zG1|Public onsale||2026-10-02T16:00:00+00:00"
     },
     {
       "artist": "Hilary Duff",
