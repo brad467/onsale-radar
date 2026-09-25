@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-25T00:10:22.134563+00:00",
+  "generated": "2026-09-25T00:33:33.881130+00:00",
   "artists_watched": 50,
-  "events_swept": 876,
+  "events_swept": 877,
   "truncated": false,
   "watched_count": 32,
   "big_count": 96,
-  "other_count": 748,
+  "other_count": 749,
   "baseline_run": false,
-  "new_count": 27,
-  "soon_count": 0,
+  "new_count": 2,
+  "soon_count": 7,
   "windows": [
     {
       "artist": "Kenny Chesney",
@@ -3547,6 +3547,23 @@
       "id": "G5vzZ_KkRpbyy|Presale|Citi\u00ae Cardmember Presale VIP Package|2026-09-28T16:00:00+00:00"
     },
     {
+      "artist": "Hilary Duff",
+      "bucket": "big",
+      "event": "Hilary Duff: the lucky me tour",
+      "event_id": "G5vzZ_KkRpbyy",
+      "event_date": "2027-11-17",
+      "url": "https://www.ticketmaster.com/hilary-duff-the-lucky-me-tour-denver-colorado-11-17-2027/event/1E006531AF598E79",
+      "venue": "Ball Arena",
+      "city": "Denver",
+      "state": "CO",
+      "label": "Ball Arena, Denver, CO",
+      "kind": "Presale",
+      "presale_name": "Verizon Shine Select Seats VIP Package",
+      "starts": "2026-09-28T16:00:00+00:00",
+      "ends": "2026-09-29T17:00:00Z",
+      "id": "G5vzZ_KkRpbyy|Presale|Verizon Shine Select Seats VIP Package|2026-09-28T16:00:00+00:00"
+    },
+    {
       "artist": "Conjunto Primavera",
       "bucket": "big",
       "event": "Noche de Leyendas",
@@ -4652,6 +4669,23 @@
       "id": "G5vzZ_KkRpbyy|Presale|Local Venue / Radio Presale|2026-10-01T16:00:00+00:00"
     },
     {
+      "artist": "Hilary Duff",
+      "bucket": "big",
+      "event": "Hilary Duff: the lucky me tour",
+      "event_id": "G5vzZ_KkRpbyy",
+      "event_date": "2027-11-17",
+      "url": "https://www.ticketmaster.com/hilary-duff-the-lucky-me-tour-denver-colorado-11-17-2027/event/1E006531AF598E79",
+      "venue": "Ball Arena",
+      "city": "Denver",
+      "state": "CO",
+      "label": "Ball Arena, Denver, CO",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-10-01T16:00:00+00:00",
+      "ends": "2026-10-02T15:00:00Z",
+      "id": "G5vzZ_KkRpbyy|Presale|VIP Package Presale|2026-10-01T16:00:00+00:00"
+    },
+    {
       "artist": "Lizzy McAlpine",
       "bucket": "big",
       "event": "Lizzy McAlpine: The Over Country Tour",
@@ -4663,10 +4697,10 @@
       "state": "WA",
       "label": "Climate Pledge Arena, Seattle, WA",
       "kind": "Presale",
-      "presale_name": "Amex Presale Tickets",
+      "presale_name": "Amex Presale Tickets\u00ae",
       "starts": "2026-10-01T17:00:00+00:00",
       "ends": "2026-10-02T05:00:00Z",
-      "id": "vvG1HZ_KF6I_hN|Presale|Amex Presale Tickets|2026-10-01T17:00:00+00:00"
+      "id": "vvG1HZ_KF6I_hN|Presale|Amex Presale Tickets\u00ae|2026-10-01T17:00:00+00:00"
     },
     {
       "artist": "Lizzy McAlpine",
@@ -5258,10 +5292,10 @@
       "state": "WA",
       "label": "Climate Pledge Arena, Seattle, WA",
       "kind": "Presale",
-      "presale_name": "Amex Reserved Tickets",
+      "presale_name": "Amex Reserved Tickets\u00ae",
       "starts": "2026-10-02T17:00:00+00:00",
       "ends": "2027-07-04T05:00:00Z",
-      "id": "vvG1HZ_KF6I_hN|Presale|Amex Reserved Tickets|2026-10-02T17:00:00+00:00"
+      "id": "vvG1HZ_KF6I_hN|Presale|Amex Reserved Tickets\u00ae|2026-10-02T17:00:00+00:00"
     },
     {
       "artist": "Contest of Champions",

@@ -198,7 +198,6 @@
     "G5diZ_Kr8E3Se|Presale|Local Presale|2026-10-01T14:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5diZ_Kr8E3Se|Presale|Venue Presale|2026-10-01T14:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5viZ_KqSM0Og|Presale|Local Presale|2026-10-01T15:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
-    "vvG1HZ_KF6I_hN|Presale|Amex Presale Tickets|2026-10-01T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "vvG1HZ_KF6I_hN|Presale|AEG Presale|2026-10-01T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "vvG1HZ_KF6I_hN|Presale|Venue Presale|2026-10-01T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "vvG1HZ_KF6I_hN|Presale|Ticketmaster Presale|2026-10-01T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
@@ -212,7 +211,6 @@
     "G5diZ_Kr8E3Se|Presale|VIP Packages|2026-10-02T14:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "G5viZ_KqSM0Og|Public onsale||2026-10-02T15:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "vvG1HZ_KF6I_hN|Public onsale||2026-10-02T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
-    "vvG1HZ_KF6I_hN|Presale|Amex Reserved Tickets|2026-10-02T17:00:00+00:00": "2026-09-24T14:07:46.895409+00:00",
     "1AYZkfsGkdUbyXp|Presale|Artist Presale Wave 1|2026-09-30T14:00:00+00:00": "2026-09-24T15:10:16.676760+00:00",
     "G5viZ_KqSM0Og|Presale|Amex Presale Tickets\u00ae|2026-10-01T15:00:00+00:00": "2026-09-24T15:10:16.676760+00:00",
     "G5viZ_KqSM0Og|Presale|Amex Reserved Tickets\u00ae|2026-10-02T15:00:00+00:00": "2026-09-24T15:10:16.676760+00:00",
@@ -308,7 +306,11 @@
     "vvG1YZ_3lPl3yg|Presale|VIP Package Onsale|2026-10-02T15:00:00+00:00": "2026-09-25T00:10:22.134563+00:00",
     "G5vzZ_KkRpbyy|Public onsale||2026-10-02T16:00:00+00:00": "2026-09-25T00:10:22.134563+00:00",
     "G5vzZ_KkRpbyy|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-02T16:00:00+00:00": "2026-09-25T00:10:22.134563+00:00",
-    "G5vzZ_KkRpbyy|Presale|Verizon Shine Select Seats|2026-10-02T16:00:00+00:00": "2026-09-25T00:10:22.134563+00:00"
+    "G5vzZ_KkRpbyy|Presale|Verizon Shine Select Seats|2026-10-02T16:00:00+00:00": "2026-09-25T00:10:22.134563+00:00",
+    "G5vzZ_KkRpbyy|Presale|Verizon Shine Select Seats VIP Package|2026-09-28T16:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "G5vzZ_KkRpbyy|Presale|VIP Package Presale|2026-10-01T16:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "vvG1HZ_KF6I_hN|Presale|Amex Presale Tickets\u00ae|2026-10-01T17:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "vvG1HZ_KF6I_hN|Presale|Amex Reserved Tickets\u00ae|2026-10-02T17:00:00+00:00": "2026-09-25T00:33:33.881130+00:00"
   },
   "reminded": {
     "Z7r9jZ1AAvsAd|Public onsale||2026-09-25T13:00:00+00:00": "2026-09-24T13:08:25.993255+00:00",
@@ -450,6 +452,13 @@
     "Z7r9jZ1AAe7ub|Public onsale||2026-09-25T15:00:00+00:00": "2026-09-24T19:50:33.139495+00:00",
     "vvG1IZ_K1HQ1L9|Public onsale||2026-09-25T20:00:00+00:00": "2026-09-24T20:08:12.210884+00:00",
     "vvG1IZ_K1HQ1L9|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-09-25T20:00:00+00:00": "2026-09-24T20:08:12.210884+00:00",
-    "vvG1IZ_3DQR_0d|Public onsale||2026-09-25T20:00:00+00:00": "2026-09-24T20:08:12.210884+00:00"
+    "vvG1IZ_3DQR_0d|Public onsale||2026-09-25T20:00:00+00:00": "2026-09-24T20:08:12.210884+00:00",
+    "vvG1zZ_3x03bY9|Public onsale||2026-09-25T14:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "k7vGF_3Cwtd0z|Public onsale||2026-09-25T14:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "vv17OZ_8GkmnWPji|Public onsale||2026-09-25T14:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "G5eVZ_3C19bfO|Public onsale||2026-09-25T14:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "vv177Z_3GkT1lKmv|Public onsale||2026-09-25T14:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "vv1AvZkfxGkdu8gfO|Public onsale||2026-09-25T14:00:00+00:00": "2026-09-25T00:33:33.881130+00:00",
+    "vv1AkZkfxGkdkijos|Public onsale||2026-09-25T15:00:00+00:00": "2026-09-25T00:33:33.881130+00:00"
   }
 }
