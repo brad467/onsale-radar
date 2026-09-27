@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-27T15:50:39.333163+00:00",
+  "generated": "2026-09-27T16:07:20.713972+00:00",
   "artists_watched": 50,
-  "events_swept": 306,
+  "events_swept": 308,
   "truncated": false,
   "watched_count": 1,
   "big_count": 50,
-  "other_count": 255,
+  "other_count": 257,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 0,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Hilary Duff",
@@ -485,6 +485,23 @@
       "starts": "2026-09-29T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "vv1AAZkfsGkdcvKcQ|Presale|Preferred Seating Presale|2026-09-29T14:00:00+00:00"
+    },
+    {
+      "artist": "Buckeye Country Superfest",
+      "bucket": "big",
+      "event": "Buckeye Country Superfest starring Chris Stapleton",
+      "event_id": "vv1AAZkfsGkdcvKcQ",
+      "event_date": "2027-07-10",
+      "url": "https://www.ticketmaster.com/buckeye-country-superfest-starring-chris-stapleton-columbus-ohio-07-10-2027/event/05006531ED053B5A",
+      "venue": "Ohio Stadium",
+      "city": "Columbus",
+      "state": "OH",
+      "label": "Ohio Stadium, Columbus, OH",
+      "kind": "Presale",
+      "presale_name": "Presale Offer",
+      "starts": "2026-09-29T14:00:00+00:00",
+      "ends": "2026-10-02T02:00:00Z",
+      "id": "vv1AAZkfsGkdcvKcQ|Presale|Presale Offer|2026-09-29T14:00:00+00:00"
     },
     {
       "artist": "106.1 KISS FM's Jingle Ball",
