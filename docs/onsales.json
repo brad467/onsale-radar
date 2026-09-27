@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-27T14:50:30.507155+00:00",
+  "generated": "2026-09-27T15:06:59.186219+00:00",
   "artists_watched": 50,
-  "events_swept": 304,
+  "events_swept": 306,
   "truncated": false,
   "watched_count": 1,
   "big_count": 50,
-  "other_count": 253,
+  "other_count": 255,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 0,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Hilary Duff",
