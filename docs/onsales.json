@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T17:27:06.112255+00:00",
+  "generated": "2026-09-28T17:41:25.084368+00:00",
   "artists_watched": 50,
   "events_swept": 604,
   "truncated": false,
@@ -230,6 +230,40 @@
       "starts": "2026-09-29T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "k7vGF_K1rWXJY|Presale|Back 40 Duck Club Presale|2026-09-29T14:00:00+00:00"
+    },
+    {
+      "artist": "Slipknot",
+      "bucket": "big",
+      "event": "Slipknot: (sic)est Stadium Tour",
+      "event_id": "G5vVZ_KCI8xEi",
+      "event_date": "2027-07-18",
+      "url": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-queens-new-york-07-18-2027/event/1D006533A84229EC",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY",
+      "label": "Citi Field, Queens, NY",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale",
+      "starts": "2026-09-29T14:00:00+00:00",
+      "ends": "2026-10-02T03:59:00Z",
+      "id": "G5vVZ_KCI8xEi|Presale|VIP Packages Presale|2026-09-29T14:00:00+00:00"
+    },
+    {
+      "artist": "Slipknot",
+      "bucket": "big",
+      "event": "Slipknot: (sic)est Stadium Tour",
+      "event_id": "G5vVZ_KCI8xEi",
+      "event_date": "2027-07-18",
+      "url": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-queens-new-york-07-18-2027/event/1D006533A84229EC",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY",
+      "label": "Citi Field, Queens, NY",
+      "kind": "Presale",
+      "presale_name": "Artist Presale",
+      "starts": "2026-09-29T14:00:00+00:00",
+      "ends": "2026-10-02T03:59:00Z",
+      "id": "G5vVZ_KCI8xEi|Presale|Artist Presale|2026-09-29T14:00:00+00:00"
     },
     {
       "artist": "Slipknot",
@@ -2130,10 +2164,10 @@
       "state": "NY",
       "label": "Citi Field, Queens, NY",
       "kind": "Presale",
-      "presale_name": "All Support Presales",
+      "presale_name": "Support Presale",
       "starts": "2026-09-30T14:00:00+00:00",
       "ends": "2026-10-02T03:59:00Z",
-      "id": "G5vVZ_KCI8xEi|Presale|All Support Presales|2026-09-30T14:00:00+00:00"
+      "id": "G5vVZ_KCI8xEi|Presale|Support Presale|2026-09-30T14:00:00+00:00"
     },
     {
       "artist": "Slipknot",
@@ -5466,6 +5500,23 @@
       "starts": "2026-10-02T14:00:00+00:00",
       "ends": "2027-07-19T00:30:00Z",
       "id": "G5vVZ_KCI8xEi|Public onsale||2026-10-02T14:00:00+00:00"
+    },
+    {
+      "artist": "Slipknot",
+      "bucket": "big",
+      "event": "Slipknot: (sic)est Stadium Tour",
+      "event_id": "G5vVZ_KCI8xEi",
+      "event_date": "2027-07-18",
+      "url": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-queens-new-york-07-18-2027/event/1D006533A84229EC",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY",
+      "label": "Citi Field, Queens, NY",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-10-02T14:00:00+00:00",
+      "ends": "2027-07-15T02:00:00Z",
+      "id": "G5vVZ_KCI8xEi|Presale|VIP Packages Onsale|2026-10-02T14:00:00+00:00"
     },
     {
       "artist": "Slipknot",
