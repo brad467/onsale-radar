@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-28T16:09:22.382404+00:00",
+  "generated": "2026-09-28T16:29:45.092951+00:00",
   "artists_watched": 50,
-  "events_swept": 561,
+  "events_swept": 562,
   "truncated": false,
   "watched_count": 1,
   "big_count": 92,
-  "other_count": 468,
+  "other_count": 469,
   "baseline_run": false,
-  "new_count": 6,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -141,10 +141,10 @@
       "state": "SC",
       "label": "Bon Secours Wellness Arena , Greenville, SC",
       "kind": "Presale",
-      "presale_name": "Fan Club VIP Packages Presale",
+      "presale_name": "Back 40 Duck Club VIP Presale",
       "starts": "2026-09-29T14:00:00+00:00",
       "ends": "2026-09-30T02:00:00Z",
-      "id": "G5eVZ_K14Klik|Presale|Fan Club VIP Packages Presale|2026-09-29T14:00:00+00:00"
+      "id": "G5eVZ_K14Klik|Presale|Back 40 Duck Club VIP Presale|2026-09-29T14:00:00+00:00"
     },
     {
       "artist": "Riley Green",
@@ -1960,10 +1960,10 @@
       "state": "SC",
       "label": "Bon Secours Wellness Arena , Greenville, SC",
       "kind": "Presale",
-      "presale_name": "Artist App Presale",
+      "presale_name": "Riley Green App Presale",
       "starts": "2026-09-30T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
-      "id": "G5eVZ_K14Klik|Presale|Artist App Presale|2026-09-30T14:00:00+00:00"
+      "id": "G5eVZ_K14Klik|Presale|Riley Green App Presale|2026-09-30T14:00:00+00:00"
     },
     {
       "artist": "Fantasia",
@@ -3596,23 +3596,6 @@
       "starts": "2026-09-30T19:00:00+00:00",
       "ends": "2026-10-02T05:00:00Z",
       "id": "vvG1HZ_KeoQ4YP|Presale|Citi\u00ae Cardmember Presale|2026-09-30T19:00:00+00:00"
-    },
-    {
-      "artist": "Riley Green",
-      "bucket": "big",
-      "event": "Riley Green: That's Just Me Tour",
-      "event_id": "vvG1HZ_KeoQ4YP",
-      "event_date": "2027-04-02",
-      "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-seattle-washington-04-02-2027/event/0F00653091695C25",
-      "venue": "Climate Pledge Arena",
-      "city": "Seattle",
-      "state": "WA",
-      "label": "Climate Pledge Arena, Seattle, WA",
-      "kind": "Presale",
-      "presale_name": "Randy Houser Presale",
-      "starts": "2026-09-30T19:00:00+00:00",
-      "ends": "2026-10-02T05:00:00Z",
-      "id": "vvG1HZ_KeoQ4YP|Presale|Randy Houser Presale|2026-09-30T19:00:00+00:00"
     },
     {
       "artist": "Riley Green",
