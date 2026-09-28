@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-28T14:31:09.751007+00:00",
+  "generated": "2026-09-28T14:57:17.158730+00:00",
   "artists_watched": 50,
-  "events_swept": 492,
+  "events_swept": 495,
   "truncated": false,
   "watched_count": 1,
   "big_count": 80,
-  "other_count": 411,
+  "other_count": 414,
   "baseline_run": false,
-  "new_count": 5,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -2827,10 +2827,10 @@
       "state": "KS",
       "label": "INTRUST Bank Arena, Wichita, KS",
       "kind": "Presale",
-      "presale_name": "Support Presale",
+      "presale_name": "Jake Worthington Presale",
       "starts": "2026-09-30T17:00:00+00:00",
       "ends": "2026-10-02T03:00:00Z",
-      "id": "vv1AkZkfwGkdIlqfV|Presale|Support Presale|2026-09-30T17:00:00+00:00"
+      "id": "vv1AkZkfwGkdIlqfV|Presale|Jake Worthington Presale|2026-09-30T17:00:00+00:00"
     },
     {
       "artist": "Riley Green",
@@ -2848,6 +2848,40 @@
       "starts": "2026-09-30T17:00:00+00:00",
       "ends": "2026-10-02T03:00:00Z",
       "id": "vv1AkZkfwGkdIlqfV|Presale|LIVE NATION PRESALE|2026-09-30T17:00:00+00:00"
+    },
+    {
+      "artist": "Riley Green",
+      "bucket": "big",
+      "event": "Riley Green: That's Just Me Tour",
+      "event_id": "vv1AkZkfwGkdIlqfV",
+      "event_date": "2027-05-07",
+      "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-wichita-kansas-05-07-2027/event/06006532E8ADD534",
+      "venue": "INTRUST Bank Arena",
+      "city": "Wichita",
+      "state": "KS",
+      "label": "INTRUST Bank Arena, Wichita, KS",
+      "kind": "Presale",
+      "presale_name": "Randy Houser Presale",
+      "starts": "2026-09-30T17:00:00+00:00",
+      "ends": "2026-10-02T03:00:00Z",
+      "id": "vv1AkZkfwGkdIlqfV|Presale|Randy Houser Presale|2026-09-30T17:00:00+00:00"
+    },
+    {
+      "artist": "Riley Green",
+      "bucket": "big",
+      "event": "Riley Green: That's Just Me Tour",
+      "event_id": "vv1AkZkfwGkdIlqfV",
+      "event_date": "2027-05-07",
+      "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-wichita-kansas-05-07-2027/event/06006532E8ADD534",
+      "venue": "INTRUST Bank Arena",
+      "city": "Wichita",
+      "state": "KS",
+      "label": "INTRUST Bank Arena, Wichita, KS",
+      "kind": "Presale",
+      "presale_name": "Hannah McFarland Presale",
+      "starts": "2026-09-30T17:00:00+00:00",
+      "ends": "2026-10-02T03:00:00Z",
+      "id": "vv1AkZkfwGkdIlqfV|Presale|Hannah McFarland Presale|2026-09-30T17:00:00+00:00"
     },
     {
       "artist": "Riley Green",
