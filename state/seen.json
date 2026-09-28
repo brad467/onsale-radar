@@ -1,6 +1,5 @@
 {
   "alerted": {
-    "vv1AaZkfUGkdNKX7X|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-24T04:39:54.733713+00:00",
     "G5viZ_K4wXSaY|Public onsale||2026-10-05T14:00:00+00:00": "2026-09-24T04:39:54.733713+00:00",
     "vv17OZ_3GkTGhaQo|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00": "2026-09-25T12:09:17.609414+00:00",
     "1kA8vPAFGA26PI0|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00": "2026-09-25T12:09:17.609414+00:00",
@@ -22,7 +21,6 @@
     "vv1AaZkf0GkdEc-fK|Presale|Capital One Cardholder Presale|2026-09-29T17:00:00+00:00": "2026-09-25T14:08:24.331138+00:00",
     "vv1AaZkf0GkdEc-fK|Presale|KIIS CLUB VIP Sale|2026-10-01T18:00:00+00:00": "2026-09-25T14:08:24.331138+00:00",
     "vv1AaZkf0GkdEc-fK|Public onsale||2026-10-02T19:00:00+00:00": "2026-09-25T14:08:24.331138+00:00",
-    "rZ7HnEZ1Afue07|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-25T17:06:20.262095+00:00",
     "vv1AAZkfsGkdcvKcQ|Presale|Buckeye Registration Presale|2026-09-29T14:00:00+00:00": "2026-09-26T00:09:16.537132+00:00",
     "vv1AAZkfsGkdcvKcQ|Presale|Amex Presale Tickets|2026-09-29T14:00:00+00:00": "2026-09-26T00:09:16.537132+00:00",
     "vv1AAZkfsGkdcvKcQ|Presale|Preferred Seating Presale|2026-09-29T14:00:00+00:00": "2026-09-26T00:09:16.537132+00:00",
@@ -155,7 +153,6 @@
     "vv167ZkfMPFZA26Gu7|Presale|Artist Presale|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
     "vv167ZkfMPFZA26Gu7|Presale|VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
     "vv1FvOvPGtqtZ755AA|Presale|Preferred Seating (Aisle) Offer|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
-    "vv1FvOvPGtqtZ755AA|Presale|Fan Club VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
     "vv1FvOvPGtqtZ755AA|Presale|Back 40 Duck Club Presale|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
     "vv1A6ZkfwGkdjDyhH|Presale|Preferred Seating|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
     "vv1A6ZkfwGkdjDyhH|Presale|Back 40 Duck Club VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T13:12:47.747572+00:00",
@@ -358,7 +355,6 @@
     "vv1AkZkfwGkdIlqfV|Presale|Jake Worthington Presale|2026-09-30T17:00:00+00:00": "2026-09-28T14:57:17.158730+00:00",
     "vv1AkZkfwGkdIlqfV|Presale|Randy Houser Presale|2026-09-30T17:00:00+00:00": "2026-09-28T14:57:17.158730+00:00",
     "vv1AkZkfwGkdIlqfV|Presale|Hannah McFarland Presale|2026-09-30T17:00:00+00:00": "2026-09-28T14:57:17.158730+00:00",
-    "G5dIZ_KlbI9Ld|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "G5viZ_KJGQIYX|Presale|Rod Stewart Fan Club Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "G5viZ_KJGQIYX|Presale|Ticket + Rod Stewart Fan Club Membership|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "vv1AeZkfMGkdC8RnU|Presale|LIVE NATION PRESALE|2026-09-30T14:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
@@ -414,11 +410,16 @@
     "16vjZ_KOMG7UcKz|Presale|On The List VIP Packages Presale|2026-09-30T17:00:00+00:00": "2026-09-28T16:47:07.625082+00:00",
     "16vjZ_KOMG7UWKB|Presale|On The List VIP Packages Presale|2026-09-30T17:00:00+00:00": "2026-09-28T16:47:07.625082+00:00",
     "16vjZ_KOMG7MuKW|Presale|On The List VIP Packages Presale|2026-09-30T17:00:00+00:00": "2026-09-28T16:47:07.625082+00:00",
-    "16vjZ_KOMG7MuKT|Presale|On The List VIP Packages Presale|2026-09-30T17:00:00+00:00": "2026-09-28T16:47:07.625082+00:00"
+    "16vjZ_KOMG7MuKT|Presale|On The List VIP Packages Presale|2026-09-30T17:00:00+00:00": "2026-09-28T16:47:07.625082+00:00",
+    "vv1FvOvPGtqtZ755AA|Presale|Back 40 Duck Club VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "vv1AaZkfzGkeTkqbZ|Presale|PROMOTER PRESALE|2026-09-30T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "vv1AaZkfzGkeTkqbZ|Presale|VENUE PRESALE|2026-09-30T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "G5vYZ_Krz5JAF|Presale|Promoter Presale|2026-09-30T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "G5vYZ_Krz5JAF|Presale|Venue Presale|2026-09-30T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "vv1AaZkfzGkeTkqbZ|Public onsale||2026-10-02T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "G5vYZ_Krz5JAF|Public onsale||2026-10-02T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00"
   },
   "reminded": {
-    "rZ7HnEZ1Afue07|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-27T17:06:18.365161+00:00",
-    "vv1AaZkfUGkdNKX7X|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-27T17:06:18.365161+00:00",
     "vv17OZ_3GkTGhaQo|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00": "2026-09-28T14:11:21.036778+00:00",
     "1kA8vPAFGA26PI0|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00": "2026-09-28T14:11:21.036778+00:00",
     "1AdZZ_3GkD57zG1|Presale|Capital One Cardholder Presale|2026-09-29T14:00:00+00:00": "2026-09-28T14:11:21.036778+00:00",
@@ -426,9 +427,10 @@
     "vvG1YZ_Keg__UB|Presale|Capital One Cardholder Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "vv1A7ZkfpGkdQYk3R|Presale|Capital One Cardholder Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "G5viZ_KL9Hgzz|Presale|Capital One Cardholder Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
-    "vv1FvOvPGtqtZ755AA|Presale|Fan Club VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
-    "G5dIZ_KlbI9Ld|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
     "G5viZ_KJGQIYX|Presale|Rod Stewart Fan Club Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
-    "G5viZ_KJGQIYX|Presale|Ticket + Rod Stewart Fan Club Membership|2026-09-29T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00"
+    "G5viZ_KJGQIYX|Presale|Ticket + Rod Stewart Fan Club Membership|2026-09-29T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
+    "vv1AaZkf0GkdEc-fK|Presale|Capital One Cardholder Presale|2026-09-29T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "G5diZ_Khn8JoE|Presale|Chase Cardholder Preferred Tickets|2026-09-29T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00",
+    "vvG1HZ_3DivDK0|Presale|Fan Club VIP Packages Presale|2026-09-29T17:00:00+00:00": "2026-09-28T17:08:02.948832+00:00"
   }
 }
