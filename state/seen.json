@@ -353,7 +353,6 @@
     "k7vGF_K1rWXJY|Presale|Preferred Seating Presale Offer|2026-09-29T14:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
     "k7vGF_K1rWXJY|Presale|Back 40 Duck Club VIP Packages Presale|2026-09-29T14:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
     "k7vGF_K1rWXJY|Presale|Back 40 Duck Club Presale|2026-09-29T14:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
-    "k7vGF_K1rWXJY|Presale|Reserved by Spotify Presale|2026-09-29T18:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
     "k7vGF_K1rWXJY|Presale|Reserved by Spotify|2026-09-29T18:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
     "k7vGF_K1rWXJY|Presale|VIP Packages Presale|2026-09-30T14:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
     "k7vGF_K1rWXJY|Presale|Riley Green App Presale|2026-09-30T14:00:00+00:00": "2026-09-28T14:31:09.751007+00:00",
@@ -384,7 +383,11 @@
     "vv17bZ_3GkRFqCfS|Public onsale||2026-10-02T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "G5viZ_KxokyJj|Public onsale||2026-10-02T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "G5viZ_KJGQIYX|Public onsale||2026-10-02T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
-    "vvG1YZ_KbTLWH3|Public onsale||2026-10-02T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00"
+    "vvG1YZ_KbTLWH3|Public onsale||2026-10-02T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
+    "G5viZ_KqSM0Og|Presale|VIP Packages Presale Wave 1|2026-09-30T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
+    "G5viZ_KqSM0Og|Presale|VIP Packages Presale Wave 2|2026-09-30T19:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
+    "k7vGF_K1rWXJY|Presale|Empower FCU Local Sponsor Presale|2026-10-01T14:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
+    "G5viZ_KqSM0Og|Presale|VIP Packages Onsale|2026-10-02T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00"
   },
   "reminded": {
     "G5vzZ_KkRpbyy|Presale|Citi\u00ae Cardmember Presale|2026-09-28T16:00:00+00:00": "2026-09-27T16:07:20.713972+00:00",
@@ -399,6 +402,9 @@
     "vvG1YZ_Keg__UB|Presale|Capital One Cardholder Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "vv1A7ZkfpGkdQYk3R|Presale|Capital One Cardholder Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
     "G5viZ_KL9Hgzz|Presale|Capital One Cardholder Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
-    "vv1FvOvPGtqtZ755AA|Presale|Fan Club VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00"
+    "vv1FvOvPGtqtZ755AA|Presale|Fan Club VIP Packages Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:14:26.571981+00:00",
+    "G5dIZ_KlbI9Ld|Public onsale||2026-09-28T17:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
+    "G5viZ_KJGQIYX|Presale|Rod Stewart Fan Club Presale|2026-09-29T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00",
+    "G5viZ_KJGQIYX|Presale|Ticket + Rod Stewart Fan Club Membership|2026-09-29T15:00:00+00:00": "2026-09-28T15:33:09.768587+00:00"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T15:14:26.571981+00:00",
+  "generated": "2026-09-28T15:33:09.768587+00:00",
   "artists_watched": 50,
   "events_swept": 538,
   "truncated": false,
@@ -7,8 +7,8 @@
   "big_count": 86,
   "other_count": 451,
   "baseline_run": false,
-  "new_count": 8,
-  "soon_count": 4,
+  "new_count": 0,
+  "soon_count": 3,
   "windows": [
     {
       "artist": "Hilary Duff",
@@ -1233,23 +1233,6 @@
       "starts": "2026-09-29T18:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "G5eVZ_K14Klik|Presale|Reserved by Spotify|2026-09-29T18:00:00+00:00"
-    },
-    {
-      "artist": "Riley Green",
-      "bucket": "big",
-      "event": "Riley Green: That's Just Me Tour",
-      "event_id": "k7vGF_K1rWXJY",
-      "event_date": "2027-07-15",
-      "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-syracuse-new-york-07-15-2027/event/000065329EF7E9B0",
-      "venue": "Empower Federal Credit Union Amphitheater at Lakeview",
-      "city": "Syracuse",
-      "state": "NY",
-      "label": "Empower Federal Credit Union Amphitheater at Lakeview, Syracuse, NY",
-      "kind": "Presale",
-      "presale_name": "Reserved by Spotify Presale",
-      "starts": "2026-09-29T18:00:00+00:00",
-      "ends": "2026-10-02T02:00:00Z",
-      "id": "k7vGF_K1rWXJY|Presale|Reserved by Spotify Presale|2026-09-29T18:00:00+00:00"
     },
     {
       "artist": "Riley Green",
@@ -2508,6 +2491,23 @@
       "starts": "2026-09-30T15:00:00+00:00",
       "ends": "2026-10-02T03:00:00Z",
       "id": "G5viZ_KqSM0Og|Presale|Artist Presale Wave 1|2026-09-30T15:00:00+00:00"
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "bucket": "big",
+      "event": "Lizzy McAlpine: The Over Country Tour",
+      "event_id": "G5viZ_KqSM0Og",
+      "event_date": "2027-06-16",
+      "url": "https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-nashville-tennessee-06-16-2027/event/1B00653773DE4835",
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Bridgestone Arena, Nashville, TN",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale Wave 1",
+      "starts": "2026-09-30T15:00:00+00:00",
+      "ends": "2026-09-30T18:30:00Z",
+      "id": "G5viZ_KqSM0Og|Presale|VIP Packages Presale Wave 1|2026-09-30T15:00:00+00:00"
     },
     {
       "artist": "Slipknot",
@@ -3771,6 +3771,23 @@
       "artist": "Lizzy McAlpine",
       "bucket": "big",
       "event": "Lizzy McAlpine: The Over Country Tour",
+      "event_id": "G5viZ_KqSM0Og",
+      "event_date": "2027-06-16",
+      "url": "https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-nashville-tennessee-06-16-2027/event/1B00653773DE4835",
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Bridgestone Arena, Nashville, TN",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale Wave 2",
+      "starts": "2026-09-30T19:00:00+00:00",
+      "ends": "2026-10-02T03:00:00Z",
+      "id": "G5viZ_KqSM0Og|Presale|VIP Packages Presale Wave 2|2026-09-30T19:00:00+00:00"
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "bucket": "big",
+      "event": "Lizzy McAlpine: The Over Country Tour",
       "event_id": "vvG1HZ_KF6I_hN",
       "event_date": "2027-07-17",
       "url": "https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-seattle-washington-07-17-2027/event/0F00653207A196E3",
@@ -4021,6 +4038,23 @@
       "starts": "2026-10-01T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "G5diZ_Kr8E3Se|Presale|Venue Presale|2026-10-01T14:00:00+00:00"
+    },
+    {
+      "artist": "Riley Green",
+      "bucket": "big",
+      "event": "Riley Green: That's Just Me Tour",
+      "event_id": "k7vGF_K1rWXJY",
+      "event_date": "2027-07-15",
+      "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-syracuse-new-york-07-15-2027/event/000065329EF7E9B0",
+      "venue": "Empower Federal Credit Union Amphitheater at Lakeview",
+      "city": "Syracuse",
+      "state": "NY",
+      "label": "Empower Federal Credit Union Amphitheater at Lakeview, Syracuse, NY",
+      "kind": "Presale",
+      "presale_name": "Empower FCU Local Sponsor Presale",
+      "starts": "2026-10-01T14:00:00+00:00",
+      "ends": "2026-10-02T02:00:00Z",
+      "id": "k7vGF_K1rWXJY|Presale|Empower FCU Local Sponsor Presale|2026-10-01T14:00:00+00:00"
     },
     {
       "artist": "Slipknot",
@@ -5891,6 +5925,23 @@
       "starts": "2026-10-02T15:00:00+00:00",
       "ends": "2027-06-03T03:00:00Z",
       "id": "G5viZ_KqSM0Og|Presale|Amex Reserved Tickets\u00ae|2026-10-02T15:00:00+00:00"
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "bucket": "big",
+      "event": "Lizzy McAlpine: The Over Country Tour",
+      "event_id": "G5viZ_KqSM0Og",
+      "event_date": "2027-06-16",
+      "url": "https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-nashville-tennessee-06-16-2027/event/1B00653773DE4835",
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "label": "Bridgestone Arena, Nashville, TN",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-10-02T15:00:00+00:00",
+      "ends": "2027-06-10T03:00:00Z",
+      "id": "G5viZ_KqSM0Og|Presale|VIP Packages Onsale|2026-10-02T15:00:00+00:00"
     },
     {
       "artist": "Slipknot",
