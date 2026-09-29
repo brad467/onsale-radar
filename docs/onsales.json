@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T12:34:28.435761+00:00",
+  "generated": "2026-09-29T12:58:20.815416+00:00",
   "artists_watched": 50,
   "events_swept": 575,
   "truncated": false,
@@ -4650,6 +4650,23 @@
       "starts": "2026-10-01T15:00:00+00:00",
       "ends": "2026-10-02T15:00:00Z",
       "id": "1AdZZ_3GkD57zG1|Presale|Q102 VIP Sale|2026-10-01T15:00:00+00:00"
+    },
+    {
+      "artist": "Rod Stewart",
+      "bucket": "big",
+      "event": "Rod Stewart",
+      "event_id": "G5viZ_KJGQIYX",
+      "event_date": "2027-03-10",
+      "url": "https://www.ticketmaster.com/rod-stewart-biloxi-mississippi-03-10-2027/event/1B0065398C6A8C3E",
+      "venue": "Mississippi Coast Coliseum",
+      "city": "Biloxi",
+      "state": "MS",
+      "label": "Mississippi Coast Coliseum, Biloxi, MS",
+      "kind": "Presale",
+      "presale_name": "Local Presale",
+      "starts": "2026-10-01T15:00:00+00:00",
+      "ends": "2026-10-02T03:00:00Z",
+      "id": "G5viZ_KJGQIYX|Presale|Local Presale|2026-10-01T15:00:00+00:00"
     },
     {
       "artist": "Riley Green",
