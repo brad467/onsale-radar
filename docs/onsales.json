@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T20:44:10.148046+00:00",
+  "generated": "2026-09-29T20:55:51.372408+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -4023,6 +4023,23 @@
       "id": "1A_ZkfsGkd23t56|Presale|Talking Stick Resort Presale|2026-10-01T17:00:00+00:00"
     },
     {
+      "artist": "A Perfect Circle",
+      "bucket": "big",
+      "event": "A Perfect Circle",
+      "event_id": "1A_ZkfsGkd23t56",
+      "event_date": "2027-06-13",
+      "url": "https://www.ticketmaster.com/a-perfect-circle-phoenix-arizona-06-13-2027/event/19006531CF4A92C7",
+      "venue": "Talking Stick Resort Amphitheatre",
+      "city": "Phoenix",
+      "state": "AZ",
+      "label": "Talking Stick Resort Amphitheatre, Phoenix, AZ",
+      "kind": "Presale",
+      "presale_name": "LIVE NATION PRESALE",
+      "starts": "2026-10-01T17:00:00+00:00",
+      "ends": "2026-10-02T05:00:00Z",
+      "id": "1A_ZkfsGkd23t56|Presale|LIVE NATION PRESALE|2026-10-01T17:00:00+00:00"
+    },
+    {
       "artist": "iHeartRadio Jingle Ball",
       "bucket": "big",
       "event": "102.7 KIIS FM's Jingle Ball Presented by Capital One",
@@ -4408,10 +4425,10 @@
       "state": "VA",
       "label": "The Dome by Rutter Mills, Virginia Beach, VA",
       "kind": "Presale",
-      "presale_name": "Mastercard\u00ae Preferred Tickets",
+      "presale_name": "Mastercard Preferred Tickets",
       "starts": "2026-10-02T14:00:00+00:00",
       "ends": "2027-04-04T02:00:00Z",
-      "id": "vv1AvZkfzGke0VNQU|Presale|Mastercard\u00ae Preferred Tickets|2026-10-02T14:00:00+00:00"
+      "id": "vv1AvZkfzGke0VNQU|Presale|Mastercard Preferred Tickets|2026-10-02T14:00:00+00:00"
     },
     {
       "artist": "Roger Waters Presents LEGACY - A Pink Floyd Show",
