@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T03:27:34.598705+00:00",
+  "generated": "2026-09-29T03:44:30.895468+00:00",
   "artists_watched": 50,
   "events_swept": 568,
   "truncated": false,
@@ -4684,6 +4684,23 @@
       "starts": "2026-10-01T15:00:00+00:00",
       "ends": "2026-10-02T03:00:00Z",
       "id": "vv1AkZkfwGkdIlqfV|Presale|Venue Presale|2026-10-01T15:00:00+00:00"
+    },
+    {
+      "artist": "Riley Green",
+      "bucket": "big",
+      "event": "Riley Green: That's Just Me Tour",
+      "event_id": "G5viZ_3T3qKQr",
+      "event_date": "2027-06-03",
+      "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-brandon-mississippi-06-03-2027/event/1B00652FD275369E",
+      "venue": "Brandon Amphitheater",
+      "city": "Brandon",
+      "state": "MS",
+      "label": "Brandon Amphitheater, Brandon, MS",
+      "kind": "Presale",
+      "presale_name": "Venue Presale",
+      "starts": "2026-10-01T15:00:00+00:00",
+      "ends": "2026-10-02T03:00:00Z",
+      "id": "G5viZ_3T3qKQr|Presale|Venue Presale|2026-10-01T15:00:00+00:00"
     },
     {
       "artist": "Riley Green",
