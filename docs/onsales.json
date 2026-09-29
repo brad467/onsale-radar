@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-29T17:08:42.511736+00:00",
+  "generated": "2026-09-29T17:27:15.658419+00:00",
   "artists_watched": 50,
-  "events_swept": 943,
+  "events_swept": 946,
   "truncated": false,
   "watched_count": 1,
   "big_count": 122,
-  "other_count": 820,
+  "other_count": 823,
   "baseline_run": false,
-  "new_count": 1,
-  "soon_count": 11,
+  "new_count": 0,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Riley Green",
@@ -6059,7 +6059,7 @@
       "kind": "Presale",
       "presale_name": "Amex Reserved Tickets\u00ae",
       "starts": "2026-10-02T14:00:00+00:00",
-      "ends": "2027-06-06T23:00:00Z",
+      "ends": "2027-06-07T02:00:00Z",
       "id": "vv1A8vPuzGA1baPr|Presale|Amex Reserved Tickets\u00ae|2026-10-02T14:00:00+00:00"
     },
     {
