@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-29T17:43:14.429345+00:00",
+  "generated": "2026-09-29T17:56:44.975504+00:00",
   "artists_watched": 50,
-  "events_swept": 948,
+  "events_swept": 951,
   "truncated": false,
   "watched_count": 1,
   "big_count": 122,
-  "other_count": 825,
+  "other_count": 828,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -3987,23 +3987,6 @@
       "starts": "2026-10-01T14:00:00+00:00",
       "ends": "2026-10-02T02:00:00Z",
       "id": "vv1A8vPuzGA1baPr|Presale|Local Presale|2026-10-01T14:00:00+00:00"
-    },
-    {
-      "artist": "Lizzy McAlpine",
-      "bucket": "big",
-      "event": "Lizzy McAlpine: The Over Country Tour",
-      "event_id": "vv1A8vPuzGA1baPr",
-      "event_date": "2027-06-20",
-      "url": "https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-boston-massachusetts-06-20-2027/event/010065378A60995E",
-      "venue": "Agganis Arena",
-      "city": "Boston",
-      "state": "MA",
-      "label": "Agganis Arena, Boston, MA",
-      "kind": "Presale",
-      "presale_name": "Amex Presale Tickets\u00ae",
-      "starts": "2026-10-01T14:00:00+00:00",
-      "ends": "2026-10-02T02:00:00Z",
-      "id": "vv1A8vPuzGA1baPr|Presale|Amex Presale Tickets\u00ae|2026-10-01T14:00:00+00:00"
     },
     {
       "artist": "Lizzy McAlpine",
