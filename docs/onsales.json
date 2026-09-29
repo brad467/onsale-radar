@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-29T16:30:31.678484+00:00",
+  "generated": "2026-09-29T16:55:45.599770+00:00",
   "artists_watched": 50,
-  "events_swept": 859,
+  "events_swept": 862,
   "truncated": false,
   "watched_count": 1,
   "big_count": 120,
-  "other_count": 738,
+  "other_count": 741,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -3592,10 +3592,10 @@
       "state": "AZ",
       "label": "Chase Field, Phoenix, AZ",
       "kind": "Presale",
-      "presale_name": "Support Presales",
+      "presale_name": "Support Presale",
       "starts": "2026-09-30T17:00:00+00:00",
       "ends": "2026-10-02T06:59:00Z",
-      "id": "1A_ZkfgGkdFOIFq|Presale|Support Presales|2026-09-30T17:00:00+00:00"
+      "id": "1A_ZkfgGkdFOIFq|Presale|Support Presale|2026-09-30T17:00:00+00:00"
     },
     {
       "artist": "Slipknot",
@@ -8168,6 +8168,23 @@
       "presale_name": "VIP Packages Onsale",
       "starts": "2026-10-02T17:00:00+00:00",
       "ends": "2027-08-12T05:00:00Z",
+      "id": "1A_ZkfgGkdFOIFq|Presale|VIP Packages Onsale|2026-10-02T17:00:00+00:00"
+    },
+    {
+      "artist": "Slipknot",
+      "bucket": "big",
+      "event": "Slipknot: (sic)est Stadium Tour",
+      "event_id": "1A_ZkfgGkdFOIFq",
+      "event_date": "2027-08-18",
+      "url": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-phoenix-arizona-08-18-2027/event/19006535C882821D",
+      "venue": "Chase Field",
+      "city": "Phoenix",
+      "state": "AZ",
+      "label": "Chase Field, Phoenix, AZ",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-10-02T17:00:00+00:00",
+      "ends": "2027-08-15T05:00:00Z",
       "id": "1A_ZkfgGkdFOIFq|Presale|VIP Packages Onsale|2026-10-02T17:00:00+00:00"
     },
     {
