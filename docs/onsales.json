@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-30T15:43:11.500457+00:00",
+  "generated": "2026-09-30T15:59:05.820261+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 1,
-  "big_count": 119,
-  "other_count": 880,
+  "big_count": 118,
+  "other_count": 881,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -2391,23 +2391,6 @@
       "id": "G5vVZ_K5DwnJz|Presale|Dashboard Confessional Artist Presale|2026-10-01T14:00:00+00:00"
     },
     {
-      "artist": "Hilary Duff",
-      "bucket": "big",
-      "event": "Hilary Duff: the lucky me tour",
-      "event_id": "vv1AAZkfUGkden0Bc",
-      "event_date": "2027-10-13",
-      "url": "https://www.rocketarena.com/events/detail/hilary-duff-271013",
-      "venue": "Rocket Arena",
-      "city": "Cleveland",
-      "state": "OH",
-      "label": "Rocket Arena, Cleveland, OH",
-      "kind": "Presale",
-      "presale_name": "Live Nation Presale",
-      "starts": "2026-10-01T14:00:00+00:00",
-      "ends": "2026-10-02T13:00:00Z",
-      "id": "vv1AAZkfUGkden0Bc|Presale|Live Nation Presale|2026-10-01T14:00:00+00:00"
-    },
-    {
       "artist": "A Bobby Nsenga Experience Chicago",
       "bucket": "big",
       "event": "A Bobby Nsenga Experience Chicago",
@@ -4344,23 +4327,6 @@
       "starts": "2026-10-02T14:00:00+00:00",
       "ends": "2027-10-02T02:00:00Z",
       "id": "G5vVZ_K5DwnJz|Presale|VIP Package Onsale|2026-10-02T14:00:00+00:00"
-    },
-    {
-      "artist": "Hilary Duff",
-      "bucket": "big",
-      "event": "Hilary Duff: the lucky me tour",
-      "event_id": "vv1AAZkfUGkden0Bc",
-      "event_date": "2027-10-13",
-      "url": "https://www.rocketarena.com/events/detail/hilary-duff-271013",
-      "venue": "Rocket Arena",
-      "city": "Cleveland",
-      "state": "OH",
-      "label": "Rocket Arena, Cleveland, OH",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-02T14:00:00+00:00",
-      "ends": "2027-10-13T23:30:00Z",
-      "id": "vv1AAZkfUGkden0Bc|Public onsale||2026-10-02T14:00:00+00:00"
     },
     {
       "artist": "Hairball",
