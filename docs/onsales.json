@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T15:09:56.538671+00:00",
+  "generated": "2026-10-01T15:29:39.021519+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,8 +7,8 @@
   "big_count": 124,
   "other_count": 875,
   "baseline_run": false,
-  "new_count": 29,
-  "soon_count": 19,
+  "new_count": 2,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "106.1 KISS FM's Jingle Ball",
@@ -2470,10 +2470,10 @@
       "state": "IL",
       "label": "Allstate Arena, Rosemont, IL",
       "kind": "Presale",
-      "presale_name": "Amex Presale Tickets",
+      "presale_name": "Amex Presale Tickets\u00ae",
       "starts": "2026-10-07T15:00:00+00:00",
       "ends": "2026-10-09T03:00:00Z",
-      "id": "vv178Z_KGkSOzisM|Presale|Amex Presale Tickets|2026-10-07T15:00:00+00:00"
+      "id": "vv178Z_KGkSOzisM|Presale|Amex Presale Tickets\u00ae|2026-10-07T15:00:00+00:00"
     },
     {
       "artist": "The Red Clay Strays",
@@ -3541,10 +3541,10 @@
       "state": "IL",
       "label": "Allstate Arena, Rosemont, IL",
       "kind": "Presale",
-      "presale_name": "Amex Reserved Tickets",
+      "presale_name": "Amex Reserved Tickets\u00ae",
       "starts": "2026-10-09T15:00:00+00:00",
       "ends": "2027-01-29T00:00:00Z",
-      "id": "vv178Z_KGkSOzisM|Presale|Amex Reserved Tickets|2026-10-09T15:00:00+00:00"
+      "id": "vv178Z_KGkSOzisM|Presale|Amex Reserved Tickets\u00ae|2026-10-09T15:00:00+00:00"
     },
     {
       "artist": "The Red Clay Strays",
