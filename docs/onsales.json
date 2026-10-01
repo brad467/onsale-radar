@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-01T20:45:58.640528+00:00",
+  "generated": "2026-10-01T21:07:04.582270+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 1,
-  "big_count": 114,
-  "other_count": 885,
+  "big_count": 113,
+  "other_count": 886,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -485,23 +485,6 @@
       "starts": "2026-10-02T14:00:00+00:00",
       "ends": "2027-04-29T02:00:00Z",
       "id": "vvG1zZ_KxWhwHz|Presale|VIP Package Onsale|2026-10-02T14:00:00+00:00"
-    },
-    {
-      "artist": "Fantasia",
-      "bucket": "big",
-      "event": "The Love of Soul Tour",
-      "event_id": "vv1AFZkfSGkdkXFme",
-      "event_date": "2027-05-15",
-      "url": "https://www.ticketmaster.com/the-love-of-soul-tour-detroit-michigan-05-15-2027/event/08006533C6F88B82",
-      "venue": "Little Caesars Arena",
-      "city": "Detroit",
-      "state": "MI",
-      "label": "Little Caesars Arena, Detroit, MI",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-02T14:00:00+00:00",
-      "ends": "2027-05-16T00:00:00Z",
-      "id": "vv1AFZkfSGkdkXFme|Public onsale||2026-10-02T14:00:00+00:00"
     },
     {
       "artist": "Hairball",
@@ -1777,6 +1760,23 @@
       "starts": "2026-10-07T15:00:00+00:00",
       "ends": "2026-10-09T03:00:00Z",
       "id": "vv178Z_KGkSOzisM|Presale|AEG Presale|2026-10-07T15:00:00+00:00"
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "bucket": "big",
+      "event": "Carly Rae Jepsen: Day and Night Tour",
+      "event_id": "G5dIZ_KBDqTJi",
+      "event_date": "2027-05-07",
+      "url": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-austin-texas-05-07-2027/event/3A00653EBB77F9AC",
+      "venue": "Moody Amphitheater",
+      "city": "Austin",
+      "state": "TX",
+      "label": "Moody Amphitheater, Austin, TX",
+      "kind": "Presale",
+      "presale_name": "LIVE NATION PRESALE",
+      "starts": "2026-10-07T15:00:00+00:00",
+      "ends": "2026-10-08T03:00:00Z",
+      "id": "G5dIZ_KBDqTJi|Presale|LIVE NATION PRESALE|2026-10-07T15:00:00+00:00"
     },
     {
       "artist": "Carly Rae Jepsen",
