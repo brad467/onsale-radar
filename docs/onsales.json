@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T15:29:39.021519+00:00",
+  "generated": "2026-10-01T15:48:01.803541+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 124,
   "other_count": 875,
   "baseline_run": false,
-  "new_count": 2,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -2506,7 +2506,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-10-07T15:00:00+00:00",
-      "ends": "2027-05-08T00:00:00Z",
+      "ends": "2027-05-08T00:30:00Z",
       "id": "G5dIZ_KBDqTJi|Public onsale||2026-10-07T15:00:00+00:00"
     },
     {
