@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-01T00:11:13.410480+00:00",
+  "generated": "2026-10-01T00:37:45.613866+00:00",
   "artists_watched": 50,
-  "events_swept": 950,
+  "events_swept": 951,
   "truncated": false,
   "watched_count": 1,
   "big_count": 121,
-  "other_count": 828,
+  "other_count": 829,
   "baseline_run": false,
-  "new_count": 60,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 7,
   "windows": [
     {
       "artist": "The Music Fridge",
