@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T12:12:36.573348+00:00",
+  "generated": "2026-10-02T12:36:01.364234+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -7,7 +7,7 @@
   "big_count": 146,
   "other_count": 853,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -4272,10 +4272,10 @@
       "state": "NY",
       "label": "MVP Arena, Albany, NY",
       "kind": "Presale",
-      "presale_name": "Artist Presale",
-      "starts": "2026-10-12T13:00:00+00:00",
+      "presale_name": "Citi\u00ae Cardmember Presale",
+      "starts": "2026-10-12T14:00:00+00:00",
       "ends": "2026-10-14T02:00:00Z",
-      "id": "k7vGF_KBmAa9o|Presale|Artist Presale|2026-10-12T13:00:00+00:00"
+      "id": "k7vGF_KBmAa9o|Presale|Citi\u00ae Cardmember Presale|2026-10-12T14:00:00+00:00"
     },
     {
       "artist": "Greta Van Fleet",
@@ -4425,10 +4425,44 @@
       "state": "NY",
       "label": "MVP Arena, Albany, NY",
       "kind": "Presale",
-      "presale_name": "Greta Van Fleet Fan Presale",
+      "presale_name": "GVF Ether Pass Presale",
       "starts": "2026-10-13T13:00:00+00:00",
       "ends": "2026-10-15T02:00:00Z",
-      "id": "k7vGF_KBmAa9o|Presale|Greta Van Fleet Fan Presale|2026-10-13T13:00:00+00:00"
+      "id": "k7vGF_KBmAa9o|Presale|GVF Ether Pass Presale|2026-10-13T13:00:00+00:00"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "bucket": "big",
+      "event": "Greta Van Fleet - Into The Beginning",
+      "event_id": "k7vGF_KBmAa9o",
+      "event_date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-albany-new-york-03-06-2027/event/0000653EAE1495D1",
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY",
+      "label": "MVP Arena, Albany, NY",
+      "kind": "Presale",
+      "presale_name": "GVF Fan Presale",
+      "starts": "2026-10-13T13:00:00+00:00",
+      "ends": "2026-10-15T02:00:00Z",
+      "id": "k7vGF_KBmAa9o|Presale|GVF Fan Presale|2026-10-13T13:00:00+00:00"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "bucket": "big",
+      "event": "Greta Van Fleet - Into The Beginning",
+      "event_id": "k7vGF_KBmAa9o",
+      "event_date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-albany-new-york-03-06-2027/event/0000653EAE1495D1",
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY",
+      "label": "MVP Arena, Albany, NY",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Presale",
+      "starts": "2026-10-13T13:00:00+00:00",
+      "ends": "2026-10-15T02:00:00Z",
+      "id": "k7vGF_KBmAa9o|Presale|VIP Packages Presale|2026-10-13T13:00:00+00:00"
     },
     {
       "artist": "Greta Van Fleet",
@@ -4633,23 +4667,6 @@
       "starts": "2026-10-13T14:00:00+00:00",
       "ends": "2026-10-15T02:00:00Z",
       "id": "vv1kv8vP8fGA20lqP|Presale|GVF Fan Presale|2026-10-13T14:00:00+00:00"
-    },
-    {
-      "artist": "Greta Van Fleet",
-      "bucket": "big",
-      "event": "Greta Van Fleet - Into The Beginning",
-      "event_id": "k7vGF_KBmAa9o",
-      "event_date": "2027-03-06",
-      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-albany-new-york-03-06-2027/event/0000653EAE1495D1",
-      "venue": "MVP Arena",
-      "city": "Albany",
-      "state": "NY",
-      "label": "MVP Arena, Albany, NY",
-      "kind": "Presale",
-      "presale_name": "Citi Presale",
-      "starts": "2026-10-13T14:00:00+00:00",
-      "ends": "2026-10-15T02:00:00Z",
-      "id": "k7vGF_KBmAa9o|Presale|Citi Presale|2026-10-13T14:00:00+00:00"
     },
     {
       "artist": "Greta Van Fleet",
@@ -5721,6 +5738,23 @@
       "starts": "2026-10-15T14:00:00+00:00",
       "ends": "2027-03-07T02:00:00Z",
       "id": "k7vGF_KBmAa9o|Public onsale||2026-10-15T14:00:00+00:00"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "bucket": "big",
+      "event": "Greta Van Fleet - Into The Beginning",
+      "event_id": "k7vGF_KBmAa9o",
+      "event_date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-albany-new-york-03-06-2027/event/0000653EAE1495D1",
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY",
+      "label": "MVP Arena, Albany, NY",
+      "kind": "Presale",
+      "presale_name": "VIP Packages Onsale",
+      "starts": "2026-10-15T14:00:00+00:00",
+      "ends": "2027-02-27T04:55:00Z",
+      "id": "k7vGF_KBmAa9o|Presale|VIP Packages Onsale|2026-10-15T14:00:00+00:00"
     },
     {
       "artist": "Greta Van Fleet",
