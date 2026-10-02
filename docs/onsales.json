@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T00:35:18.228019+00:00",
+  "generated": "2026-10-02T00:57:16.297958+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
@@ -8,7 +8,7 @@
   "other_count": 849,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 57,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "We Can Survive",
