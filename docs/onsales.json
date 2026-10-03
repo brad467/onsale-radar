@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-03T02:32:49.787867+00:00",
+  "generated": "2026-10-03T03:01:43.588088+00:00",
   "artists_watched": 50,
-  "events_swept": 366,
+  "events_swept": 367,
   "truncated": false,
   "watched_count": 0,
   "big_count": 97,
-  "other_count": 269,
+  "other_count": 270,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -519,6 +519,23 @@
       "starts": "2026-10-05T17:00:00+00:00",
       "ends": "2026-10-09T02:00:00Z",
       "id": "G5vVZ_KOkTQJF|Presale|Verified Strays Presale|2026-10-05T17:00:00+00:00"
+    },
+    {
+      "artist": "Dylan Gossett",
+      "bucket": "big",
+      "event": "Dylan Gossett - The Ramblin' Tour 2027",
+      "event_id": "G5dIZ_fkDqvVu",
+      "event_date": "2027-05-13",
+      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-austin-texas-05-13-2027/event/3A006541BB741D0D",
+      "venue": "Moody Amphitheater",
+      "city": "Austin",
+      "state": "TX",
+      "label": "Moody Amphitheater, Austin, TX",
+      "kind": "Presale",
+      "presale_name": "Citi\u00ae Cardmember Presale",
+      "starts": "2026-10-05T17:00:00+00:00",
+      "ends": "2026-10-06T04:59:00Z",
+      "id": "G5dIZ_fkDqvVu|Presale|Citi\u00ae Cardmember Presale|2026-10-05T17:00:00+00:00"
     },
     {
       "artist": "The Red Clay Strays",
