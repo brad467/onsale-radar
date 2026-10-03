@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-03T12:49:20.096929+00:00",
+  "generated": "2026-10-03T18:17:25.303083+00:00",
   "artists_watched": 50,
-  "events_swept": 370,
+  "events_swept": 377,
   "truncated": false,
   "watched_count": 0,
   "big_count": 97,
-  "other_count": 273,
+  "other_count": 280,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -332,23 +332,6 @@
       "starts": "2026-10-05T15:00:00+00:00",
       "ends": "2026-10-06T14:45:00Z",
       "id": "G5dIZ_KBDqTJi|Presale|Verizon Shine Presale Tickets|2026-10-05T15:00:00+00:00"
-    },
-    {
-      "artist": "Carly Rae Jepsen",
-      "bucket": "big",
-      "event": "Carly Rae Jepsen: Day and Night Tour",
-      "event_id": "G5dIZ_KBDqTJi",
-      "event_date": "2027-05-07",
-      "url": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-austin-texas-05-07-2027/event/3A00653EBB77F9AC",
-      "venue": "Moody Amphitheater",
-      "city": "Austin",
-      "state": "TX",
-      "label": "Moody Amphitheater, Austin, TX",
-      "kind": "Presale",
-      "presale_name": "Citi\u00ae Cardmember Presale",
-      "starts": "2026-10-05T15:00:00+00:00",
-      "ends": "2026-10-06T14:45:00Z",
-      "id": "G5dIZ_KBDqTJi|Presale|Citi\u00ae Cardmember Presale|2026-10-05T15:00:00+00:00"
     },
     {
       "artist": "Dylan Gossett",
@@ -876,23 +859,6 @@
       "starts": "2026-10-06T15:00:00+00:00",
       "ends": "2026-10-10T03:00:00Z",
       "id": "1kFZvP8JGAutvjp|Presale|Fan Club Presale|2026-10-06T15:00:00+00:00"
-    },
-    {
-      "artist": "Carly Rae Jepsen",
-      "bucket": "big",
-      "event": "Carly Rae Jepsen: Day and Night Tour",
-      "event_id": "G5dIZ_KBDqTJi",
-      "event_date": "2027-05-07",
-      "url": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-austin-texas-05-07-2027/event/3A00653EBB77F9AC",
-      "venue": "Moody Amphitheater",
-      "city": "Austin",
-      "state": "TX",
-      "label": "Moody Amphitheater, Austin, TX",
-      "kind": "Presale",
-      "presale_name": "Artist Presale",
-      "starts": "2026-10-06T15:00:00+00:00",
-      "ends": "2026-10-07T14:45:00Z",
-      "id": "G5dIZ_KBDqTJi|Presale|Artist Presale|2026-10-06T15:00:00+00:00"
     },
     {
       "artist": "Dylan Gossett",
@@ -2030,7 +1996,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-10-08T15:00:00+00:00",
-      "ends": "2027-05-08T00:30:00Z",
+      "ends": "2027-05-08T02:30:00Z",
       "id": "G5dIZ_KBDqTJi|Public onsale||2026-10-08T15:00:00+00:00"
     },
     {
