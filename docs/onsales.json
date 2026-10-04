@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-04T00:02:44.105113+00:00",
+  "generated": "2026-10-04T05:49:47.337028+00:00",
   "artists_watched": 50,
-  "events_swept": 367,
+  "events_swept": 374,
   "truncated": false,
   "watched_count": 0,
   "big_count": 97,
-  "other_count": 270,
+  "other_count": 277,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
     {
@@ -1314,10 +1314,10 @@
       "state": "ID",
       "label": "ExtraMile Arena, Boise, ID",
       "kind": "Presale",
-      "presale_name": "Amex Presale Tickets",
+      "presale_name": "Amex Presale Tickets\u00ae",
       "starts": "2026-10-07T16:00:00+00:00",
       "ends": "2026-10-09T04:00:00Z",
-      "id": "G5vzZ_KJqEF3d|Presale|Amex Presale Tickets|2026-10-07T16:00:00+00:00"
+      "id": "G5vzZ_KJqEF3d|Presale|Amex Presale Tickets\u00ae|2026-10-07T16:00:00+00:00"
     },
     {
       "artist": "John Mayer",
@@ -3184,10 +3184,10 @@
       "state": "ID",
       "label": "ExtraMile Arena, Boise, ID",
       "kind": "Presale",
-      "presale_name": "Amex Reserved Tickets",
+      "presale_name": "Amex Reserved Tickets\u00ae",
       "starts": "2026-10-09T16:00:00+00:00",
       "ends": "2027-08-22T04:00:00Z",
-      "id": "G5vzZ_KJqEF3d|Presale|Amex Reserved Tickets|2026-10-09T16:00:00+00:00"
+      "id": "G5vzZ_KJqEF3d|Presale|Amex Reserved Tickets\u00ae|2026-10-09T16:00:00+00:00"
     },
     {
       "artist": "The Red Clay Strays",
@@ -3703,6 +3703,23 @@
       "artist": "Greta Van Fleet",
       "bucket": "big",
       "event": "Greta Van Fleet - Into The Beginning",
+      "event_id": "G5vVZ_KwzS711",
+      "event_date": "2027-07-24",
+      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-uncasville-connecticut-07-24-2027/event/1D00653CB8CC428A",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Presale",
+      "presale_name": "GVF Ether Pass Presale",
+      "starts": "2026-10-13T13:00:00+00:00",
+      "ends": "2026-10-15T02:00:00Z",
+      "id": "G5vVZ_KwzS711|Presale|GVF Ether Pass Presale|2026-10-13T13:00:00+00:00"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "bucket": "big",
+      "event": "Greta Van Fleet - Into The Beginning",
       "event_id": "vvG1zZ_KDABKfS",
       "event_date": "2027-02-03",
       "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-savannah-georgia-02-03-2027/event/0E00653EC5E93533",
@@ -3953,6 +3970,23 @@
       "starts": "2026-10-13T14:00:00+00:00",
       "ends": "2026-10-15T02:00:00Z",
       "id": "vv1AAZk4vGkeXl1Ix|Presale|GVF Fan Presale|2026-10-13T14:00:00+00:00"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "bucket": "big",
+      "event": "Greta Van Fleet - Into The Beginning",
+      "event_id": "G5vVZ_KwzS711",
+      "event_date": "2027-07-24",
+      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-uncasville-connecticut-07-24-2027/event/1D00653CB8CC428A",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Presale",
+      "presale_name": "GVF Fan Presale",
+      "starts": "2026-10-13T14:00:00+00:00",
+      "ends": "2026-10-15T02:00:00Z",
+      "id": "G5vVZ_KwzS711|Presale|GVF Fan Presale|2026-10-13T14:00:00+00:00"
     },
     {
       "artist": "Greta Van Fleet",
@@ -4667,6 +4701,23 @@
       "starts": "2026-10-14T14:00:00+00:00",
       "ends": "2026-10-15T02:00:00Z",
       "id": "vv1AAZk4vGkeXl1Ix|Presale|CBJ STH Presale|2026-10-14T14:00:00+00:00"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "bucket": "big",
+      "event": "Greta Van Fleet - Into The Beginning",
+      "event_id": "G5vVZ_KwzS711",
+      "event_date": "2027-07-24",
+      "url": "https://www.ticketmaster.com/greta-van-fleet-into-the-beginning-uncasville-connecticut-07-24-2027/event/1D00653CB8CC428A",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "label": "Mohegan Sun Arena, Uncasville, CT",
+      "kind": "Presale",
+      "presale_name": "LIVE NATION PRESALE",
+      "starts": "2026-10-14T14:00:00+00:00",
+      "ends": "2026-10-15T02:00:00Z",
+      "id": "G5vVZ_KwzS711|Presale|LIVE NATION PRESALE|2026-10-14T14:00:00+00:00"
     },
     {
       "artist": "Greta Van Fleet",
