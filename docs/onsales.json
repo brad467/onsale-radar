@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-03T21:36:53.045593+00:00",
+  "generated": "2026-10-04T00:02:44.105113+00:00",
   "artists_watched": 50,
-  "events_swept": 385,
+  "events_swept": 367,
   "truncated": false,
   "watched_count": 0,
   "big_count": 97,
-  "other_count": 288,
+  "other_count": 270,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -2835,7 +2835,7 @@
     {
       "artist": "82MAJOR",
       "bucket": "big",
-      "event": "2026 82MAJOR [82CLUB : out of control] TOUR in Phoenix",
+      "event": "2026 82MAJOR [82CLUB : out of control] TOUR in Mesa",
       "event_id": "rZ7HnEZ1Afu4q0",
       "event_date": "2026-12-13",
       "url": "https://www.ticketweb.com/event/2026-82major-82club-out-nile-theater-tickets/14355764",
