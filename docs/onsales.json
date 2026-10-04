@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-04T11:41:01.263817+00:00",
+  "generated": "2026-10-04T15:59:16.989764+00:00",
   "artists_watched": 50,
-  "events_swept": 376,
+  "events_swept": 383,
   "truncated": false,
   "watched_count": 0,
   "big_count": 97,
-  "other_count": 279,
+  "other_count": 286,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 0,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Contest of Champions",
