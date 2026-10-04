@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-04T19:24:08.291523+00:00",
+  "generated": "2026-10-04T22:24:59.195421+00:00",
   "artists_watched": 50,
-  "events_swept": 387,
+  "events_swept": 391,
   "truncated": false,
   "watched_count": 0,
   "big_count": 98,
-  "other_count": 289,
+  "other_count": 293,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 2,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Contest of Champions",
@@ -2066,6 +2066,23 @@
       "starts": "2026-10-08T15:00:00+00:00",
       "ends": "2027-05-03T17:00:00Z",
       "id": "G5dIZ_KBDqTJi|Presale|VIP Packages Public Onsale|2026-10-08T15:00:00+00:00"
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "bucket": "big",
+      "event": "Carly Rae Jepsen: Day and Night Tour",
+      "event_id": "G5dIZ_KBDqTJi",
+      "event_date": "2027-05-07",
+      "url": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-austin-texas-05-07-2027/event/3A00653EBB77F9AC",
+      "venue": "Moody Amphitheater",
+      "city": "Austin",
+      "state": "TX",
+      "label": "Moody Amphitheater, Austin, TX",
+      "kind": "Presale",
+      "presale_name": "Verizon Shine Select Seats",
+      "starts": "2026-10-08T15:00:00+00:00",
+      "ends": "2027-05-06T15:00:00Z",
+      "id": "G5dIZ_KBDqTJi|Presale|Verizon Shine Select Seats|2026-10-08T15:00:00+00:00"
     },
     {
       "artist": "The Red Clay Strays",
