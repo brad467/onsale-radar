@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-10T18:00:44.394435+00:00",
+  "generated": "2026-10-10T21:41:39.050492+00:00",
   "artists_watched": 50,
-  "events_swept": 427,
+  "events_swept": 429,
   "truncated": false,
   "watched_count": 5,
   "big_count": 124,
-  "other_count": 298,
+  "other_count": 300,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -7570,10 +7570,10 @@
       "state": "TX",
       "label": "Moody Amphitheater, Austin, TX",
       "kind": "Presale",
-      "presale_name": "DO NOT USE EITHER",
+      "presale_name": "Waterloo Greenway Venue Presale",
       "starts": "2026-10-15T15:00:00+00:00",
       "ends": "2026-10-16T03:00:00Z",
-      "id": "G5dIZ_fNcGjpO|Presale|DO NOT USE EITHER|2026-10-15T15:00:00+00:00"
+      "id": "G5dIZ_fNcGjpO|Presale|Waterloo Greenway Venue Presale|2026-10-15T15:00:00+00:00"
     },
     {
       "artist": "Remi Wolf",
@@ -9476,7 +9476,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-10-16T15:00:00+00:00",
-      "ends": "2027-05-07T00:00:00Z",
+      "ends": "2027-05-07T02:00:00Z",
       "id": "G5dIZ_fNcGjpO|Public onsale||2026-10-16T15:00:00+00:00"
     },
     {
