@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-10T01:04:22.983663+00:00",
+  "generated": "2026-10-10T07:04:15.053148+00:00",
   "artists_watched": 50,
-  "events_swept": 413,
+  "events_swept": 419,
   "truncated": false,
   "watched_count": 5,
   "big_count": 123,
-  "other_count": 285,
+  "other_count": 291,
   "baseline_run": false,
-  "new_count": 72,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -7540,6 +7540,23 @@
       "starts": "2026-10-15T15:00:00+00:00",
       "ends": "2026-10-16T03:00:00Z",
       "id": "vv1AkZk4kGkexOySL|Presale|Venue Presale|2026-10-15T15:00:00+00:00"
+    },
+    {
+      "artist": "Def Leppard",
+      "bucket": "big",
+      "event": "Def Leppard and Goo Goo Dolls  ",
+      "event_id": "vv1AkZk4kGkexOySL",
+      "event_date": "2027-04-22",
+      "url": "https://www.ticketmaster.com/def-leppard-and-goo-goo-dolls-wichita-kansas-04-22-2027/event/06006546A2839CDF",
+      "venue": "INTRUST Bank Arena",
+      "city": "Wichita",
+      "state": "KS",
+      "label": "INTRUST Bank Arena, Wichita, KS",
+      "kind": "Presale",
+      "presale_name": "Ticketmaster Presale",
+      "starts": "2026-10-15T15:00:00+00:00",
+      "ends": "2026-10-16T03:00:00Z",
+      "id": "vv1AkZk4kGkexOySL|Presale|Ticketmaster Presale|2026-10-15T15:00:00+00:00"
     },
     {
       "artist": "Def Leppard",
