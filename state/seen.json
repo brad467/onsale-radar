@@ -276,7 +276,6 @@
     "G5vzZ_frFoV07|Public onsale||2026-10-16T16:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
     "G5vzZ_frFoV07|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T16:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
     "G5vzZ_frFoV07|Presale|Verizon Shine Select Seats|2026-10-16T16:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
-    "G5vzZ_frFoV07|Presale|VIP Packages|2026-10-16T16:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
     "1kk8vP8bGA1L7Cc|Public onsale||2026-10-16T17:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
     "1kk8vP8bGA1L7Cc|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T17:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
     "1kk8vP8bGA1L7Cc|Presale|Verizon Shine Select Seats|2026-10-16T17:00:00+00:00": "2026-10-08T17:56:13.407121+00:00",
@@ -589,7 +588,8 @@
     "vvG1HZ_KS7yjC4|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T17:00:00+00:00": "2026-10-10T01:04:22.983663+00:00",
     "vvG1HZ_fQTqa-a|Public onsale||2026-10-16T17:00:00+00:00": "2026-10-10T01:04:22.983663+00:00",
     "vv1AkZk4kGkexOySL|Presale|Ticketmaster Presale|2026-10-15T15:00:00+00:00": "2026-10-10T07:04:15.053148+00:00",
-    "G5dIZ_fNcGjpO|Presale|Waterloo Greenway Venue Presale|2026-10-15T15:00:00+00:00": "2026-10-10T21:41:39.050492+00:00"
+    "G5dIZ_fNcGjpO|Presale|Waterloo Greenway Venue Presale|2026-10-15T15:00:00+00:00": "2026-10-10T21:41:39.050492+00:00",
+    "G5vzZ_frFoV07|Presale|VIP Packages Onsale|2026-10-16T16:00:00+00:00": "2026-10-11T00:29:56.555417+00:00"
   },
   "reminded": {}
 }

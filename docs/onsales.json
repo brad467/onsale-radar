@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-10T21:41:39.050492+00:00",
+  "generated": "2026-10-11T00:29:56.555417+00:00",
   "artists_watched": 50,
-  "events_swept": 429,
+  "events_swept": 406,
   "truncated": false,
   "watched_count": 5,
-  "big_count": 124,
-  "other_count": 300,
+  "big_count": 121,
+  "other_count": 280,
   "baseline_run": false,
   "new_count": 0,
   "soon_count": 0,
@@ -9627,10 +9627,10 @@
       "state": "CO",
       "label": "Ball Arena, Denver, CO",
       "kind": "Presale",
-      "presale_name": "VIP Packages",
+      "presale_name": "VIP Packages Onsale",
       "starts": "2026-10-16T16:00:00+00:00",
       "ends": "2027-03-22T16:00:00Z",
-      "id": "G5vzZ_frFoV07|Presale|VIP Packages|2026-10-16T16:00:00+00:00"
+      "id": "G5vzZ_frFoV07|Presale|VIP Packages Onsale|2026-10-16T16:00:00+00:00"
     },
     {
       "artist": "Nickelback",
