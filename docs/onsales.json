@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T06:04:16.656443+00:00",
+  "generated": "2026-10-16T11:19:32.391462+00:00",
   "artists_watched": 50,
   "events_swept": 862,
   "truncated": false,
@@ -8,7 +8,7 @@
   "other_count": 712,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 5,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Megan Moroney",
@@ -4400,6 +4400,23 @@
       "artist": "Matchbox Twenty",
       "bucket": "big",
       "event": "Matchbox Twenty - 30",
+      "event_id": "1AyZk46GkdIGabN",
+      "event_date": "2027-06-11",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-las-vegas-nevada-06-11-2027/event/39006547E8309623",
+      "venue": "The Colosseum at Caesars Palace",
+      "city": "Las Vegas",
+      "state": "NV",
+      "label": "The Colosseum at Caesars Palace, Las Vegas, NV",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-10-21T00:00:00+00:00",
+      "ends": "2026-10-23T05:00:00Z",
+      "id": "1AyZk46GkdIGabN|Presale|VIP Package Presale|2026-10-21T00:00:00+00:00"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "bucket": "big",
+      "event": "Matchbox Twenty - 30",
       "event_id": "1A_Zk4AGkd-rGkN",
       "event_date": "2027-06-12",
       "url": "https://www.ticketmaster.com/matchbox-twenty-30-phoenix-arizona-06-12-2027/event/19006545E178C1A3",
@@ -7795,6 +7812,23 @@
       "starts": "2026-10-23T17:00:00+00:00",
       "ends": "2027-06-12T01:30:00Z",
       "id": "1AyZk46GkdIGabN|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-23T17:00:00+00:00"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "bucket": "big",
+      "event": "Matchbox Twenty - 30",
+      "event_id": "1AyZk46GkdIGabN",
+      "event_date": "2027-06-11",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-las-vegas-nevada-06-11-2027/event/39006547E8309623",
+      "venue": "The Colosseum at Caesars Palace",
+      "city": "Las Vegas",
+      "state": "NV",
+      "label": "The Colosseum at Caesars Palace, Las Vegas, NV",
+      "kind": "Presale",
+      "presale_name": "VIP Package Onsale",
+      "starts": "2026-10-23T17:00:00+00:00",
+      "ends": "2027-06-05T06:55:00Z",
+      "id": "1AyZk46GkdIGabN|Presale|VIP Package Onsale|2026-10-23T17:00:00+00:00"
     },
     {
       "artist": "Matchbox Twenty",
