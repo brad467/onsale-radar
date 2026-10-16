@@ -460,7 +460,9 @@
     "1AyZk4aGkecoEBs|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-16T01:18:56.550543+00:00",
     "1AyZk4aGkecoEBs|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-16T01:18:56.550543+00:00",
     "vvG1HZ_fQBIyuS|Presale|VIP Package Presale|2026-10-21T00:00:00+00:00": "2026-10-16T01:18:56.550543+00:00",
-    "vvG1HZ_fQBIyuS|Presale|VIP Package Onsale|2026-10-23T17:00:00+00:00": "2026-10-16T01:18:56.550543+00:00"
+    "vvG1HZ_fQBIyuS|Presale|VIP Package Onsale|2026-10-23T17:00:00+00:00": "2026-10-16T01:18:56.550543+00:00",
+    "vv1FjZ_fxf_dZd5AF|Presale|VIP Package Presale|2026-10-20T22:00:00+00:00": "2026-10-16T06:04:16.656443+00:00",
+    "vv1FjZ_fxf_dZd5AF|Presale|VIP Package Onsale|2026-10-23T15:00:00+00:00": "2026-10-16T06:04:16.656443+00:00"
   },
   "reminded": {
     "G5vVZ_fNQJkVs|Public onsale||2026-10-16T14:00:00+00:00": "2026-10-15T17:14:14.570479+00:00",
@@ -545,6 +547,11 @@
     "vvG1HZ_KS7yjC4|Public onsale||2026-10-16T17:00:00+00:00": "2026-10-15T17:14:14.570479+00:00",
     "vvG1HZ_KS7yjC4|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T17:00:00+00:00": "2026-10-15T17:14:14.570479+00:00",
     "vv170Z_fGkBVE17G|Public onsale||2026-10-16T17:00:00+00:00": "2026-10-15T20:21:25.523802+00:00",
-    "G5vVZ_fLFX92d|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T14:00:00+00:00": "2026-10-15T23:09:28.177455+00:00"
+    "G5vVZ_fLFX92d|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T14:00:00+00:00": "2026-10-15T23:09:28.177455+00:00",
+    "vv17fZ_KGkUpDUFU|Public onsale||2026-10-16T14:00:00+00:00": "2026-10-16T06:04:16.656443+00:00",
+    "vv17fZ_KGkUpDUFU|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-16T14:00:00+00:00": "2026-10-16T06:04:16.656443+00:00",
+    "G5vzZ_fhJrcG3|Public onsale||2026-10-16T16:00:00+00:00": "2026-10-16T06:04:16.656443+00:00",
+    "vvG1HZ_fQTqa-a|Public onsale||2026-10-16T17:00:00+00:00": "2026-10-16T06:04:16.656443+00:00",
+    "vv170Z_fGkBYY_N_|Public onsale||2026-10-16T19:00:00+00:00": "2026-10-16T06:04:16.656443+00:00"
   }
 }
