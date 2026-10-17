@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T18:06:19.768659+00:00",
+  "generated": "2026-10-17T20:34:10.830391+00:00",
   "artists_watched": 50,
-  "events_swept": 629,
+  "events_swept": 630,
   "truncated": false,
   "watched_count": 24,
   "big_count": 98,
-  "other_count": 507,
+  "other_count": 508,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -345,10 +345,10 @@
       "state": "WA",
       "label": "Tacoma Dome, Tacoma, WA",
       "kind": "Presale",
-      "presale_name": "Iron Maiden VIP Package Fan Club Presale",
+      "presale_name": "Iron Maiden VIP Artist Presale",
       "starts": "2026-10-19T17:00:00+00:00",
-      "ends": "2026-10-21T04:00:00Z",
-      "id": "vvG1HZ_flwRsB3|Presale|Iron Maiden VIP Package Fan Club Presale|2026-10-19T17:00:00+00:00"
+      "ends": "2026-10-20T16:00:00Z",
+      "id": "vvG1HZ_flwRsB3|Presale|Iron Maiden VIP Artist Presale|2026-10-19T17:00:00+00:00"
     },
     {
       "artist": "Iron Maiden",
@@ -3137,6 +3137,23 @@
       "starts": "2026-10-20T22:00:00+00:00",
       "ends": "2026-10-23T03:00:00Z",
       "id": "vv1AkZk46GkdriT1p|Presale|Artist Presale|2026-10-20T22:00:00+00:00"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "bucket": "big",
+      "event": "Matchbox Twenty - 30",
+      "event_id": "vv1AkZk46GkdriT1p",
+      "event_date": "2027-06-23",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-maryland-heights-missouri-06-23-2027/event/06006547DEB3F296",
+      "venue": "Hollywood Casino Amphitheater",
+      "city": "Maryland Heights",
+      "state": "MO",
+      "label": "Hollywood Casino Amphitheater, Maryland Heights, MO",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-10-20T22:00:00+00:00",
+      "ends": "2026-10-23T03:00:00Z",
+      "id": "vv1AkZk46GkdriT1p|Presale|VIP Package Presale|2026-10-20T22:00:00+00:00"
     },
     {
       "artist": "Matchbox Twenty",
@@ -8033,6 +8050,23 @@
       "starts": "2026-10-23T15:00:00+00:00",
       "ends": "2027-05-27T03:00:00Z",
       "id": "vv1AkZk46GkdriT1p|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-23T15:00:00+00:00"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "bucket": "big",
+      "event": "Matchbox Twenty - 30",
+      "event_id": "vv1AkZk46GkdriT1p",
+      "event_date": "2027-06-23",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-maryland-heights-missouri-06-23-2027/event/06006547DEB3F296",
+      "venue": "Hollywood Casino Amphitheater",
+      "city": "Maryland Heights",
+      "state": "MO",
+      "label": "Hollywood Casino Amphitheater, Maryland Heights, MO",
+      "kind": "Presale",
+      "presale_name": "VIP Package Onsale",
+      "starts": "2026-10-23T15:00:00+00:00",
+      "ends": "2027-06-17T04:55:00Z",
+      "id": "vv1AkZk46GkdriT1p|Presale|VIP Package Onsale|2026-10-23T15:00:00+00:00"
     },
     {
       "artist": "Matchbox Twenty",
