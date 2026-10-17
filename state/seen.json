@@ -1,15 +1,5 @@
 {
   "alerted": {
-    "1AyZk4aGkecv9ix|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkecv9ix|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkeceMiH|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkeceMiH|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkec79cL|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkec79cL|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkecAMcg|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkecAMcg|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkec6MsW|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
-    "1AyZk4aGkec6MsW|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
     "1kA8vP3_GA2r9p0|Presale|Reserved by Spotify|2026-10-19T14:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
     "1AYZk4aGkeW8JvI|Presale|Reserved by Spotify|2026-10-19T14:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
     "1kA8vP3_GA2r9p0|Presale|Artist Presale|2026-10-20T16:00:00+00:00": "2026-10-13T18:16:40.858275+00:00",
@@ -79,18 +69,6 @@
     "vvG1IZ_fXHtbeR|Public onsale||2026-10-20T20:00:00+00:00": "2026-10-16T21:52:46.516484+00:00",
     "vvG1IZ_fXHtbeR|Presale|VIP Package Onsale|2026-10-20T20:00:00+00:00": "2026-10-16T21:52:46.516484+00:00",
     "vvG1HZ_flwRsB3|Presale|Bullet For My Valentine Presale|2026-10-21T17:00:00+00:00": "2026-10-16T21:52:46.516484+00:00",
-    "1AyZk4aGkeca9wi|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkeca9wi|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkec1MVn|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkec1MVn|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkecG6M7|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkecG6M7|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkecuMyj|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkecuMyj|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkec2MBZ|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkec2MBZ|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkecoEBs|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "1AyZk4aGkecoEBs|Presale|Collector's Ticket|2026-10-17T17:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "vvG1VZ_fBeYdvL|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "vvG1VZ_fBeYdvL|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "vvG1VZ_fSoGFNX|Presale|Iron Maiden Fan Club Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
@@ -563,17 +541,5 @@
     "vvG1zZ_fUnoW2G|Presale|Iron Maiden VIP Package Onsale|2026-10-23T14:00:00+00:00": "2026-10-17T15:47:49.378229+00:00",
     "vvG1zZ_fUnoW2G|Presale|BFMV VIP Packages Onsale|2026-10-23T14:00:00+00:00": "2026-10-17T15:47:49.378229+00:00"
   },
-  "reminded": {
-    "1AyZk4aGkecv9ix|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-16T18:54:08.964623+00:00",
-    "1AyZk4aGkeceMiH|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-16T18:54:08.964623+00:00",
-    "1AyZk4aGkec79cL|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-16T18:54:08.964623+00:00",
-    "1AyZk4aGkecAMcg|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-16T18:54:08.964623+00:00",
-    "1AyZk4aGkec6MsW|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-16T18:54:08.964623+00:00",
-    "1AyZk4aGkeca9wi|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T04:22:04.171893+00:00",
-    "1AyZk4aGkec1MVn|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T04:22:04.171893+00:00",
-    "1AyZk4aGkecG6M7|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T04:22:04.171893+00:00",
-    "1AyZk4aGkecuMyj|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T04:22:04.171893+00:00",
-    "1AyZk4aGkec2MBZ|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T04:22:04.171893+00:00",
-    "1AyZk4aGkecoEBs|Public onsale||2026-10-17T17:00:00+00:00": "2026-10-17T04:22:04.171893+00:00"
-  }
+  "reminded": {}
 }
