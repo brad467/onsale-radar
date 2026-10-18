@@ -73,7 +73,6 @@
     "vvG1VZ_fBeYdvL|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "vvG1VZ_fSoGFNX|Presale|Iron Maiden Fan Club Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "vvG1VZ_fSoGFNX|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "G5eVZ_fw_WE7J|Presale|VIP Packages Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5eVZ_fw_WE7J|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5vVZ_fwHD39h|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5vVZ_fwHD39h|Presale|Iron Maiden ViP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
@@ -407,7 +406,6 @@
     "vvG1zZ_fUnoW2G|Public onsale||2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "vvG1zZ_fUnoW2G|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5eVZ_fw_WE7J|Public onsale||2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
-    "G5eVZ_fw_WE7J|Presale|VIP Packages Onsale|2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5eVZ_fw_WE7J|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5vVZ_fwHD39h|Public onsale||2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
     "G5vVZ_fwHD39h|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-23T14:00:00+00:00": "2026-10-17T00:06:51.869129+00:00",
@@ -550,7 +548,31 @@
     "G5vYZ_fKannnv|Presale|VIP Package Presale|2026-10-21T00:00:00+00:00": "2026-10-18T00:19:48.685186+00:00",
     "G5vYZ_fKannnv|Presale|VIP Package Onsale|2026-10-23T17:00:00+00:00": "2026-10-18T00:19:48.685186+00:00",
     "vvG1zZ_fkHlNJM|Presale|VIP Package Presale|2026-10-20T21:00:00+00:00": "2026-10-18T04:53:32.531109+00:00",
-    "vvG1zZ_fkHlNJM|Presale|VIP Package Onsale|2026-10-23T14:00:00+00:00": "2026-10-18T04:53:32.531109+00:00"
+    "vvG1zZ_fkHlNJM|Presale|VIP Package Onsale|2026-10-23T14:00:00+00:00": "2026-10-18T04:53:32.531109+00:00",
+    "G5eVZ_fw_WE7J|Presale|Iron Maiden ViP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5eVZ_fw_WE7J|Presale|Iron Maiden VIP Package Presale|2026-10-20T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5eVZ_fw_WE7J|Presale|Bullet for My Valentine Presale|2026-10-21T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5eVZ_fw_WE7J|Presale|BFMV VIP Packages Presale|2026-10-21T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5eVZ_fw_WE7J|Presale|Iron Maiden VIP Package Onsale|2026-10-23T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5eVZ_fw_WE7J|Presale|BFMV VIP Packages Onsale|2026-10-23T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00"
   },
-  "reminded": {}
+  "reminded": {
+    "vvG1zZ_fVAQqCC|Public onsale||2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "1kA8vP3_GA2r9p0|Presale|Reserved by Spotify|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "1AYZk4aGkeW8JvI|Presale|Reserved by Spotify|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1VZ_fBeYdvL|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1VZ_fBeYdvL|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1VZ_fSoGFNX|Presale|Iron Maiden Fan Club Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1VZ_fSoGFNX|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1zZ_fUnoW2G|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1zZ_fUnoW2G|Presale|Iron Maiden ViP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5eVZ_fw_WE7J|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5vVZ_fwHD39h|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "G5vVZ_fwHD39h|Presale|Iron Maiden ViP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "1AdZZ_fGkMnutle|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "1AdZZ_fGkMnutle|Presale|Artist Presale|2026-10-19T14:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1YZ_fLVwXhM|Presale|Reserved by Spotify|2026-10-19T15:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1YZ_fsSLx_W|Presale|Artist Presale|2026-10-19T15:00:00+00:00": "2026-10-18T16:40:34.429508+00:00",
+    "vvG1YZ_fsSLx_W|Presale|Iron Maiden VIP Package Artist Presale|2026-10-19T15:00:00+00:00": "2026-10-18T16:40:34.429508+00:00"
+  }
 }
