@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T22:40:05.241099+00:00",
+  "generated": "2026-10-18T00:19:48.685186+00:00",
   "artists_watched": 50,
-  "events_swept": 633,
+  "events_swept": 593,
   "truncated": false,
   "watched_count": 24,
-  "big_count": 98,
-  "other_count": 511,
+  "big_count": 83,
+  "other_count": 486,
   "baseline_run": false,
-  "new_count": 3,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -3562,6 +3562,23 @@
       "starts": "2026-10-21T00:00:00+00:00",
       "ends": "2026-10-23T05:00:00Z",
       "id": "G5vYZ_fKannnv|Presale|Artist Presale|2026-10-21T00:00:00+00:00"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "bucket": "big",
+      "event": "Matchbox Twenty - 30",
+      "event_id": "G5vYZ_fKannnv",
+      "event_date": "2027-06-08",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-mountain-view-california-06-08-2027/event/1C006544C9AAAA81",
+      "venue": "Shoreline Amphitheatre",
+      "city": "Mountain View",
+      "state": "CA",
+      "label": "Shoreline Amphitheatre, Mountain View, CA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-10-21T00:00:00+00:00",
+      "ends": "2026-10-23T05:00:00Z",
+      "id": "G5vYZ_fKannnv|Presale|VIP Package Presale|2026-10-21T00:00:00+00:00"
     },
     {
       "artist": "Matchbox Twenty",
@@ -9121,6 +9138,23 @@
       "starts": "2026-10-23T17:00:00+00:00",
       "ends": "2027-05-12T05:00:00Z",
       "id": "G5vYZ_fKannnv|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-10-23T17:00:00+00:00"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "bucket": "big",
+      "event": "Matchbox Twenty - 30",
+      "event_id": "G5vYZ_fKannnv",
+      "event_date": "2027-06-08",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-mountain-view-california-06-08-2027/event/1C006544C9AAAA81",
+      "venue": "Shoreline Amphitheatre",
+      "city": "Mountain View",
+      "state": "CA",
+      "label": "Shoreline Amphitheatre, Mountain View, CA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Onsale",
+      "starts": "2026-10-23T17:00:00+00:00",
+      "ends": "2027-06-02T06:55:00Z",
+      "id": "G5vYZ_fKannnv|Presale|VIP Package Onsale|2026-10-23T17:00:00+00:00"
     },
     {
       "artist": "Matchbox Twenty",
