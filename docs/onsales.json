@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-21T02:59:45.633602+00:00",
+  "generated": "2026-10-21T08:27:13.598228+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 9,
-  "big_count": 78,
-  "other_count": 913,
+  "big_count": 76,
+  "other_count": 915,
   "baseline_run": false,
-  "new_count": 70,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 30,
   "windows": [
     {
       "artist": "Meek Mill",
@@ -109,7 +109,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-10-21T15:00:00+00:00",
-      "ends": "2027-04-16T03:00:00Z",
+      "ends": "2027-04-16T02:30:00Z",
       "id": "G5dIZ_4KeprCz|Public onsale||2026-10-21T15:00:00+00:00"
     },
     {
@@ -485,23 +485,6 @@
       "starts": "2026-10-21T16:00:00+00:00",
       "ends": "2027-04-26T00:00:00Z",
       "id": "vv17OZ_fGkMDdFHb|Public onsale||2026-10-21T16:00:00+00:00"
-    },
-    {
-      "artist": "MercyMe",
-      "bucket": "big",
-      "event": "MercyMe, Ben Fuller, Peter Burton",
-      "event_id": "vv17jZ_fGkBoydIQ",
-      "event_date": "2027-04-29",
-      "url": "https://www.ticketmaster.com/mercyme-ben-fuller-peter-burton-milwaukee-wisconsin-04-29-2027/event/0700654E91E43A1A",
-      "venue": "UW - Milwaukee Panther Arena ",
-      "city": "Milwaukee",
-      "state": "WI",
-      "label": "UW - Milwaukee Panther Arena , Milwaukee, WI",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-21T16:00:00+00:00",
-      "ends": "2027-04-30T00:00:00Z",
-      "id": "vv17jZ_fGkBoydIQ|Public onsale||2026-10-21T16:00:00+00:00"
     },
     {
       "artist": "Backstreet Boys",
@@ -1437,23 +1420,6 @@
       "starts": "2026-10-21T17:00:00+00:00",
       "ends": "2026-10-23T05:00:00Z",
       "id": "1Av0Z_fGkwDGUP6|Presale|BFMV VIP Packages Presale|2026-10-21T17:00:00+00:00"
-    },
-    {
-      "artist": "Calvin Harris",
-      "bucket": "big",
-      "event": "Calvin Harris - North America Tour",
-      "event_id": "vv17bZ_fGkS0mLhq",
-      "event_date": "2027-04-29",
-      "url": "https://seatgeek.com/calvin-harris-tickets/saint-paul-minnesota-grand-casino-arena-2027-04-29-8-pm/concert/18665651",
-      "venue": "Grand Casino Arena",
-      "city": "Saint Paul",
-      "state": "MN",
-      "label": "Grand Casino Arena, Saint Paul, MN",
-      "kind": "Presale",
-      "presale_name": "Live Nation Presale",
-      "starts": "2026-10-21T17:00:00+00:00",
-      "ends": "2026-10-22T15:00:00Z",
-      "id": "vv17bZ_fGkS0mLhq|Presale|Live Nation Presale|2026-10-21T17:00:00+00:00"
     },
     {
       "artist": "Calvin Harris",
@@ -2542,23 +2508,6 @@
       "starts": "2026-10-22T17:00:00+00:00",
       "ends": "2026-10-23T05:00:00Z",
       "id": "1Av0Z_fGkwDGUP6|Presale|Talking Stick Resort Presale|2026-10-22T17:00:00+00:00"
-    },
-    {
-      "artist": "Calvin Harris",
-      "bucket": "big",
-      "event": "Calvin Harris - North America Tour",
-      "event_id": "vv17bZ_fGkS0mLhq",
-      "event_date": "2027-04-29",
-      "url": "https://seatgeek.com/calvin-harris-tickets/saint-paul-minnesota-grand-casino-arena-2027-04-29-8-pm/concert/18665651",
-      "venue": "Grand Casino Arena",
-      "city": "Saint Paul",
-      "state": "MN",
-      "label": "Grand Casino Arena, Saint Paul, MN",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-22T17:00:00+00:00",
-      "ends": "2027-04-30T01:00:00Z",
-      "id": "vv17bZ_fGkS0mLhq|Public onsale||2026-10-22T17:00:00+00:00"
     },
     {
       "artist": "Kenshi Yonezu",
