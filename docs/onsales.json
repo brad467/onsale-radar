@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-22T00:31:02.096278+00:00",
+  "generated": "2026-10-22T05:21:46.355996+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
-  "watched_count": 11,
+  "watched_count": 10,
   "big_count": 62,
-  "other_count": 927,
+  "other_count": 928,
   "baseline_run": false,
-  "new_count": 45,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 12,
   "windows": [
     {
       "artist": "Meek Mill",
@@ -145,23 +145,6 @@
       "starts": "2026-10-22T14:00:00+00:00",
       "ends": "2026-10-23T02:00:00Z",
       "id": "vvG1VZ_fBeYdvL|Presale|Venue Presale|2026-10-22T14:00:00+00:00"
-    },
-    {
-      "artist": "Zach Bryan",
-      "bucket": "watched",
-      "event": "Zach Bryan",
-      "event_id": "vv17fZ_fGkwtxpKO",
-      "event_date": "2027-05-01",
-      "url": "https://www.ticketmaster.com/zach-bryan-indianapolis-indiana-05-01-2027/event/0500654CA98964E0",
-      "venue": "Lucas Oil Stadium",
-      "city": "Indianapolis",
-      "state": "IN",
-      "label": "Lucas Oil Stadium, Indianapolis, IN",
-      "kind": "Presale",
-      "presale_name": "Local Presale",
-      "starts": "2026-10-22T14:00:00+00:00",
-      "ends": "2026-10-23T02:00:00Z",
-      "id": "vv17fZ_fGkwtxpKO|Presale|Local Presale|2026-10-22T14:00:00+00:00"
     },
     {
       "artist": "The Growlers",
@@ -1267,23 +1250,6 @@
       "starts": "2026-10-23T14:00:00+00:00",
       "ends": "2027-04-25T03:55:00Z",
       "id": "vvG1VZ_fBeYdvL|Presale|BFMV VIP Packages Onsale|2026-10-23T14:00:00+00:00"
-    },
-    {
-      "artist": "Zach Bryan",
-      "bucket": "watched",
-      "event": "Zach Bryan",
-      "event_id": "vv17fZ_fGkwtxpKO",
-      "event_date": "2027-05-01",
-      "url": "https://www.ticketmaster.com/zach-bryan-indianapolis-indiana-05-01-2027/event/0500654CA98964E0",
-      "venue": "Lucas Oil Stadium",
-      "city": "Indianapolis",
-      "state": "IN",
-      "label": "Lucas Oil Stadium, Indianapolis, IN",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-23T14:00:00+00:00",
-      "ends": "2027-05-02T01:00:00Z",
-      "id": "vv17fZ_fGkwtxpKO|Public onsale||2026-10-23T14:00:00+00:00"
     },
     {
       "artist": "Omar Camacho",
