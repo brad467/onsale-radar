@@ -1,6 +1,5 @@
 {
   "alerted": {
-    "vvG1IZ_4dHVRCz|Public onsale||2026-10-23T20:00:00+00:00": "2026-10-20T02:04:55.260833+00:00",
     "1A9Zk4eGkdcMDNS|Presale|Seated Presale|2026-10-28T17:00:00+00:00": "2026-10-20T17:50:27.330902+00:00",
     "1A9Zk4eGkdcMDNS|Presale|On The List VIP Package Presale|2026-10-28T17:00:00+00:00": "2026-10-20T17:50:27.330902+00:00",
     "1A9Zk4eGkdmAhP8|Presale|Seated Presale|2026-10-28T17:00:00+00:00": "2026-10-20T17:50:27.330902+00:00",
@@ -19,10 +18,7 @@
     "G5dIZ_4KwCElS|Presale|AEG Presale|2026-10-29T15:00:00+00:00": "2026-10-22T15:26:47.060683+00:00",
     "G5dIZ_4KwCElS|Presale|Venue Presale|2026-10-29T15:00:00+00:00": "2026-10-22T15:26:47.060683+00:00",
     "G5dIZ_4KwCElS|Public onsale||2026-10-30T15:00:00+00:00": "2026-10-22T15:26:47.060683+00:00",
-    "vv177Z_fGkwNh6_I|Presale|Internet Presale|2026-10-23T20:00:00+00:00": "2026-10-23T19:31:59.352260+00:00",
     "vv177Z_fGkwNh6_I|Public onsale||2026-10-26T16:00:00+00:00": "2026-10-23T19:31:59.352260+00:00"
   },
-  "reminded": {
-    "vvG1IZ_4dHVRCz|Public onsale||2026-10-23T20:00:00+00:00": "2026-10-22T22:34:16.328980+00:00"
-  }
+  "reminded": {}
 }
