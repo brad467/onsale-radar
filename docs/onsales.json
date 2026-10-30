@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-30T06:09:01.172272+00:00",
+  "generated": "2026-10-30T12:50:28.898644+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 2,
-  "big_count": 81,
-  "other_count": 917,
+  "big_count": 79,
+  "other_count": 919,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 6,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Meek Mill",
@@ -759,23 +759,6 @@
       "id": "vv178Z_fGkH_N5TD|Presale|VIP Travel Packages Onsale|2026-10-30T15:00:00+00:00"
     },
     {
-      "artist": "The Red Clay Strays",
-      "bucket": "big",
-      "event": "The Red Clay Strays w/ St. Paul and the Broken Bones",
-      "event_id": "Z7r9jZ1AA7svN",
-      "event_date": "2027-09-12",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7svN",
-      "venue": "Orion Amphitheater",
-      "city": "Huntsville",
-      "state": "AL",
-      "label": "Orion Amphitheater, Huntsville, AL",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-10-30T15:00:00+00:00",
-      "ends": "2027-09-13T00:00:00Z",
-      "id": "Z7r9jZ1AA7svN|Public onsale||2026-10-30T15:00:00+00:00"
-    },
-    {
       "artist": "The Neighbourhood",
       "bucket": "big",
       "event": "The Neighbourhood WOURLD TOUR II",
@@ -1046,23 +1029,6 @@
       "starts": "2026-10-31T14:00:00+00:00",
       "ends": "2026-12-13T04:00:00Z",
       "id": "rZ7HnEZ1Af8kFV|Public onsale||2026-10-31T14:00:00+00:00"
-    },
-    {
-      "artist": "Dove Awards",
-      "bucket": "big",
-      "event": "58th Annual GMA Dove Awards",
-      "event_id": "G5viZ_4rie7aF",
-      "event_date": "2027-10-05",
-      "url": "https://www.ticketmaster.com/58th-annual-gma-dove-awards-nashville-tennessee-10-05-2027/event/1B006557AC084248",
-      "venue": "Bridgestone Arena",
-      "city": "Nashville",
-      "state": "TN",
-      "label": "Bridgestone Arena, Nashville, TN",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-11-02T16:00:00+00:00",
-      "ends": "2027-10-06T01:30:00Z",
-      "id": "G5viZ_4rie7aF|Public onsale||2026-11-02T16:00:00+00:00"
     },
     {
       "artist": "Noah Kahan",
