@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-01T22:33:31.679477+00:00",
+  "generated": "2026-11-02T01:49:00.071614+00:00",
   "artists_watched": 50,
-  "events_swept": 319,
+  "events_swept": 306,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 46,
-  "other_count": 273,
+  "big_count": 47,
+  "other_count": 259,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -26,6 +26,23 @@
       "starts": "2026-11-02T16:00:00+00:00",
       "ends": "2027-10-06T01:30:00Z",
       "id": "G5viZ_4rie7aF|Public onsale||2026-11-02T16:00:00+00:00"
+    },
+    {
+      "artist": "The Chitlins, The Shaelyn Band",
+      "bucket": "big",
+      "event": "The Chitlins, The Shaelyn Band",
+      "event_id": "rZ7HnEZ1Af8FP7",
+      "event_date": "2026-12-31",
+      "url": "https://www.ticketweb.com/event/the-chitlins-the-shaelyn-band-ground-zero-blues-club-biloxi-tickets/14408944",
+      "venue": "Ground Zero Blues Club Biloxi",
+      "city": "Biloxi",
+      "state": "MS",
+      "label": "Ground Zero Blues Club Biloxi, Biloxi, MS",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-11-03T18:00:00+00:00",
+      "ends": "2026-12-31T22:00:00Z",
+      "id": "rZ7HnEZ1Af8FP7|Public onsale||2026-11-03T18:00:00+00:00"
     },
     {
       "artist": "Noah Kahan",
