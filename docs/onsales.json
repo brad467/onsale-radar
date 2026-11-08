@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-08T20:29:40.176437+00:00",
+  "generated": "2026-11-08T23:56:18.784638+00:00",
   "artists_watched": 50,
-  "events_swept": 419,
+  "events_swept": 466,
   "truncated": false,
   "watched_count": 0,
   "big_count": 92,
-  "other_count": 327,
+  "other_count": 374,
   "baseline_run": false,
   "new_count": 0,
-  "soon_count": 12,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Kings of Leon",
@@ -1741,7 +1741,7 @@
       "kind": "Presale",
       "presale_name": "Artist Presale",
       "starts": "2026-11-10T20:00:00+00:00",
-      "ends": "2026-11-12T07:59:00Z",
+      "ends": "2026-11-11T07:59:00Z",
       "id": "G5vYZ_4RFk6c7|Presale|Artist Presale|2026-11-10T20:00:00+00:00"
     },
     {
@@ -4412,6 +4412,23 @@
       "starts": "2026-11-12T20:00:00+00:00",
       "ends": "2027-05-15T00:00:00Z",
       "id": "G5vYZ_4RFk6c7|Presale|VIP Packages Onsale|2026-11-12T20:00:00+00:00"
+    },
+    {
+      "artist": "Noah Kahan",
+      "bucket": "big",
+      "event": "Noah Kahan: The Last Of The Bugs World Tour",
+      "event_id": "G5vYZ_4RFk6c7",
+      "event_date": "2027-05-19",
+      "url": "https://www.ticketmaster.com/noah-kahan-the-last-of-the-santa-clara-california-05-19-2027/event/1C00655BC8187B44",
+      "venue": "Levi's\u00ae Stadium",
+      "city": "Santa Clara",
+      "state": "CA",
+      "label": "Levi's\u00ae Stadium, Santa Clara, CA",
+      "kind": "Presale",
+      "presale_name": "Mastercard Collection Preferred Tickets",
+      "starts": "2026-11-12T20:00:00+00:00",
+      "ends": "2026-05-06T05:00:00Z",
+      "id": "G5vYZ_4RFk6c7|Presale|Mastercard Collection Preferred Tickets|2026-11-12T20:00:00+00:00"
     },
     {
       "artist": "Noah Kahan",
