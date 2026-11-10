@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-10T04:37:01.954801+00:00",
+  "generated": "2026-11-10T12:59:02.508611+00:00",
   "artists_watched": 50,
-  "events_swept": 738,
+  "events_swept": 748,
   "truncated": false,
   "watched_count": 21,
   "big_count": 115,
-  "other_count": 602,
+  "other_count": 612,
   "baseline_run": false,
-  "new_count": 1,
-  "soon_count": 4,
+  "new_count": 0,
+  "soon_count": 0,
   "windows": [
     {
       "artist": "Feid",
