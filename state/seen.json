@@ -829,7 +829,8 @@
     "G5diZ_p93TPrF|Presale|Chase Cardholder Preferred Seating|2026-12-03T15:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
     "G5diZ_p93TPrF|Public onsale||2026-12-04T15:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
     "G5diZ_p93TPrF|Presale|Chase Cardholder Preferred Seating|2026-12-04T15:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
-    "G5diZ_p93TPrF|Presale|Verizon Shine Featured Venues|2026-12-04T15:00:00+00:00": "2026-11-17T02:05:50.225228+00:00"
+    "G5diZ_p93TPrF|Presale|Verizon Shine Featured Venues|2026-12-04T15:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
+    "vv177Z_pGkzwgr47|Presale|Premium Seat Club Access|2026-11-20T15:00:00+00:00": "2026-11-17T10:41:00.336049+00:00"
   },
   "reminded": {
     "vvG1iZ_pSOfJ5c|Public onsale||2026-11-17T18:00:00+00:00": "2026-11-16T18:36:53.467003+00:00",
@@ -859,6 +860,27 @@
     "vvG1IZ_pJB5pwc|Presale|Reserved by Spotify|2026-11-17T22:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
     "vvG1HZ_pJ4m0zq|Presale|Reserved by Spotify|2026-11-17T22:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
     "vvG1HZ_ph-KtDL|Presale|Reserved by Spotify|2026-11-17T22:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
-    "vvG1HZ_ph-KtDL|Presale|Citi\u00ae Cardmember Presale|2026-11-17T22:00:00+00:00": "2026-11-17T02:05:50.225228+00:00"
+    "vvG1HZ_ph-KtDL|Presale|Citi\u00ae Cardmember Presale|2026-11-17T22:00:00+00:00": "2026-11-17T02:05:50.225228+00:00",
+    "vv177Z_pGkzwgr47|Presale|Citi\u00ae Cardmember Presale|2026-11-17T15:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5viZ_9eltmsK|Presale|1|2026-11-17T16:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5vzZ_p54FUhp|Presale|Fan Club VIP Package Presale|2026-11-17T17:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vvG1iZ_pEnMg6y|Presale|Amex Reserved Tickets|2026-11-17T18:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vvG1HZ_pJ4m0zq|Presale|Citi\u00ae Cardmember Presale|2026-11-17T18:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5eVZ_pJm1IZ7|Presale|Citi\u00ae Cardmember Presale|2026-11-17T19:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5eVZ_pJm1IZ7|Presale|Reserved by Spotify|2026-11-17T19:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vvG1zZ_pnf8Blb|Presale|Reserved by Spotify|2026-11-17T19:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vvG1zZ_pnf8Blb|Presale|Citi\u00ae Cardmember Presale|2026-11-17T19:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vv177Z_pGkl4LLwN|Presale|Citi\u00ae Cardmember Presale|2026-11-17T19:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vv177Z_pGkl4LLwN|Presale|Reserved by Spotify|2026-11-17T19:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5dIZ_pEvM_m_|Presale|Citi\u00ae Cardmember Presale|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5dIZ_pEvM_m_|Presale|Reserved by Spotify|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5viZ_pnjetpO|Presale|Citi\u00ae Cardmember Presale|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5viZ_pnjetpO|Presale|Reserved by Spotify|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5viZ_plZ_cl1|Presale|Citi\u00ae Cardmember Presale|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "G5viZ_plZ_cl1|Presale|Reserved by Spotify|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vv17bZ_pGkmWZQwQ|Presale|Citi\u00ae Cardmember Presale|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vv17bZ_pGkmWZQwQ|Presale|Reserved by Spotify|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vv17bZ_pGkR9VWEA|Presale|Citi\u00ae Cardmember Presale|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00",
+    "vv17bZ_pGkR9VWEA|Presale|Reserved by Spotify|2026-11-17T20:00:00+00:00": "2026-11-17T10:41:00.336049+00:00"
   }
 }

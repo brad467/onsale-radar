@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-17T02:05:50.225228+00:00",
+  "generated": "2026-11-17T10:41:00.336049+00:00",
   "artists_watched": 50,
-  "events_swept": 982,
+  "events_swept": 991,
   "truncated": false,
   "watched_count": 22,
-  "big_count": 148,
-  "other_count": 812,
+  "big_count": 149,
+  "other_count": 820,
   "baseline_run": false,
-  "new_count": 143,
-  "soon_count": 27,
+  "new_count": 0,
+  "soon_count": 21,
   "windows": [
     {
       "artist": "Morgan Wallen",
@@ -11739,6 +11739,23 @@
       "starts": "2026-11-20T15:00:00+00:00",
       "ends": "2027-06-19T02:00:00Z",
       "id": "vv177Z_pGkzwgr47|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-11-20T15:00:00+00:00"
+    },
+    {
+      "artist": "Foreigner",
+      "bucket": "big",
+      "event": "FOREIGNER - Classic Rock meets Yacht Rock with Yachtley Crew",
+      "event_id": "vv177Z_pGkzwgr47",
+      "event_date": "2027-07-16",
+      "url": "https://www.ticketmaster.com/foreigner-classic-rock-meets-yacht-rock-bangor-maine-07-16-2027/event/0100656E32D5E544",
+      "venue": "Maine Savings Amphitheater",
+      "city": "Bangor",
+      "state": "ME",
+      "label": "Maine Savings Amphitheater, Bangor, ME",
+      "kind": "Presale",
+      "presale_name": "Premium Seat Club Access",
+      "starts": "2026-11-20T15:00:00+00:00",
+      "ends": "2027-07-15T02:00:00Z",
+      "id": "vv177Z_pGkzwgr47|Presale|Premium Seat Club Access|2026-11-20T15:00:00+00:00"
     },
     {
       "artist": "Morgan Wallen",
