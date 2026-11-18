@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-18T01:44:40.595945+00:00",
+  "generated": "2026-11-18T09:13:28.065085+00:00",
   "artists_watched": 50,
   "events_swept": 1000,
   "truncated": true,
   "watched_count": 1,
-  "big_count": 74,
-  "other_count": 925,
+  "big_count": 73,
+  "other_count": 926,
   "baseline_run": false,
-  "new_count": 17,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 2,
   "windows": [
     {
       "artist": "Xscape",
@@ -587,23 +587,6 @@
       "starts": "2026-11-18T15:00:00+00:00",
       "ends": "2026-11-20T03:00:00Z",
       "id": "G5eVZ_pJcG6yy|Presale|Artist Presale|2026-11-18T15:00:00+00:00"
-    },
-    {
-      "artist": "Billy Strings",
-      "bucket": "big",
-      "event": "Billy Strings",
-      "event_id": "G5eVZ_pJcaEyP",
-      "event_date": "2027-04-17",
-      "url": "https://www.ticketmaster.com/billy-strings-north-charleston-south-carolina-04-17-2027/event/2D006569AD267E65",
-      "venue": "North Charleston Coliseum",
-      "city": "North Charleston",
-      "state": "SC",
-      "label": "North Charleston Coliseum, North Charleston, SC",
-      "kind": "Presale",
-      "presale_name": "Artist Presale",
-      "starts": "2026-11-18T15:00:00+00:00",
-      "ends": "2026-11-20T03:00:00Z",
-      "id": "G5eVZ_pJcaEyP|Presale|Artist Presale|2026-11-18T15:00:00+00:00"
     },
     {
       "artist": "Xscape",
@@ -1794,40 +1777,6 @@
       "starts": "2026-11-19T15:00:00+00:00",
       "ends": "2026-11-20T03:00:00Z",
       "id": "G5eVZ_pJcG6yy|Presale|Ticketmaster Presale|2026-11-19T15:00:00+00:00"
-    },
-    {
-      "artist": "Billy Strings",
-      "bucket": "big",
-      "event": "Billy Strings",
-      "event_id": "G5eVZ_pJcaEyP",
-      "event_date": "2027-04-17",
-      "url": "https://www.ticketmaster.com/billy-strings-north-charleston-south-carolina-04-17-2027/event/2D006569AD267E65",
-      "venue": "North Charleston Coliseum",
-      "city": "North Charleston",
-      "state": "SC",
-      "label": "North Charleston Coliseum, North Charleston, SC",
-      "kind": "Presale",
-      "presale_name": "Local Presale",
-      "starts": "2026-11-19T15:00:00+00:00",
-      "ends": "2026-11-20T03:00:00Z",
-      "id": "G5eVZ_pJcaEyP|Presale|Local Presale|2026-11-19T15:00:00+00:00"
-    },
-    {
-      "artist": "Billy Strings",
-      "bucket": "big",
-      "event": "Billy Strings",
-      "event_id": "G5eVZ_pJcaEyP",
-      "event_date": "2027-04-17",
-      "url": "https://www.ticketmaster.com/billy-strings-north-charleston-south-carolina-04-17-2027/event/2D006569AD267E65",
-      "venue": "North Charleston Coliseum",
-      "city": "North Charleston",
-      "state": "SC",
-      "label": "North Charleston Coliseum, North Charleston, SC",
-      "kind": "Presale",
-      "presale_name": "Ticketmaster Presale",
-      "starts": "2026-11-19T15:00:00+00:00",
-      "ends": "2026-11-20T03:00:00Z",
-      "id": "G5eVZ_pJcaEyP|Presale|Ticketmaster Presale|2026-11-19T15:00:00+00:00"
     },
     {
       "artist": "Daily Bread",
@@ -3154,23 +3103,6 @@
       "starts": "2026-11-20T15:00:00+00:00",
       "ends": "2027-04-17T01:30:00Z",
       "id": "G5eVZ_pJcG6yy|Public onsale||2026-11-20T15:00:00+00:00"
-    },
-    {
-      "artist": "Billy Strings",
-      "bucket": "big",
-      "event": "Billy Strings",
-      "event_id": "G5eVZ_pJcaEyP",
-      "event_date": "2027-04-17",
-      "url": "https://www.ticketmaster.com/billy-strings-north-charleston-south-carolina-04-17-2027/event/2D006569AD267E65",
-      "venue": "North Charleston Coliseum",
-      "city": "North Charleston",
-      "state": "SC",
-      "label": "North Charleston Coliseum, North Charleston, SC",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-11-20T15:00:00+00:00",
-      "ends": "2027-04-18T01:30:00Z",
-      "id": "G5eVZ_pJcaEyP|Public onsale||2026-11-20T15:00:00+00:00"
     },
     {
       "artist": "Garth Brooks",
