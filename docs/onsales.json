@@ -1,15 +1,49 @@
 {
-  "generated": "2026-11-21T09:11:32.755485+00:00",
+  "generated": "2026-11-21T16:46:45.387226+00:00",
   "artists_watched": 50,
-  "events_swept": 368,
+  "events_swept": 374,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 36,
-  "other_count": 332,
+  "big_count": 38,
+  "other_count": 336,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 2,
   "soon_count": 0,
   "windows": [
+    {
+      "artist": "DCI: Drum Corps International",
+      "bucket": "big",
+      "event": "DCI Open Class World Championship Finals",
+      "event_id": "vv1kv8vPqbGACGSyn",
+      "event_date": "2027-08-11",
+      "url": "https://www.ticketmaster.com/dci-open-class-world-championship-finals-indianapolis-indiana-08-11-2027/event/050065758E333E6A",
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "state": "IN",
+      "label": "Lucas Oil Stadium, Indianapolis, IN",
+      "kind": "Presale",
+      "presale_name": "Friends of DCI Presale",
+      "starts": "2026-11-22T17:00:00+00:00",
+      "ends": "2026-11-25T17:00:00Z",
+      "id": "vv1kv8vPqbGACGSyn|Presale|Friends of DCI Presale|2026-11-22T17:00:00+00:00"
+    },
+    {
+      "artist": "DCI: Drum Corps International",
+      "bucket": "big",
+      "event": "DCI All Age World Championship Finals",
+      "event_id": "vv16AZk4gPeZAuAAA2",
+      "event_date": "2027-08-14",
+      "url": "https://www.ticketmaster.com/dci-all-age-world-championship-finals-indianapolis-indiana-08-14-2027/event/05006575942C444E",
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "state": "IN",
+      "label": "Lucas Oil Stadium, Indianapolis, IN",
+      "kind": "Presale",
+      "presale_name": "Friends of DCI Presale",
+      "starts": "2026-11-22T17:00:00+00:00",
+      "ends": "2026-11-25T17:00:00Z",
+      "id": "vv16AZk4gPeZAuAAA2|Presale|Friends of DCI Presale|2026-11-22T17:00:00+00:00"
+    },
     {
       "artist": "Chris Tomlin",
       "bucket": "big",
@@ -26,6 +60,23 @@
       "starts": "2026-11-23T17:00:00+00:00",
       "ends": "2027-05-25T01:30:00Z",
       "id": "G5vzZ_95-1tjW|Public onsale||2026-11-23T17:00:00+00:00"
+    },
+    {
+      "artist": "DCI: Drum Corps International",
+      "bucket": "big",
+      "event": "DCI Open Class World Championship Finals",
+      "event_id": "vv1kv8vPqbGACGSyn",
+      "event_date": "2027-08-11",
+      "url": "https://www.ticketmaster.com/dci-open-class-world-championship-finals-indianapolis-indiana-08-11-2027/event/050065758E333E6A",
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "state": "IN",
+      "label": "Lucas Oil Stadium, Indianapolis, IN",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-11-25T17:00:00+00:00",
+      "ends": "2027-08-11T22:00:00Z",
+      "id": "vv1kv8vPqbGACGSyn|Public onsale||2026-11-25T17:00:00+00:00"
     },
     {
       "artist": "DCI: Drum Corps International",
@@ -60,6 +111,23 @@
       "starts": "2026-11-25T17:00:00+00:00",
       "ends": "2027-08-13T12:30:00Z",
       "id": "vv16AZk4VA-ZACC5vA|Public onsale||2026-11-25T17:00:00+00:00"
+    },
+    {
+      "artist": "DCI: Drum Corps International",
+      "bucket": "big",
+      "event": "DCI All Age World Championship Finals",
+      "event_id": "vv16AZk4gPeZAuAAA2",
+      "event_date": "2027-08-14",
+      "url": "https://www.ticketmaster.com/dci-all-age-world-championship-finals-indianapolis-indiana-08-14-2027/event/05006575942C444E",
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "state": "IN",
+      "label": "Lucas Oil Stadium, Indianapolis, IN",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-11-25T17:00:00+00:00",
+      "ends": "2027-08-14T14:00:00Z",
+      "id": "vv16AZk4gPeZAuAAA2|Public onsale||2026-11-25T17:00:00+00:00"
     },
     {
       "artist": "MIKE.",
@@ -313,7 +381,7 @@
       "kind": "Public onsale",
       "presale_name": "",
       "starts": "2026-12-04T21:00:00+00:00",
-      "ends": "2027-02-12T02:00:00Z",
+      "ends": "2027-02-12T01:30:00Z",
       "id": "G5diZ_9kU_0Gn|Public onsale||2026-12-04T21:00:00+00:00"
     },
     {
@@ -330,7 +398,7 @@
       "kind": "Presale",
       "presale_name": "Chase Cardholder Preferred Tickets",
       "starts": "2026-12-04T21:00:00+00:00",
-      "ends": "2027-02-12T02:00:00Z",
+      "ends": "2027-02-12T01:30:00Z",
       "id": "G5diZ_9kU_0Gn|Presale|Chase Cardholder Preferred Tickets|2026-12-04T21:00:00+00:00"
     },
     {
