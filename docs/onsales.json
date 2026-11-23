@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-22T22:39:45.876356+00:00",
+  "generated": "2026-11-23T03:07:45.442390+00:00",
   "artists_watched": 50,
-  "events_swept": 412,
+  "events_swept": 393,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 36,
-  "other_count": 376,
+  "big_count": 37,
+  "other_count": 356,
   "baseline_run": false,
-  "new_count": 0,
+  "new_count": 1,
   "soon_count": 0,
   "windows": [
     {
@@ -94,6 +94,23 @@
       "starts": "2026-11-25T17:00:00+00:00",
       "ends": "2027-08-14T14:00:00Z",
       "id": "vv16AZk4gPeZAuAAA2|Public onsale||2026-11-25T17:00:00+00:00"
+    },
+    {
+      "artist": "DCI: Drum Corps International",
+      "bucket": "big",
+      "event": "DCI World Championship Finals",
+      "event_id": "vv1kfZ_9bYG7c2xr",
+      "event_date": "2027-08-14",
+      "url": "https://www.ticketmaster.com/dci-world-championship-finals-indianapolis-indiana-08-14-2027/event/0500657630B4F89E",
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "state": "IN",
+      "label": "Lucas Oil Stadium, Indianapolis, IN",
+      "kind": "Public onsale",
+      "presale_name": "",
+      "starts": "2026-11-25T17:00:00+00:00",
+      "ends": "2027-08-14T21:30:00Z",
+      "id": "vv1kfZ_9bYG7c2xr|Public onsale||2026-11-25T17:00:00+00:00"
     },
     {
       "artist": "MIKE.",
