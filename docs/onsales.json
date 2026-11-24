@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-24T00:21:54.114410+00:00",
+  "generated": "2026-11-24T10:12:28.360428+00:00",
   "artists_watched": 50,
-  "events_swept": 422,
+  "events_swept": 429,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 41,
-  "other_count": 381,
+  "big_count": 40,
+  "other_count": 389,
   "baseline_run": false,
-  "new_count": 5,
-  "soon_count": 0,
+  "new_count": 0,
+  "soon_count": 4,
   "windows": [
     {
       "artist": "Cody Johnson",

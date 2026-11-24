@@ -36,5 +36,10 @@
     "vvG1IZ_oAM_0ZM|Presale|Venue Presale|2026-11-24T22:00:00+00:00": "2026-11-24T00:21:54.114410+00:00",
     "vvG1IZ_oAM_0ZM|Public onsale||2026-11-25T18:00:00+00:00": "2026-11-24T00:21:54.114410+00:00"
   },
-  "reminded": {}
+  "reminded": {
+    "vv1AvZk4YGkdFzn-T|Public onsale||2026-11-24T15:00:00+00:00": "2026-11-24T10:12:28.360428+00:00",
+    "vvG1IZ_oAM_0ZM|Presale|Reserved by Spotify|2026-11-24T18:00:00+00:00": "2026-11-24T10:12:28.360428+00:00",
+    "vv1ke8vPQ_GAC1MpX|Public onsale||2026-11-24T18:00:00+00:00": "2026-11-24T10:12:28.360428+00:00",
+    "vv1ke8vPQ_GAC1MpX|Presale|Citi\u00ae Cardmember Preferred Tickets|2026-11-24T18:00:00+00:00": "2026-11-24T10:12:28.360428+00:00"
+  }
 }
