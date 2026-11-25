@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-25T03:44:32.287612+00:00",
+  "generated": "2026-11-25T13:33:30.389141+00:00",
   "artists_watched": 50,
-  "events_swept": 473,
+  "events_swept": 476,
   "truncated": false,
   "watched_count": 0,
   "big_count": 60,
-  "other_count": 413,
+  "other_count": 416,
   "baseline_run": false,
-  "new_count": 3,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
     {
@@ -1331,10 +1331,10 @@
       "state": "NJ",
       "label": "MetLife Stadium, East Rutherford, NJ",
       "kind": "Presale",
-      "presale_name": "VIP Package Presale",
+      "presale_name": "Visa Presale",
       "starts": "2026-12-02T15:00:00+00:00",
-      "ends": "2026-12-04T03:00:00Z",
-      "id": "k7vGF_9KczQx4|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00"
+      "ends": "2026-12-03T03:00:00Z",
+      "id": "k7vGF_9KczQx4|Presale|Visa Presale|2026-12-02T15:00:00+00:00"
     },
     {
       "artist": "U2",
@@ -1348,27 +1348,10 @@
       "state": "NJ",
       "label": "MetLife Stadium, East Rutherford, NJ",
       "kind": "Presale",
-      "presale_name": "Visa Presale",
-      "starts": "2026-12-02T15:00:00+00:00",
-      "ends": "2026-12-03T03:00:00Z",
-      "id": "k7vGF_9KczQx4|Presale|Visa Presale|2026-12-02T15:00:00+00:00"
-    },
-    {
-      "artist": "U2",
-      "bucket": "big",
-      "event": "U2: The Greatest Show on Earth World Tour",
-      "event_id": "k7vGF_9LrNhEN",
-      "event_date": "2027-08-28",
-      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-28-2027/event/00006577DE8DB9E3",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
-      "state": "NJ",
-      "label": "MetLife Stadium, East Rutherford, NJ",
-      "kind": "Presale",
       "presale_name": "VIP Package Presale",
       "starts": "2026-12-02T15:00:00+00:00",
-      "ends": "2026-12-04T03:00:00Z",
-      "id": "k7vGF_9LrNhEN|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00"
+      "ends": "2026-12-03T03:00:00Z",
+      "id": "k7vGF_9KczQx4|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00"
     },
     {
       "artist": "U2",
@@ -1386,6 +1369,23 @@
       "starts": "2026-12-02T15:00:00+00:00",
       "ends": "2026-12-03T03:00:00Z",
       "id": "k7vGF_9LrNhEN|Presale|Visa Presale|2026-12-02T15:00:00+00:00"
+    },
+    {
+      "artist": "U2",
+      "bucket": "big",
+      "event": "U2: The Greatest Show on Earth World Tour",
+      "event_id": "k7vGF_9LrNhEN",
+      "event_date": "2027-08-28",
+      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-28-2027/event/00006577DE8DB9E3",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "label": "MetLife Stadium, East Rutherford, NJ",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-12-02T15:00:00+00:00",
+      "ends": "2026-12-03T03:00:00Z",
+      "id": "k7vGF_9LrNhEN|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00"
     },
     {
       "artist": "U2",
@@ -1901,6 +1901,23 @@
       "artist": "U2",
       "bucket": "big",
       "event": "U2: The Greatest Show on Earth World Tour",
+      "event_id": "k7vGF_9KczQx4",
+      "event_date": "2027-08-26",
+      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-26-2027/event/00006574EDE1A895",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "label": "MetLife Stadium, East Rutherford, NJ",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-12-03T15:00:00+00:00",
+      "ends": "2026-12-04T03:00:00Z",
+      "id": "k7vGF_9KczQx4|Presale|VIP Package Presale|2026-12-03T15:00:00+00:00"
+    },
+    {
+      "artist": "U2",
+      "bucket": "big",
+      "event": "U2: The Greatest Show on Earth World Tour",
       "event_id": "k7vGF_9LrNhEN",
       "event_date": "2027-08-28",
       "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-28-2027/event/00006577DE8DB9E3",
@@ -1913,6 +1930,23 @@
       "starts": "2026-12-03T15:00:00+00:00",
       "ends": "2026-12-04T03:00:00Z",
       "id": "k7vGF_9LrNhEN|Presale|Artist Presale|2026-12-03T15:00:00+00:00"
+    },
+    {
+      "artist": "U2",
+      "bucket": "big",
+      "event": "U2: The Greatest Show on Earth World Tour",
+      "event_id": "k7vGF_9LrNhEN",
+      "event_date": "2027-08-28",
+      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-28-2027/event/00006577DE8DB9E3",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "label": "MetLife Stadium, East Rutherford, NJ",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-12-03T15:00:00+00:00",
+      "ends": "2026-12-04T03:00:00Z",
+      "id": "k7vGF_9LrNhEN|Presale|VIP Package Presale|2026-12-03T15:00:00+00:00"
     },
     {
       "artist": "U2",
@@ -2049,23 +2083,6 @@
       "starts": "2026-12-03T18:00:00+00:00",
       "ends": "2026-12-04T06:00:00Z",
       "id": "G5vYZ_9CSlwoQ|Presale|Artist Presale|2026-12-03T18:00:00+00:00"
-    },
-    {
-      "artist": "U2",
-      "bucket": "big",
-      "event": "U2: The Greatest Show on Earth World Tour",
-      "event_id": "k7vGF_9LrNhEN",
-      "event_date": "2027-08-28",
-      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-28-2027/event/00006577DE8DB9E3",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
-      "state": "NJ",
-      "label": "MetLife Stadium, East Rutherford, NJ",
-      "kind": "Presale",
-      "presale_name": "VIP Package Onsale",
-      "starts": "2026-12-04T05:00:00+00:00",
-      "ends": "2027-08-24T16:00:00Z",
-      "id": "k7vGF_9LrNhEN|Presale|VIP Package Onsale|2026-12-04T05:00:00+00:00"
     },
     {
       "artist": "Garth Brooks",
@@ -2287,6 +2304,23 @@
       "starts": "2026-12-04T15:00:00+00:00",
       "ends": "2027-08-29T01:30:00Z",
       "id": "k7vGF_9LrNhEN|Public onsale||2026-12-04T15:00:00+00:00"
+    },
+    {
+      "artist": "U2",
+      "bucket": "big",
+      "event": "U2: The Greatest Show on Earth World Tour",
+      "event_id": "k7vGF_9LrNhEN",
+      "event_date": "2027-08-28",
+      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-east-rutherford-new-jersey-08-28-2027/event/00006577DE8DB9E3",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "label": "MetLife Stadium, East Rutherford, NJ",
+      "kind": "Presale",
+      "presale_name": "VIP Package Onsale",
+      "starts": "2026-12-04T15:00:00+00:00",
+      "ends": "2027-08-24T16:00:00Z",
+      "id": "k7vGF_9LrNhEN|Presale|VIP Package Onsale|2026-12-04T15:00:00+00:00"
     },
     {
       "artist": "U2",
