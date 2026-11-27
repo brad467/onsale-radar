@@ -1,49 +1,15 @@
 {
-  "generated": "2026-11-27T15:01:41.726520+00:00",
+  "generated": "2026-11-27T23:26:32.682913+00:00",
   "artists_watched": 50,
-  "events_swept": 479,
+  "events_swept": 557,
   "truncated": false,
   "watched_count": 0,
-  "big_count": 70,
-  "other_count": 409,
+  "big_count": 71,
+  "other_count": 486,
   "baseline_run": false,
-  "new_count": 1,
+  "new_count": 0,
   "soon_count": 0,
   "windows": [
-    {
-      "artist": "Fool House - The Ultimate 90's Party: WOW! That's What I Call 90's Tour",
-      "bucket": "big",
-      "event": "Fool House - The Ultimate 90's Party: WOW! That's What I Call 90's Tour",
-      "event_id": "rZ7HnEZ1A4vE7N",
-      "event_date": "2027-02-20",
-      "url": "https://www.ticketweb.com/event/fool-house-the-emerald-theatre-tickets/15067123",
-      "venue": "Emerald Theatre",
-      "city": "Mount Clemens",
-      "state": "MI",
-      "label": "Emerald Theatre, Mount Clemens, MI",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-11-27T16:00:00+00:00",
-      "ends": "2027-02-21T03:00:00Z",
-      "id": "rZ7HnEZ1A4vE7N|Public onsale||2026-11-27T16:00:00+00:00"
-    },
-    {
-      "artist": "Jhene Aiko",
-      "bucket": "big",
-      "event": "Club Level Seating: Jhene Aiko",
-      "event_id": "G5vzZ_9khvgl9",
-      "event_date": "2027-04-27",
-      "url": "https://www.ticketmaster.com/club-level-seating-jhene-aiko-denver-colorado-04-27-2027/event/1E0065719B075AD7",
-      "venue": "Ball Arena",
-      "city": "Denver",
-      "state": "CO",
-      "label": "Ball Arena, Denver, CO",
-      "kind": "Public onsale",
-      "presale_name": "",
-      "starts": "2026-11-27T17:00:00+00:00",
-      "ends": "2027-04-28T03:30:00Z",
-      "id": "G5vzZ_9khvgl9|Public onsale||2026-11-27T17:00:00+00:00"
-    },
     {
       "artist": "U2",
       "bucket": "big",
@@ -90,10 +56,10 @@
       "state": "GA",
       "label": "Mercedes-Benz Stadium, Atlanta, GA",
       "kind": "Presale",
-      "presale_name": "U2.com Subscriber Presale Feedback Group",
+      "presale_name": "U2.com Subscriber Presale:Feedback Group",
       "starts": "2026-11-30T15:00:00+00:00",
       "ends": "2026-12-02T03:00:00Z",
-      "id": "vvG1zZ_9oeN-VC|Presale|U2.com Subscriber Presale Feedback Group|2026-11-30T15:00:00+00:00"
+      "id": "vvG1zZ_9oeN-VC|Presale|U2.com Subscriber Presale:Feedback Group|2026-11-30T15:00:00+00:00"
     },
     {
       "artist": "U2",
@@ -515,10 +481,10 @@
       "state": "GA",
       "label": "Mercedes-Benz Stadium, Atlanta, GA",
       "kind": "Presale",
-      "presale_name": "U2.com Presale: Hype Group",
+      "presale_name": "U2.com Subscriber Presale: Hype Group",
       "starts": "2026-12-01T15:00:00+00:00",
       "ends": "2026-12-02T03:00:00Z",
-      "id": "vvG1zZ_9oeN-VC|Presale|U2.com Presale: Hype Group|2026-12-01T15:00:00+00:00"
+      "id": "vvG1zZ_9oeN-VC|Presale|U2.com Subscriber Presale: Hype Group|2026-12-01T15:00:00+00:00"
     },
     {
       "artist": "U2",
@@ -982,6 +948,23 @@
     {
       "artist": "U2",
       "bucket": "big",
+      "event": "U2: The Greatest Show on Earth World Tour",
+      "event_id": "vvG1zZ_9oeN-VC",
+      "event_date": "2027-08-17",
+      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-atlanta-georgia-08-17-2027/event/0E006574428E1D0E",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "state": "GA",
+      "label": "Mercedes-Benz Stadium, Atlanta, GA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-12-02T15:00:00+00:00",
+      "ends": "2026-12-03T03:00:00Z",
+      "id": "vvG1zZ_9oeN-VC|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00"
+    },
+    {
+      "artist": "U2",
+      "bucket": "big",
       "event": "U2",
       "event_id": "1A4Zk4MGkecJg9K",
       "event_date": "2027-08-20",
@@ -1080,6 +1063,23 @@
       "starts": "2026-12-02T15:00:00+00:00",
       "ends": "2026-12-03T03:00:00Z",
       "id": "vv1AvZk4wGkeW2yY8|Presale|Visa Presale|2026-12-02T15:00:00+00:00"
+    },
+    {
+      "artist": "U2",
+      "bucket": "big",
+      "event": "U2: The Greatest Show on Earth World Tour",
+      "event_id": "vv1AvZk4wGkeW2yY8",
+      "event_date": "2027-09-14",
+      "url": "https://www.ticketmaster.com/u2-the-greatest-show-on-earth-foxborough-massachusetts-09-14-2027/event/01006572BD3F9C10",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA",
+      "label": "Gillette Stadium, Foxborough, MA",
+      "kind": "Presale",
+      "presale_name": "VIP Package Presale",
+      "starts": "2026-12-02T15:00:00+00:00",
+      "ends": "2026-12-03T03:00:00Z",
+      "id": "vv1AvZk4wGkeW2yY8|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00"
     },
     {
       "artist": "U2",

@@ -16,10 +16,8 @@
     "G5diZ_p93TPrF|Presale|Verizon Shine Featured Venues|2026-12-04T15:00:00+00:00": "2026-11-21T01:56:02.915096+00:00",
     "1FAOvPqvbJZ78A57|Public onsale||2026-12-04T15:00:00+00:00": "2026-11-23T12:30:19.276606+00:00",
     "16pZk4VAxZAG8A5F|Public onsale||2026-12-04T15:00:00+00:00": "2026-11-23T12:30:19.276606+00:00",
-    "rZ7HnEZ1A4vE7N|Public onsale||2026-11-27T16:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "vvG1VZ_9Anpvtf|Presale|U2.com Subscriber Presale:Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "vvG1VZ_9Anpvtf|Presale|VIP Package Presale: Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
-    "vvG1zZ_9oeN-VC|Presale|U2.com Subscriber Presale Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "vvG1zZ_9oeN-VC|Presale|VIP Package Presale: Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "1A4Zk4MGkecJg9K|Presale|U2.com Subscriber Presale:Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "k7vGF_9KczQx4|Presale|U2.com Subscriber Presale:Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
@@ -41,7 +39,6 @@
     "G5vYZ_9CSlwoQ|Presale|VIP Package Presale: Feedback Group|2026-11-30T18:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "vvG1VZ_9Anpvtf|Presale|U2.com Subscriber Presale:The Hype Group|2026-12-01T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "vvG1VZ_9Anpvtf|Presale|VIP Package Presale: The Hype Group|2026-12-01T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
-    "vvG1zZ_9oeN-VC|Presale|U2.com Presale: Hype Group|2026-12-01T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "vvG1zZ_9oeN-VC|Presale|VIP Package Presale: The Hype Group|2026-12-01T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "1A4Zk4MGkecJg9K|Presale|U2.com Subscriber Presale: Hype Group|2026-12-01T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
     "k7vGF_9KczQx4|Presale|U2.com Subscriber Presale:The Hype Group|2026-12-01T15:00:00+00:00": "2026-11-24T20:39:44.693957+00:00",
@@ -140,10 +137,11 @@
     "vv1AvZk4wGkeW2yY8|Presale|VIP Package Presale|2026-12-03T15:00:00+00:00": "2026-11-25T22:46:19.186884+00:00",
     "vvG1IZ_92XM4u0|Presale|VIP Package Presale|2026-12-03T18:00:00+00:00": "2026-11-25T22:46:19.186884+00:00",
     "vvG1IZ_9GUF1uH|Presale|VIP Package Presale|2026-12-03T18:00:00+00:00": "2026-11-25T22:46:19.186884+00:00",
-    "G5vzZ_9khvgl9|Public onsale||2026-11-27T17:00:00+00:00": "2026-11-27T15:01:41.726520+00:00",
-    "vvG1VZ_9Anpvtf|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00": "2026-11-27T15:01:41.726520+00:00"
+    "vvG1VZ_9Anpvtf|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00": "2026-11-27T15:01:41.726520+00:00",
+    "vvG1zZ_9oeN-VC|Presale|U2.com Subscriber Presale:Feedback Group|2026-11-30T15:00:00+00:00": "2026-11-27T23:26:32.682913+00:00",
+    "vvG1zZ_9oeN-VC|Presale|U2.com Subscriber Presale: Hype Group|2026-12-01T15:00:00+00:00": "2026-11-27T23:26:32.682913+00:00",
+    "vvG1zZ_9oeN-VC|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00": "2026-11-27T23:26:32.682913+00:00",
+    "vv1AvZk4wGkeW2yY8|Presale|VIP Package Presale|2026-12-02T15:00:00+00:00": "2026-11-27T23:26:32.682913+00:00"
   },
-  "reminded": {
-    "rZ7HnEZ1A4vE7N|Public onsale||2026-11-27T16:00:00+00:00": "2026-11-26T23:12:40.669069+00:00"
-  }
+  "reminded": {}
 }
